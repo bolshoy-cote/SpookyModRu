@@ -18,13 +18,13 @@ EmbryoRevival: {
 }
 
 FlyBuff: {
-	DisplayName: Fly Swarm
-	Description: The swarm of flies is protecting you
+	DisplayName: Рой мух
+	Description: Рой мух защищает вас
 }
 
 SkullFrenzyBuff: {
 	DisplayName: Некромантическое безумие
-	Description: Увеличение урона, шанса нанести критический удар, отбрасывание и скорости передвижения
+	Description: Увеличение урона, шанса нанести критический удар, отбрасывания и скорости передвижения
 }
 
 SnottySchnozCooldown: {
@@ -34,7 +34,7 @@ SnottySchnozCooldown: {
 
 BouncerDeathmark: {
 	DisplayName: Skeleton Bouncer Deathmark
-	Description: Stop! You have violated the law!
+	Description: Остановитесь! Вы нарушили закон!
 }
 
 CatacombDebuff: {
@@ -52,7 +52,7 @@ EmbryoCooldown: {
 	Description:
 		'''
 		The embryo's revival must recharge
-		Increases all damage and critical strike chance
+		Увеличивает все типы урона и шанс критического удара
 		'''
 }
 
@@ -67,8 +67,8 @@ EnsnaredDebuff: {
 }
 
 HallucinationDebuff1: {
-	DisplayName: The Man
-	Description: There is no escape
+	DisplayName: Человек
+	Description: Выход отсутсвует
 }
 
 HallucinationDebuff2: {
@@ -77,13 +77,13 @@ HallucinationDebuff2: {
 }
 
 HallucinationDebuff3: {
-	DisplayName: The Horse
-	Description: The horse is here...
+	DisplayName: Лошадь
+	Description: Лошадь здесь...
 }
 
 HallucinationDebuff4: {
-	DisplayName: The Flesh
-	Description: You feel worthless
+	DisplayName: Плоть
+	Description: Ты ощущаешь свою бесполезность
 }
 
 FleshWhipCooldown: {
@@ -112,7 +112,7 @@ FlyCooldown: {
 }
 
 GourdDecay: {
-	DisplayName: Rotting
+	DisplayName: Гниющий
 	Description: ""
 }
 
@@ -127,23 +127,23 @@ PandoraHandCooldown: {
 }
 
 Possessed: {
-	DisplayName: Possessed
-	Description: You are being controlled by an evil ghost!
+	DisplayName: Одержимость
+	Description: Вас контролирует злой дух!
 }
 
 SadDebuff: {
-	DisplayName: Sad
-	Description: 10% decreased damage, and you move slower
+	DisplayName: Грусть
+	Description: Урон уменьшен на 10%, вы двигаетесь медленнее
 }
 
 ThornMark: {
-	DisplayName: Thorn Mark
+	DisplayName: Шипастая метка (Метка шипа?)
 	Description: ""
 }
 
 BrainyBuff: {
-	DisplayName: Brainy
-	Description: Brainy suspiciously follows you
+	DisplayName: Мозговитый
+	Description: Мозговитый с подозрением преследует вас
 }
 
 DaffodilHandBuff: {
@@ -152,33 +152,33 @@ DaffodilHandBuff: {
 }
 
 EntityMinionBuff: {
-	DisplayName: Little Entity
-	Description: The baby entity will fight with you
+	DisplayName: Маленькая Сущность
+	Description: Маленькая Сущность сражается за вас
 }
 
 EyeArmorMinionBuff: {
-	DisplayName: Lil Eye
-	Description: The tiny eye will help protect you!
+	DisplayName: Глазастая кроха
+	Description: Маленький глаз помогает вам защищаться!
 }
 
 GrugBuff: {
-	DisplayName: Gargoyle
-	Description: Grug the gargoyle protects you!
+	DisplayName: Гаргулья
+	Description: Грэг горгулья защищает тебя!
 }
 
 NoseMinionBuff: {
-	DisplayName: Nose Fly
-	Description: The nose buzzes around you
+	DisplayName: Нос-муха
+	Description: Нос жужжит вокруг вас
 }
 
 OldHunterBuff: {
-	DisplayName: Old Hunter Souls
-	Description: The souls of the hunters will protect you
+	DisplayName: Души старых охотников
+	Description: Души охотников защитят вас
 }
 
 PumpkinHeadBuff: {
-	DisplayName: Pumpkin Head
-	Description: Your head is now fighting with you!
+	DisplayName: Тыквенная голова
+	Description: Твоя голова теперь сражается за тебя!
 }
 
 RotGourdMinionBuff: {
@@ -192,13 +192,13 @@ SkullWispBuff: {
 }
 
 SoulSkullBuff: {
-	DisplayName: Soul Skull
-	Description: The soul skull will fight with you
+	DisplayName: Череп-призрак
+	Description: Череп-призрак сражается за вас
 }
 
 SkullTotemBuff: {
-	DisplayName: Skull Idol Empowerment
-	Description: Increased summon damage, whip range, and +2 max minions
+	DisplayName: Усиление черепного тотема
+	Description: Вы получили величенный урон призывателя, дальность хлыста, а также 2 слота для миньонов
 }
 
 TortumorMinionBuff: {
@@ -207,8 +207,8 @@ TortumorMinionBuff: {
 }
 
 BigBonePetBuff: {
-	DisplayName: Baby Bone
-	Description: It may be absorbing your nutrients
+	DisplayName: Крошка-кость
+	Description: Ыозможно, он поглощает ваше тело
 }
 
 CatBuff: {
@@ -232,13 +232,13 @@ FuzzBatPetBuff: {
 }
 
 GhostPetBuff: {
-	DisplayName: Little Ghost
-	Description: A spooky little ghost will guide you
+	DisplayName: Маленький призрак
+	Description: Жуткий маленький призрак покажет вам путь
 }
 
 MocoPetBuff: {
-	DisplayName: Baby Moco
-	Description: Sniffle... Achooo!
+	DisplayName: Крошка Моко
+	Description: Нюх-нюх... Апчхииии!
 }
 
 PandoraBeanBuff: {
@@ -247,13 +247,13 @@ PandoraBeanBuff: {
 }
 
 PetscopBuff: {
-	DisplayName: Guardian
-	Description: The newmaker
+	DisplayName: Защитник
+	Description: Создатель нового
 }
 
 PetscopMarvinBuff: {
-	DisplayName: Marvin
-	Description: Marvin picks up tool
+	DisplayName: Марвин
+	Description: Марвин поднимает инструмент
 }
 
 PetscopTiaraBuff: {
@@ -297,23 +297,23 @@ ValleyNautilusBuff: {
 }
 
 AlternateCooldown: {
-	DisplayName: Alternate Cooldown
-	Description: You cannot spawn your alternate
+	DisplayName: Перезарядка доппельгангера
+	Description: Вы не можете призвать своего доппельгангера
 }
 
 BackroomsDecay: {
-	DisplayName: Backrooms Decay
+	DisplayName: Разложение закулисья
 	Description: ""
 }
 
 MonumentMythosCooldown: {
 	DisplayName: Freedom Containment Cooldown
-	Description: Your glass pyramid is regenerating
+	Description: Ваша стеклянная пирамида восстанавливается
 }
 
 MonumentMythosShatter: {
 	DisplayName: Freedom Containment Shatter
-	Description: You take 2x damage from all attacks
+	Description: Вы получаете в два раза больше урона ото всех источников
 }
 
 InchwormBuff: {
@@ -328,25 +328,25 @@ SlendermanPageBuff: {
 
 HerobrineAltarCooldown: {
 	DisplayName: Blocky Altar Cooldown
-	Description: You cannot summon lightning
+	Description: Вы не можете призвать молнию
 }
 
 SpiderArmorStealth: {
 	DisplayName: Spi-Ops Stealth
 	Description:
 		'''
-		Enemies will not target you
-		12% increased damage reduction
+		Враги реже будут выбирать вас в качестве цели
+		Сопротивление урону увеличено на 12%
 		'''
 }
 
 SpiderStealthCooldown: {
 	DisplayName: Spi-Ops Stealth Cooldown
-	Description: You cannot enter spider stealth
+	Description: Вы не можете применить паучью скрытность
 }
 
 WhipSpiderAggression: {
-	DisplayName: Spider Pheromones
+	DisplayName: Паучьи феромоны
 	Description: Spider grotto creatures are more aggressive
 }
 
@@ -362,7 +362,7 @@ TrapdoorSpiderMountBuff: {
 
 SpiderBabyBuff: {
 	DisplayName: Паучки
-	Description: They have imprinted on you
+	Description: Они наследили на вас
 }
 
 HunterScarfMark: {
@@ -391,8 +391,8 @@ BlueberryFrost: {
 }
 
 StrawberryBoostBuff: {
-	DisplayName: Strawberry Boost
-	Description: Increase to damage, crit chance, and knockback
+	DisplayName: Клубничное усиление
+	Description: Увеличены урон, шанс критического удара и отбрасывание
 }
 
 LeechBuff: {
@@ -466,8 +466,8 @@ GlassEyeDebuff: {
 }
 
 GlassEyeCooldown: {
-	DisplayName: Glass Eye Shattered
-	Description: Your glass eye has been shattered
+	DisplayName: Стеклянный глаз разбился
+	Description: Ваш стеклянный глаз разбился
 }
 
 StitchedCloakCooldown: {
@@ -482,7 +482,7 @@ StitchedCloakWebSlow: {
 
 OrroboroPetBuff: {
 	DisplayName: Кольцо Орроборо
-	Description: Черви, медленно моглащающие друг друга
+	Description: Черви, медленно поглощающие друг друга
 }
 
 EggEventEnemyBuff: {
@@ -491,8 +491,8 @@ EggEventEnemyBuff: {
 }
 
 ZombieCultistPetBuff: {
-	DisplayName: Zombie Nose Cultist
-	Description: It probably wants its brain back
+	DisplayName: Культист зомби-носа
+	Description: Скорее всего хочет вернуть свои мозги
 }
 
 BeePetBuff: {
@@ -502,7 +502,7 @@ BeePetBuff: {
 
 RatPetBuff: {
 	DisplayName: Albino Rat
-	Description: Cute and probably carries disease!
+	Description: Милый и, возможно, заразный!
 }
 
 PuttyPetBuff: {
