@@ -1,0 +1,3823 @@
+StrawberryBoost: {
+	DisplayName: Горная земляника
+	Tooltip: ""
+}
+DandelionHerd: {
+	DisplayName: Горстка одуванчиков
+	Tooltip:
+		'''
+		Вы будете оставлять за собой падающие одуванчики во время полёта на крыльях
+		Одуванчики слабо самонаводятся на врагов и наносят им тем больше урона, чем больше максимальное время полёта ваших крыльев
+		Длительность действия эффекта: 2 мин.
+		'''
+}
+DandelionMapleSeed: {
+	DisplayName: Кленовый вертолётик
+	Tooltip:
+		'''
+		Вы будете оставлять за собой парящие в воздухе семена клёна во время полёта на крыльях
+		Подбор этих семян восполняет часть времени полёта ваших крыльев
+		Длительность действия эффекта: 4 мин.
+		'''
+}
+DandelionTumbleweed: {
+	DisplayName: Перекати-поле
+	Tooltip:
+		'''
+		Попадания по врагам, пока вы летаете на крыльях, с некоторым шансом будут вызывать атакующие перекати-поля
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+Dragonfruit: {
+	DisplayName: Дивадраконий фрукт
+	Tooltip:
+		'''
+		Призывает драконий фрукт, который вращается вокруг вас и бросается на ближайших врагов
+		После того как фрукт дотрагивается до врага, он ломается и появится снова лишь спустя несколько секунд
+		Этот предмет можно использовать повторно, чтобы призвать сразу несколько фруктов вплоть до 10 штук
+		Длительность действия эффекта: 3 мин.
+		'''
+}
+FallGourd: {
+	DisplayName: Кабачок
+	Tooltip:
+		'''
+		Увеличивает урон на 15%, пока вы падаете
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+FallSoulPumpkin: {
+	DisplayName: Полтыквгейст
+	Tooltip:
+		'''
+		Периодически призывает мерзкую тыковку, медленно самонаводящуюся на ближайших врагов
+		Мерзкие тыковки поджигают атакованных врагов на короткое время
+		Длительность действия эффекта: 4 мин.
+		'''
+}
+FallWaterGourd: {
+	DisplayName: Тыкволейка
+	Tooltip:
+		'''
+		Сбор полностью созревших цветений с некоторым шансом даёт дополнительное цветение или семена
+		Длительность действия эффекта: 10 мин.
+		'''
+}
+FallZucchini: {
+	DisplayName: Электроцукини
+	Tooltip:
+		'''
+		Периодически бьёт ближайших врагов зарядами электричества
+		Длительность действия эффекта: 2 мин.
+		'''
+}
+SpringHeartFlower: {
+	DisplayName: Кровоточащее сердце
+	Tooltip:
+		'''
+		Увеличивает регенерацию здоровья за каждую занятый слот эффектов цветений, в том числе за занятый собой слот
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+SpringIris: {
+	DisplayName: Анютины глазки
+	Tooltip:
+		'''
+		Каждую минуту на вашем курсоре будет вырастать глаз, а рядом с вами появится лепесток цветка
+		Лепесток будет лететь за глазом и постепенно ускоряться, а также наносить урон всем врагам на своём пути
+		И глаз и лепесток погибнут, если коснутся друг друга
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+SpringOrchid: {
+	DisplayName: Обезьянья орхидея
+	Tooltip:
+		'''
+		Атаки оружием с некоторым шансом будут выпускать несколько сюрикенов обезьяней орхидеи
+		Урон сюрикенов зависит от базового урона используемого оружия
+		Длительность действия эффекта: 4 мин.
+		'''
+}
+SpringRose: {
+	DisplayName: Шипастая роза
+	Tooltip:
+		'''
+		Создаёт вокруг вас шипастое кольцо, наносящее небольшой урон врагам при соприкосновении
+		С небольшим шансом может наложить дебафф «Кровотечение» на врагов
+		Длительность действия эффекта: 6 мин.
+		'''
+}
+SummerLemon: {
+	DisplayName: Множителимон
+	Tooltip:
+		'''
+		Атаки оружием с некоторым шансом будут выпускать гранаты-лимонки
+		Каждый раз количество выпускаемых гранат-лимонов будет увеличиваться, если не переставать атаковать
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+SummerOrange: {
+	DisplayName: Разъярённый апельсин
+	Tooltip:
+		'''
+		Призывает раъярённый апельсин, вращающийся вокруг вас, пока вы двигаетесь
+		Апельсин наносит урон и поджигает врагов на своём пути
+		Чем быстрее вы двигаетесь, тем больше апельсин наносит урона и быстрее вращается
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+SummerPineapple: {
+	DisplayName: Ананасовые фишки для покера
+	Tooltip:
+		'''
+		Увеличивает урон критических ударов на 35%, но вдвое снижает шанс нанести критический удар
+		Критические удары также будут восстанавливать вам немного здоровья
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+SummerSunflower: {
+	DisplayName: Подсолнух-глазунья
+	Tooltip:
+		'''
+		Значительно ускоряет рост всех цветений
+		Даёт бафф «Счастье!» на 2 минуты
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+WinterBlackberry: {
+	DisplayName: Черничный леденец
+	Tooltip:
+		'''
+		Использование цветений с некоторым шансом может удвоить длительность действия их эффектов
+		Длительность действия эффекта: 2 мин.
+		'''
+}
+WinterBlueberry: {
+	DisplayName: Грустника
+	Tooltip:
+		'''
+		Попадания по врагам с некоторым шансом могут облить их ледяным соком голубики, замедляющим их скорость передвижения
+		Сок голубики распротраняется на ближайших к изначально облитой цели врагов
+		Длительность действия эффекта: 4 мин.
+		'''
+}
+WinterGooseberry: {
+	DisplayName: Спелый крыжовник
+	Tooltip:
+		'''
+		Каждое третье попадание по врагу с 33%-ным шансом заставляет его подбросить вверх крыжовник
+		Подбор крыжовника даёт вам бафф на 4 секунды, увеличивающий регенерацию здоровья и ускорение на 15%
+		Крыжовник уничтожается при контакте с врагами или снарядами
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+WinterStrawberry: {
+	DisplayName: Горная земляника
+	Tooltip:
+		'''
+		Призывает горную землянику каждые 40 секунд
+		Подбор земляники даёт вам бафф на 10 секунд, увеличивающий урон, шанс критического удара и силу отбрасывания на 10%
+		Длительность действия эффекта: 5 мин.
+		'''
+}
+
+BoneMask: {
+	DisplayName: Древняя маска черепа
+	Tooltip:
+		'''
+		Выпускает самонаводяхся духов во все стороны, пока вы двигаетесь
+		Чем быстрее вы двигаетесь, тем чаще выпускаются духи и тем больше урона они наносят
+		'''
+}
+
+DaffodilHairpin: {
+	DisplayName: Заколка-цветочек
+	Tooltip:
+		'''
+		Образует вокруг вас кольцо из лепестков, наносящее уйму урона врагам при столкновении
+		Кольцо распадается при получении урона, но отрастает обратно, если вы не получали урон в течение 1 минуты
+		'''
+}
+
+FlyCharm: {
+	DisplayName: Талисман мух
+	Tooltip:
+		'''
+		Вокруг вас постененно собирается рой из мух вплоть до 10 особей
+		Каждая муха даёт вам одну единицу защиты
+		Все мухи умирают при получении вами урона и начинают появляться снова только через 30 секунд
+		'''
+}
+
+MocoNose: {
+	DisplayName: Сопливый носище
+	Tooltip:
+		'''
+		Нанесение урона врагам разбрасывает сгустки соплей вокруг них
+		Подбор этих сгустков заполняет вашу шкалу соплей
+		Любая атака оружием с полной шкалой выпустит шквал самонаводящихся соплей
+		Сгустки соплей не смогут появляться в течение следующих 30 секунд после срабатывания этого эффекта
+		Урон и скорость полёта самонаводящихся соплей зависят от базовых характеристик оружия в ваших руках
+		'''
+}
+
+MocoNoseBooger: {
+	DisplayName: Сопля
+	Tooltip: ""
+}
+
+OrroboroEmbryo: {
+	DisplayName: Неупокоенный зародыш
+	Tooltip:
+		'''
+		Возрождает вас после вашей смерти и даёт мощную прибавку к регенерации здоровья и защите на короткое время
+		Эффекту возрождения требуется десять минут перезарядки перед повторным срабатыванием
+		Однако в течение этих десяти минут ваш урон и шанс критического удара будут увеличены на 8%
+		'''
+}
+
+SpiritAmulet: {
+	DisplayName: Кулон духов
+	Tooltip:
+		'''
+		Увеличивает скорость передвижения на 20%
+		Иногда выпускает маленьких самонаводяхся духов при получении урона
+		'''
+}
+
+BossBagBigBone: {
+	DisplayName: Мешок с сокровищами (Исполинский череп)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BossBagDaffodil: {
+	DisplayName: Мешок с сокровищами (Нарцисс)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BossBagMoco: {
+	DisplayName: Мешок с сокровищами (Моко)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BossBagOrroboro: {
+	DisplayName: Мешок с сокровищами (Орро и Боро)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BossBagRotGourd: {
+	DisplayName: Мешок с сокровищами (Гнилая тыква)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BossBagSpookySpirit: {
+	DisplayName: Мешок с сокровищами (Жуткий дух)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Brick: {
+	DisplayName: Тяжёлый кирпич
+	Tooltip:
+		'''
+		Можно бросить в кого-нибудь спящего, чтобы разбудить его
+		Пробуждает Нарцисс, если бросить кирпич в неё
+		'''
+}
+
+Concoction: {
+	DisplayName: Кислотный отвар
+	Tooltip:
+		'''
+		Не расходуется
+		Крайне едкая жидкость, изготовленная из самых мерзких ингредиентов
+		Нажмите ПКМ по гигантскому яйцу с этим предметом в инвентаре, чтобы растворить его барьер
+		'''
+}
+
+CottonSwab: {
+	DisplayName: Ватная палочка
+	Tooltip:
+		'''
+		Не расходуется
+		Подозрительно большая ватная палочка
+		Начинает носовой ритуал при использовании в святилище носового бога
+		'''
+}
+
+CowBell: {
+	DisplayName: Ржавый колокольчик
+	Tooltip: Старинный колокольчик с загадочным происхождением
+}
+
+EMFReader: {
+	DisplayName: Измеритель ЭМП
+	Tooltip:
+		'''
+		Не расходуется
+		Использется для обнаружения паранормальных явлений
+		Призывает Жуткого духа при использовании на проклятой статуе ночью
+		'''
+}
+
+EMFReaderBroke: {
+	DisplayName: Сломанный измеритель ЭМП
+	Tooltip: Почините, чтобы использовать для охоты на привидений
+}
+
+Fertilizer: {
+	DisplayName: Причудливое удобрение
+	Tooltip:
+		'''
+		Воняющая груда земли и костей
+		Призывает Исполинского черепа при использовании рядом с гигантским цветочным горшоком
+		'''
+}
+
+RottenSeed: {
+	DisplayName: Прогнившее семя
+	Tooltip: Призывает Гнилую тыкву при использовании в жутком лесу
+}
+
+StrangeCyst: {
+	DisplayName: Странная киста
+	Tooltip: Нажмите ПКМ по гигантскому яйцу, держа странную кисту в инвентаре, чтобы начать яичное нашествие.
+}
+
+FlowerBody: {
+	DisplayName: Рубаха шипастого стебля
+	Tooltip:
+		'''
+		Увеличивает урон и шанс критического удара на 15%
+		Наносит контактный урон прикасающимся к вам врагам
+		'''
+}
+
+FlowerHead: {
+	DisplayName: Маска цветка
+	Tooltip:
+		'''
+		Снижает расход маны на 15%
+		Увеличивает призываемое число миньонов на 2
+		Увеличивает призываемое число часовых на 1
+		'''
+}
+
+FlowerLegs: {
+	DisplayName: Большой цветочный горшок
+	Tooltip:
+		'''
+		Даёт невосприимчивость к отбрасыванию
+		Снижает получаемый урон на 8%
+		Значительно увеличивает скорость падения
+		'''
+}
+
+CatacombKey1: {
+	DisplayName: Ключ от жёлтого люка
+	Tooltip: Открывает люк с жёлтым замком в катакомбах
+}
+
+CatacombKey2: {
+	DisplayName: Ключ от красного люка
+	Tooltip: Открывает люк с красным замком в катакомбах
+}
+
+CatacombKey3: {
+	DisplayName: Ключ от оранжевого люка
+	Tooltip: Открывает люк с оранжевым замком в катакомбах
+}
+
+PlantChunk: {
+	DisplayName: Комок растительности
+	Tooltip: Кусочек тканей растений
+}
+
+Slot3Unlocker: {
+	DisplayName: Ленточка 2-го места цветенья
+	Tooltip: Открывает третий слот под эффекты цветений
+}
+
+Slot4Unlocker: {
+	DisplayName: Ленточка 1-го места цветенья
+	Tooltip: Открывает четвёртый слот под эффекты цветений
+}
+
+BigBoneBow: {
+	DisplayName: Цветочный залп
+	Tooltip:
+		'''
+		Нажмите ЛКМ, чтобы быстро стрелять самонаводящимися розами, пронзающими врагов
+		Нажмите ПКМ, чтобы выпустить останавливающийся на месте шипастый цветок, накладывающий на врагов метку шипов
+		Враги с меткой шипов получают значительно больше урона от этого оружия
+		10%-ный шанс не использовать боеприпасы
+		'''
+}
+
+BigBoneHammer: {
+	DisplayName: Череполом
+	Tooltip:
+		'''
+		Нажмите ЛКМ, чтобы быстро метать молот на короткую дистанцию
+		Удерживайте ПКМ, чтобы раскрутить молот вокруг себя и зарядить мощный бросок
+		Полностью зарядив бросок, отпустите ПКМ, чтобы запульнуть молотом с невиданной силой
+		'''
+}
+
+BigBoneScepter: {
+	DisplayName: Скипетр идола черепов
+	Tooltip:
+		'''
+		Нажмите ЛКМ, чтобы призвать черепов-духов, атакующих ваших врагов рывками и залпами магии
+		Нажмите ПКМ, чтобы установить идол черепов на месте вашего курсора на 1 минуту
+		Находясь в радиусе действия идола, вы получаете различные прибавки к характеристикам призывателя
+		'''
+}
+
+BigBoneStaff: {
+	DisplayName: Посох пламенной сферы
+	Tooltip:
+		'''
+		Нажмите ЛКМ, чтобы выпустить залп из огненных снарядов, отскакивающих от блоков
+		Нажмите ПКМ, чтобы высвободить мощный самонаводящийся луч огня
+		'''
+}
+
+CrossCharm: {
+	DisplayName: Крестик-оберег
+	Tooltip:
+		'''
+		Призывает магический крест, увеличивающий защиту на 15 ед.
+		Крест пропадает после получения вами урона и восстанавливается только через 10 секунд
+		'''
+}
+
+DaffodilBlade: {
+	DisplayName: Колючий кинжал
+	Tooltip: Быстрый кинжал, удары которым изредка могут отравить врагов
+}
+
+DaffodilBow: {
+	DisplayName: Мухобой
+	Tooltip:
+		'''
+		Превращает любые стрелы в мух, имеющих небольшую самонаводку
+		Удерживайте, чтобы зарядить лук и выпустить большее количество мух при выстреле
+		'''
+}
+
+DaffodilRod: {
+	DisplayName: Жезл подсолнуха
+	Tooltip: Выпускает самонаводящиеся цветы подсолнуха, отскакивающие от поверхностей
+}
+
+DaffodilStaff: {
+	DisplayName: Посох стебля-боксёра
+	Tooltip:
+		'''
+		Призывает огромные руки-растения, бьющие ближайших врагов своим кулаком
+		Каждая рука занимает один слот под миньонов, но одновременно может существовать не более двух рук
+		'''
+}
+
+FemurFracture: {
+	DisplayName: Перелом бедренной кости
+	Tooltip:
+		'''
+		Удерживайте ЛКМ, чтобы раскрутить молот вокруг себя и зарядить мощный бросок
+		Продолжайте раскручивать молот после зарядки броска, чтобы сверхзарядить его
+		Зарядив бросок, отпустите ЛКМ, чтобы запульнуть молотом с невиданной силой
+		Сверхзаряженный молот при броске оставляет за собой самонаводящиеся черепа
+		«То что нужно, чтобы попереломать все косточки вашим врагам!»
+		'''
+}
+
+FlameIdol: {
+	DisplayName: Идол пламени
+	Tooltip: Удерживайте ЛКМ, чтобы создать сильную огненную ауру
+}
+
+GlowBulb: {
+	DisplayName: Бомбоплод
+	Tooltip:
+		'''
+		Бросает взрывные луковицы, прилипающие к блокам
+		Луковицы взрываются при соприкосновении с врагами и выпускают уйму мелких шипов
+		'''
+}
+
+GraveCrossbow: {
+	DisplayName: Арбалет старого охотника
+	Tooltip:
+		'''
+		Удерживайте ЛКМ, чтобы зарядить мощный выстрел стрелой, пронзающей врагов
+		Чем дольше вы заряжали выстрел, тем быстрее будет лететь стрела и тем больше урона она нанесёт
+		'''
+}
+
+HarvesterScythe: {
+	DisplayName: Коса жнеца
+	Tooltip:
+		'''
+		Удары по врагам накапливают вокруг вас души
+		Накопив 10 душ, все они начнут самонаводиться на ближайших врагов
+		'''
+}
+
+HunterSoulScepter: {
+	DisplayName: Скипетр душегуба
+	Tooltip:
+		'''
+		Призывает призраков старых охотников, сражающихся за вас
+		Нажмите ПКМ, чтобы сменить тип призываемых призраков
+		Всего есть три типа: воин, стрелок и маг, каждый из которых имеет свои особенности поведения
+		'''
+}
+
+NineTails: {
+	DisplayName: Кошка-девятихвостка
+	Tooltip:
+		'''
+		Размахивает множеством коротких, но очень больно бьющих хлыстов
+		«Нет никакого стоп-слова»
+		'''
+}
+
+OldRifle: {
+	DisplayName: Винтовка старого охотника
+	Tooltip: Стреляет ржавыми пулями, разрывающимися на несколько осколков при столкновении с блоками или врагами
+}
+
+PandoraAmalgam: {
+	DisplayName: Амальгуль
+	Tooltip:
+		'''
+		Даёт эффекты всех аксессуаров ящика Пандоры
+		Восстановление маны призывает сгустки экоплазмы, наносящие тем больше урона, чем больше маны было восстановлено
+		Нажмите горячую кливишу, чтобы выпустить очередь из звуковых волн, наносящих урон и вам и врагам
+		Каждые 5 секунд вокруг вас будут появляются летающие руки, восстанавливающие ваше здоровье при получении урона
+		Переодически цепляет на ближайшего врага кандалы, увеличивающие наносимый по этому врагу урон
+		'''
+}
+
+PandoraChalice: {
+	DisplayName: Несвятой Грааль
+	Tooltip:
+		'''
+		Восстановление маны призывает сгустки экоплазмы вплоть до 6 штук, наносящие тем больше урона, чем больше маны было восстановлено
+		Сгустки эктоплазмы разлетаются через некоторое время и самонаводятся на ближайших врагов
+		«Вам не стоит садится за руль после этого»
+		'''
+}
+
+PandoraCross: {
+	DisplayName: Крест
+	Tooltip:
+		'''
+		Нажмите горячую клавишу, чтобы выпустить очередь из звуковых волн
+		Звуковые волны наносят урон врагам, но также наносят немного урона и вам
+		Эта способность перезаряжается 40 секунд
+		«Душераздирающий бас»
+		'''
+}
+
+PandoraCuffs: {
+	DisplayName: Кандалы Самсона
+	Tooltip:
+		'''
+		Снижает наносимый урон и скорость передвижения на 10%
+		Каждые 15 секунд цепляет на ближайшего врага кандалы на 5 секунд, увеличивающие наносимый по этому врагу урон на 50%
+		Кандалы в первую очередь будут стараться нацепиться на боссов, нежели на обычных врагов
+		«Страдания закаляют душу»
+		'''
+}
+
+PandoraRosary: {
+	DisplayName: Мерзкий розарий
+	Tooltip:
+		'''
+		Каждые 5 секунд вокруг вас будут появляются летающие руки, восстанавливающие ваше здоровье при получении урона
+		Руки не смогут появляться в течение 12 секунд после получения удара
+		«Жуткие воскресенья»
+		'''
+}
+
+RustyRing: {
+	DisplayName: Ржавое кольцо
+	Tooltip:
+		'''
+		Увеличивает максимальный запас здоровья на 60 ед.
+		Увеличивает скорость регенерации здоровья
+		Даёт эффект зелья шахтёра, пока вы находитесь в темнице или в катакомбах
+		'''
+}
+
+SkullAmulet: {
+	DisplayName: Амулет черепов
+	Tooltip:
+		'''
+		Позволяет поглощать души убитых врагов
+		После поглощения 10 душ, вы впадаете в безумие на 10 секунд
+		В состоянии безумия вы получаете бонусы к различным характеристикам
+		'''
+}
+
+ThornStaff: {
+	DisplayName: Жезл ловчего
+	Tooltip:
+		'''
+		Выпускает комки шипов, отравляющие и обездвижиющие обычных врагов
+		Один и тот же враг не может быть пойман комком шипов чаще, чем раз в 15 секунд
+		Эффект отравления длится дольше на боссах
+		'''
+}
+
+SpiritHorsemanBody: {
+	DisplayName: Кольчуга духа-всадника
+	Tooltip: Увеличивает урон на 5%
+}
+
+SpiritHorsemanHead: {
+	DisplayName: Тыква духа-всадника
+	Tooltip: Увеличивает шанс критического удара на 5%
+}
+
+SpiritHorsemanLegs: {
+	DisplayName: Поножи духа-всадника
+	Tooltip: Увеличивает скорость передвижения на 12%
+}
+
+BackroomsCorpse: {
+	DisplayName: Отрубленная голова
+	Tooltip:
+		'''
+		Призывает летающую голову, заставляющую ближайших врагов гнить заживо
+		Гниение наносит переодический урон, но не действует на врагов, чеё уровень здоровья ниже половины
+		Гниение наносит меньше урона боссам
+		«Словно части тела моего перестали разлагаться»
+		'''
+}
+
+CarnisFlavorEnhancer: {
+	DisplayName: Усилитель вкуса
+	Tooltip:
+		'''
+		Вы оставляете за собой след из спор, наклажывающих различные дебаффы на врагов
+		Накладываемые дебаффы будут сильнее, если вы находитесь под действием баффа сытости
+		Степень усиления зависит от уровня баффа сытости
+		«Подходит каждому блюду»
+		'''
+}
+
+GeminiEntertainmentGame: {
+	DisplayName: Странная видеоигра
+	Tooltip:
+		'''
+		Периодически призывает Насмешку природы на короткое время
+		Насмешка природы высасывает здоровье из врагов поблизости и восстанавливает его вам
+		«Давай же, накорми лес»
+		'''
+}
+
+HerobrineAltar: {
+	DisplayName: Алтарь из блоков
+	Tooltip:
+		'''
+		Нажмите горячую клавишу, чтобы мощно ударить молнией по месту, на которое наведён курсор
+		Молния наносит 15% максимального здоровья боссам
+		Эта способность перезаряжается 2 минуты
+		«Херобрин приди»
+		'''
+}
+
+Local58Telescope: {
+	DisplayName: Телескоп
+	Tooltip:
+		'''
+		Призывает огромных размеров луну, вращающуюся вокруг вас 
+		В дневное время суток луна будет вращаться близко к вам и отражать слабые снаряды врагов
+		В ночное время суток луна будет вращаться подальше от вас и наносить урон врагам при столкновении
+		«У каждого лорда есть свой трон»
+		'''
+}
+
+MandelaCatalogueTV: {
+	DisplayName: Аналоговый телевизор
+	Tooltip:
+		'''
+		Нажмите горячую клавишу, чтобы призвать своего доппельгангера
+		Доппельгангер будет следовать за вами несколько секунд и замедлять ближайших врагов
+		Эта способность перезаряжается 1 минуту
+		«You are not the real you»
+		'''
+}
+
+MonumentMythosPyramid: {
+	DisplayName: Стеклянная пирамида
+	Tooltip:
+		'''
+		Помещает вас в стеклянный барьер-пирамиду
+		Пирамида существенно снижает получаемый урон, но раскалывается после получения трёх ударов
+		Вы будете получать вдвое больше урона в течение 10 секунд после того, как пирамида раскололась
+		Пирамида восстановится спустя минуту
+		«Она впала в спячку»
+		'''
+}
+
+PolybiusArcadeGame: {
+	DisplayName: Arcade Cabinet
+	Tooltip:
+		'''
+		Summons a damaging blue spiral on your cursor
+		Stores 5 charges and looses a charge upon hitting an enemy
+		Constantly regenerates charges if it hasn't hit an enemy
+		'Classified information not to be meddled with'
+		'''
+}
+
+RedGodzillaCartridge: {
+	DisplayName: NES Cartridge
+	Tooltip:
+		'''
+		Upon damaging an enemy, there is a rare chance to summon a red apparition
+		The red apparition will deal a huge amount of damage to the enemy you hit
+		'King of monsters'
+		'''
+}
+
+RedMistClarinet: {
+	DisplayName: Dreadful Clarinet
+	Tooltip:
+		'''
+		Critical hits will sometimes spawn an orbiting note that will chase enemies
+		There is a 2 second cooldown before you can spawn another note
+		'Your worst and last performance'
+		'''
+}
+
+SlendermanPage: {
+	DisplayName: The Eighth Page
+	Tooltip:
+		'''
+		Spawns some black tentacles attached to you that will attack nearby enemies
+		Enemies killed by the tentacles will sometimes drop pages you can pick up
+		Picking up these pages will temporarily buff your tentacles
+		'Don't look'
+		'''
+}
+
+SlendermanBuffPage: {
+	DisplayName: Creepy Page
+	Tooltip: ""
+}
+
+SmileDogPicture: {
+	DisplayName: Creepy Dog Photo
+	Tooltip:
+		'''
+		Summons a smiling puppy to follow you and maul nearby enemies
+		Every 3 minutes, the dog will attack you for 10 seconds before returning to normal
+		'That dog is messed up'
+		'''
+}
+
+AnalogHorrorTape: {
+	DisplayName: Apocalypse Mixtape
+	Tooltip:
+		'''
+		Grants the effects of every analog horror accessory
+		You will sometimes spawn nature's mockery that sap life from enemies
+		Press the Accessory Hotkey to summon an alternate that slows down nearby enemies
+		Moving will spawn spores that inflict debuffs, becomes stronger if you have well fed buffs
+		Spawns a floating head that decays nearby enemies above half health, rapidly draining their health
+		Summons an orbiting moon that can reflect weaker hostile projectiles and damage enemies
+		Grants you a glass pyramid that gives you high defense for 3 hits and then shatters
+		You will take double damage for 10 seconds after the pyramid shatters
+		'''
+}
+
+Creepypasta: {
+	DisplayName: Криповая паста
+	Tooltip:
+		'''
+		Grants the effects of every creepypasta accessory
+		Summons a damaging blue spiral on your cursor with 5 charges that damages enemies
+		Summons a smiling puppy that will maul nearby enemies
+		Critical hits may spawn orbiting red notes that will attack enemies
+		Summons black tentacles to attack nearby enemies, enemies killed by them may drop pages that buff them
+		Damaging enemies has a rare chance to spawn a red apparition to deal massive damage to them
+		Press the Accessory Hotkey to summon lighting that smites enemies and deals lots of damage to bosses
+		'''
+}
+
+CemeteryKey: {
+	DisplayName: Ключ заболоченного кладбища
+	Tooltip:
+		'''
+		Отпирает сундук заболоченного кладбища в темнице
+		Не может быть использован до победы над Плантерой
+		'''
+}
+
+CemeterySolution: {
+	DisplayName: Тёмно-зелёный раствор
+	Tooltip:
+		'''
+		Используется «Очизнителем»
+		Распространяет заболоченное кладбище
+		'''
+}
+
+DiscoSkull: {
+	DisplayName: Disco Skull
+	Tooltip: Fires out homing rainbow party skulls
+}
+
+GraveDiggerShovel: {
+	DisplayName: Cemetery Digger's Shovel
+	Tooltip: Bash enemies with a rusty shovel
+}
+
+PartyNailgun: {
+	DisplayName: Spook-02 Necromantic Machine Pistol
+	Tooltip:
+		'''
+		The newest self-defense weapon in the necromancy weapons scene
+		Rapidly fires out bolts that completely ignore enemy defense
+		Has its own special ammo stored inside of it that regenerates over time
+		'''
+}
+
+SpiritHandStaff: {
+	DisplayName: Жезл рук
+	Tooltip:
+		'''
+		Призывает жуткие руки из земли
+		Руки не могут быть призваны, если ваш курсор находится слишком далеко от какой-либо поверхности
+		'''
+}
+
+SpiritScroll: {
+	DisplayName: Жуткий свиток
+	Tooltip:
+		'''
+		Выпускает тыквенные головы, который заряжаются и наводятся на ближайшего врага
+		Тыквенные головы взрываются после попадания по врагу или спустя некоторое время бездействия
+		Не требует наличие свободних слотов под миньонов для использования, но вы не можете призывать более 5 голов за раз
+		'''
+}
+
+SpiritSlingshot: {
+	DisplayName: Призрачная рогатка
+	Tooltip:
+		'''
+		Использует замшелые камушки в качестве боеприпасов
+		Удерживайте, чтоба зарядить рогатку
+		Превращает замшелые камушки в призрачные шары, быстро отскакивающие от поверхностей и врагов
+		'''
+}
+
+SpiritSword: {
+	DisplayName: Жуткий громила
+	Tooltip: Вызывает взрывающие черепа при поподании по врагу
+}
+
+BananalizardHead: {
+	DisplayName: Маска BananaLizard
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+BanditHat: {
+	DisplayName: Бандитская шляпа
+	Tooltip: ""
+}
+
+BigBoneMask: {
+	DisplayName: Маска Исполинского черепа
+	Tooltip: ""
+}
+
+BoroMask: {
+	DisplayName: Маска Боро
+	Tooltip: ""
+}
+
+DaffodilMask: {
+	DisplayName: Маска Нарцисс
+	Tooltip: ""
+}
+
+DylanDoeHead: {
+	DisplayName: Маска DylanDoe
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+FlowerPotHead: {
+	DisplayName: Наголовный цветочный горшок
+	Tooltip: "«Это выглядит не так круто, как ты думаешь»"
+}
+
+HatHead: {
+	DisplayName: Маска Hat in a River
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+KrakenHead: {
+	DisplayName: Маска HugeKraken
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+LittleEyeHat: {
+	DisplayName: Волшебная шляпа Глазика
+	Tooltip: "«Она слишком велика для вас»"
+}
+
+MocoMask: {
+	DisplayName: Маска Моко
+	Tooltip: ""
+}
+
+OrroMask: {
+	DisplayName: Маска Орро
+	Tooltip: ""
+}
+
+NoseCultistHood: {
+	DisplayName: Капюшон носокультиста
+	Tooltip: Маскирует вас под культиста при ношении с мантией
+}
+
+NoseCultistRobe: {
+	DisplayName: Мантия носокультиста
+	Tooltip: Маскирует вас под культиста при ношении с капюшоном
+}
+
+PartySkeletonSkull: {
+	DisplayName: Череп тусоскелета
+	Tooltip: ""
+}
+
+DandyHead: {
+	DisplayName: Маска Dandy
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+RotGourdMask: {
+	DisplayName: Маска Гнилой тыквы
+	Tooltip: ""
+}
+
+SeasaltHead: {
+	DisplayName: Маска Seasalt
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+SirenHead: {
+	DisplayName: Сиреноголова
+	Tooltip: "«Звуки сирены не прилагаются»"
+}
+
+SpookySpiritMask: {
+	DisplayName: Маска Жуткого духа
+	Tooltip: ""
+}
+
+TacoHead: {
+	DisplayName: Маска Taco
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+WaasephiHead: {
+	DisplayName: Маска Waasephi
+	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+}
+
+WarlockHood: {
+	DisplayName: Капюшон колдуна
+	Tooltip: "«We love casting spells!»"
+}
+
+ZomboidNecromancerHood: {
+	DisplayName: Капюшон некроманта
+	Tooltip: "«Sponsored by the shadow government!»"
+}
+
+ZomboidPyromancerHood: {
+	DisplayName: Капюшон пироманта
+	Tooltip: "«Legalize nuclear bombs!»"
+}
+
+BoogerFish: {
+	DisplayName: Соплерыба
+	Tooltip: "«Водится в глазастой долине»"
+}
+
+OrroEel: {
+	DisplayName: Орроугорь
+	Tooltip: "«Водится в глазастой долине»"
+}
+
+GourdFish: {
+	DisplayName: Проплесневевшая тыкворыба
+	Tooltip: "«Водится в жутком лесу»"
+}
+
+HibiscusFish: {
+	DisplayName: Плавающий гибискус
+	Tooltip: "«Водится в мрачных катакомбах»"
+}
+
+SpookySpiritFish: {
+	DisplayName: Дух-рыба
+	Tooltip: "«Водится на заболоченном кладбище»"
+}
+
+ZomboidFish: {
+	DisplayName: Рыба-зомбоид
+	Tooltip: "«Водится в жутком лесу»"
+}
+
+BlackLicorice: {
+	DisplayName: Чёрная лакрица
+	Tooltip:
+		'''
+		Немного снижает все характеристики
+		«Почему это вообще едят?»
+		'''
+}
+
+CandyCorn: {
+	DisplayName: Кэнди-корн
+	Tooltip:
+		'''
+		Даёт кратковременную сахарную передозхировку при употреблении
+		«Лучшая хэллоуинская конфета»
+		'''
+}
+
+CaramelApple: {
+	DisplayName: Яблоко в карамели
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Без понятия, откуда на этом яблоке появилась карамель»
+		'''
+}
+
+EyeChocolate: {
+	DisplayName: Глаз из шоколада
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Мягкая жевательная конфетка»
+		'''
+}
+
+EyeFruit: {
+	DisplayName: Глазное яблоко
+	Tooltip:
+		'''
+		Дарует эффект ночного зрения или чувства опасности
+		Однако, оно может и отравить вас
+		«И нет, оно не вкусное»
+		'''
+}
+
+FrankenMarshmallow: {
+	DisplayName: Франкеншмэллоу
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Жевательная мерзость»
+		'''
+}
+
+GoofyPretzel: {
+	DisplayName: Странный крендель
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Выглядит неправильно. Надеюсь, оно не живое»
+		'''
+}
+
+VampireGummy: {
+	DisplayName: Жевательные клыки вампира
+	Tooltip:
+		'''
+		Даёт кратковременную сахарную передозхировку при употреблении
+		«Засуньте их себе в рот и пугайте людей!»
+		'''
+}
+
+CatEyes: {
+	DisplayName: Зловещие глаза
+	Tooltip: Призывает чёрного котёнка
+}
+
+DissolvedBone: {
+	DisplayName: Slightly Dissolved Bone
+	Tooltip:
+		'''
+		Summons a mysterious pile of goo to follow you
+		'Its covered in nasty goop, gross!'
+		'''
+}
+
+ExpiredCheese: {
+	DisplayName: Expired Cheese
+	Tooltip: Summons a pet albino rat
+}
+
+FuzzBall: {
+	DisplayName: Плюшошарик
+	Tooltip: Призывает ручную плюшомышь
+}
+
+GhostPetItem: {
+	DisplayName: Spooky Ghost
+	Tooltip: Summons a little ghost to provide light
+}
+
+InchwormApple: {
+	DisplayName: Старое яблоко
+	Tooltip: Призывает ручную гусеницу
+}
+
+MocoTissue: {
+	DisplayName: Подозрительно выглядящий платок
+	Tooltip:
+		'''
+		Призывакт ручного мокита
+		«Самый антисанитарный кусочек ткани, известный человечеству»
+		'''
+}
+
+OddBrain: {
+	DisplayName: Oddly Shaped Brain
+	Tooltip: Summons a zombie nose cultist
+}
+
+OldSaddle: {
+	DisplayName: Старое седло
+	Tooltip: Призывает ездового тарантула, который может ползать по стенам и потолку
+}
+
+OrroboroRing: {
+	DisplayName: Кольцо Орроборо
+	Tooltip:
+		'''
+		Призывает закольцовенных Орро и Боро
+		«Очень залипательно»
+		'''
+}
+
+PandoraBean: {
+	DisplayName: Ghastly Bean
+	Tooltip: Summons Von Anguston VI, heir to the throne of the king bean
+}
+
+PetscopTool1: {
+	DisplayName: Красный инструмент
+	Tooltip: Призывает Стража
+}
+
+PetscopTool2: {
+	DisplayName: Зелёный инструмент
+	Tooltip: Призывает Марвина
+}
+
+PetscopTool3: {
+	DisplayName: Розовый инструмент
+	Tooltip: Призывает Тиару
+}
+
+PuttyCup: {
+	DisplayName: Tub of Putty
+	Tooltip: Summons a squad of putty slimes
+}
+
+RottenGourd: {
+	DisplayName: Прогнившая тыква
+	Tooltip:
+		'''
+		Призывает маленькую и хлипкую тыкву, следующую за вами
+		«Она ещё молодая, но уже ужасно пахнет»
+		'''
+}
+
+SkullKey: {
+	DisplayName: Черепной ключ
+	Tooltip: Призывает ручной череп, который будет летать за вами
+}
+
+SkullSeed: {
+	DisplayName: Skull Seed
+	Tooltip:
+		'''
+		Summons a baby bone to provide light
+		'Will it grow into a plant, or a skull?'
+		'''
+}
+
+SmallDaffodil: {
+	DisplayName: Росток нарцисса
+	Tooltip:
+		'''
+		Призывает Корнелиуса
+		«Пахнет довольно аппетитно!»
+		'''
+}
+
+SpiritLamp: {
+	DisplayName: Фонарь духа
+	Tooltip:
+		'''
+		Призывает мини-духа, который будет освещать ваш путь
+		«Какой дух будет владеть фонарём?»
+		'''
+}
+
+StickyEye: {
+	DisplayName: Светящийся в темноте липкий глаз
+	Tooltip: Призывает липкое главное яблоко, светящееся в темноте
+}
+
+SuspiciousBrownie: {
+	DisplayName: Suspicious Looking Brownie
+	Tooltip:
+		'''
+		Summons Columbo
+		'Your better judgement tells you to NOT eat this'
+		'''
+}
+
+ValleyNautilusShell: {
+	DisplayName: Кроваво-красная раковина
+	Tooltip: Призывает маленького цефалопода
+}
+
+YellowSpore: {
+	DisplayName: Yellow Spore
+	Tooltip: Summons a small mushroom hopper to provide light
+}
+
+BountyItem1: {
+	DisplayName: Язык гоблина
+	Tooltip:
+		'''
+		Ненормально длинный человекоподобный язык
+		Предмет заданий по охоте
+		'''
+}
+
+BountyItem2: {
+	DisplayName: Порванная книга
+	Tooltip:
+		'''
+		Наверное, её стоит больше никогда не открывать
+		Предмет заданий по охоте
+		'''
+}
+
+BountyItem3: {
+	DisplayName: Сшитый платок
+	Tooltip:
+		'''
+		Очень дорогой платок Глазика
+		Предмет заданий по охоте
+		'''
+}
+
+BountyItem4: {
+	DisplayName: Обезглавленный глаз
+	Tooltip:
+		'''
+		Это его... голова?
+		Предмет заданий по охоте
+		'''
+}
+
+GhostBook: {
+	DisplayName: Tome of Spirits
+	Tooltip:
+		'''
+		Summons one of the grave-robber's spirits to fight with and protect you
+		The spirit summoned depends on the color of the book's eye
+		Use to switch the type of spirit this book summons
+		'''
+}
+
+MagicEyeOrb: {
+	DisplayName: Eyeball of Pondering
+	Tooltip:
+		'''
+		Summons a glass eye that looks at nearby enemies
+		Enemies being looked at will take more damage from your magic attacks
+		The eye will shatter if you get hit 5 times, and will respawn after 30 seconds
+		'''
+}
+
+SewingThread: {
+	DisplayName: Sewing Thread
+	Tooltip:
+		'''
+		Using items will sometimes launch out a piercing thread
+		The thread will deal more damage the more enemies it pierces
+		'''
+}
+
+StitchedCloak: {
+	DisplayName: Сшитый плащ
+	Tooltip:
+		'''
+		Увеличивает ускорение 
+		Нажмите дважды в нужном направлении, чтобы сделать рывок по горизонтали или вертикали
+		Рывки оставляют за собой паутину, которая зацепляет врагов, нанося им урон
+		Рывок плаща имеет 9 секунд перезарядки
+		'''
+}
+
+SummonItem1: {
+	DisplayName: Red Velvet Cake
+	Tooltip:
+		'''
+		It smells absolutely delectable
+		Attracts a creature in the spooky forest while in your inventory
+		'''
+}
+
+SummonItem2: {
+	DisplayName: Bag of Coins
+	Tooltip:
+		'''
+		It smells like chocolate
+		Attracts a creature in the swampy cemetery while in your inventory
+		'''
+}
+
+SummonItem3: {
+	DisplayName: Fungus Beetle
+	Tooltip:
+		'''
+		A large spider's favorite snack
+		Attracts a creature in the spider grotto while in your inventory
+		'''
+}
+
+SummonItem4: {
+	DisplayName: Eye Drops
+	Tooltip:
+		'''
+		Soothes an irritated eye
+		Attracts a creature in the valley of eyes while in your inventory
+		'''
+}
+
+RootBody: {
+	DisplayName: Нагрудная пластина из корней
+	Tooltip: Увеличивает стрелковый урона на 12%
+}
+
+RootHead: {
+	DisplayName: Маска из корней
+	Tooltip: Увеличивает шанс критического удара стрелкового оружия на 5%
+}
+
+RootLegs: {
+	DisplayName: Одеяние из корней
+	Tooltip: ""
+}
+
+SpiderBody: {
+	DisplayName: Бронепластина паука-опера
+	Tooltip:
+		'''
+		Увеличивает шанс критического удара на 3%
+		Ваша скорость ненадолго увеличивается после получения урона
+		'''
+}
+
+SpiderHead: {
+	DisplayName: Визор паука-опера
+	Tooltip:
+		'''
+		Увеличивает урон на 10%
+		Даёт вам ночное зрение
+		'''
+}
+
+SpiderLegs: {
+	DisplayName: Ботинки паука-опера
+	Tooltip:
+		'''
+		Увеличивает скорость передвижения на 15%
+		Увеличивает ускорение и высоту прыжка
+		'''
+}
+
+GrottoCompass: {
+	DisplayName: Проржавевший компас
+	Tooltip: Указывает на местоположение подземного грота, кашащего пауками, когда находится в руках
+}
+
+InchwormBlackItem: {
+	DisplayName: Чёрная гусеница
+	Tooltip: ""
+}
+
+InchwormGreenItem: {
+	DisplayName: Зелёная гусеница
+	Tooltip: ""
+}
+
+InchwormOrangeItem: {
+	DisplayName: Оранжевая гусеница
+	Tooltip: ""
+}
+
+OldHunterHat: {
+	DisplayName: Шляпа старого охотника
+	Tooltip: Шляпа, принадлежавшая некогда жившему охотнику
+}
+
+OldHunterLegs: {
+	DisplayName: Ноги старого охотника
+	Tooltip: Старые порванные штаны вместе с ногами скелета
+}
+
+OldHunterSkull: {
+	DisplayName: Череп старого охотника
+	Tooltip: Разрушающийся череп давно жившого человека
+}
+
+OldHunterTorso: {
+	DisplayName: Торс старого охотника
+	Tooltip: Рубашка с полным торсом скелета под ней
+}
+
+SpiderChitin: {
+	DisplayName: Паучий хитин
+	Tooltip: Твёрдый экзоскелет паукообразных существ
+}
+
+SpiderKey: {
+	DisplayName: Ключ паучьего грота
+	Tooltip:
+		'''
+		Отпирает сундук паучьего грота в темнице
+		Не может быть использован до победы над Плантерой
+		'''
+}
+
+BoneBow: {
+	DisplayName: Костоправ
+	Tooltip: Стреляют костями, которые пробивают врагов и игнорируют 50% их защиты
+}
+
+GodGun: {
+	DisplayName: Священный огонь
+	Tooltip:
+		'''
+		Слишком продолжительное использование приведёт к перегреву и взрыву оружия
+		«Оружие, выбранное Богом»
+		'''
+}
+
+HighVelocitySlingshot: {
+	DisplayName: High-Velocity Slingshot
+	Tooltip:
+		'''
+		Hold down to pull back the slingshot, then release to fling ammo
+		Fires Mossy Pebbles at an extremely high velocity
+		'''
+}
+
+HunterScarf: {
+	DisplayName: Шарф старого охотника
+	Tooltip:
+		'''
+		Отмечает врагов поблизости
+		Отмеченные враги получают больше урона от стрелкового оружия
+		'''
+}
+
+LegalShotgun: {
+	DisplayName: Абсолютно легальный дробовик
+	Tooltip:
+		'''
+		Стреляет разбросом пуль с сильной отдачей
+		«Возможно, оно не совсем законно...»
+		'''
+}
+
+RustedBullet: {
+	DisplayName: Проржавевший патрон
+	Tooltip: Разлетается на осколки при столкновении
+}
+
+OrbWeaverBoomerang: {
+	DisplayName: Паутиноранг
+	Tooltip:
+		'''
+		Бросает возращающийся паутинный шип, который отскакивает от поверхностей
+		Бумеранг будет возращатся по кривой линии после отскока
+		'''
+}
+
+OrbWeaverGiantStaff: {
+	DisplayName: Скипетр ткача
+	Tooltip:
+		'''
+		Призывает большого часового-шароткача, разбрасывающего шипы вокруг себя
+		Шароткач иногда может отпрыгнуть от своей цели
+		'''
+}
+
+OrbWeaverShield: {
+	DisplayName: Шипованный щит атакующего
+	Tooltip:
+		'''
+		Вытягивает шипованный щит, который наносит тем больше урона, чем быстрее вы двигаетесь
+		После 3-ёх секунд использования, шипы щита заряжаются
+		Отпустите ЛКМ с заряженными шипами, чтобы выстрелить ими
+		'''
+}
+
+OrbWeaverStaff: {
+	DisplayName: Посох ткача
+	Tooltip: Призывает стража-шароткача, который будет разбрасывать шипы во все стороны
+}
+
+PheromoneWhip: {
+	DisplayName: Жало с феромонами
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Whips}
+		Попадание по врагу оставляет на нём след феромонов
+		Все враги, поражённые феромонами получают больше урона он паукообразных миньонов
+		'''
+}
+
+SphiderFlail: {
+	DisplayName: Раскручивающийся пауг
+	Tooltip: Раскидывает комки паутины во все стороны при раскрутке
+}
+
+SpiderCrossbow: {
+	DisplayName: Ядовитый арбалет
+	Tooltip: Превращает любые стрелы в пробивающие врагов дротики
+}
+
+SpiderEggCannon: {
+	DisplayName: Паукояичная пушка
+	Tooltip:
+		'''
+		Выстреливает шелковистыми паучьи яйца
+		Каждый 5-ый выстрел будет выпускать более крупное яйцо, призывающие атакующего паука
+		'''
+}
+
+SpiderLegStaff: {
+	DisplayName: Посох ноги арахнида
+	Tooltip: Выпускает гигантские паучьи лапы, которые могут застрять во враге
+}
+
+SpiderSlingshot: {
+	DisplayName: Паутинометатель
+	Tooltip:
+		'''
+		Удерживайте, чтоба зарядить рогатку
+		Превращает замшелые камушки в комки паутины, замедляющие врагов
+		'''
+}
+
+SpiderSummonEgg: {
+	DisplayName: Странное паучье яйцо
+	Tooltip:
+		'''
+		Бросает яйцо, из которого вылупляются паучки-миньоны
+		Каждый паучок занимает половину слота миньонов
+		'''
+}
+
+SpiderSword: {
+	DisplayName: Паучий вонзатель
+	Tooltip: Может отравить поражённого врага
+}
+
+TarantulaHawkBow: {
+	DisplayName: Паукокрылый длинный лук
+	Tooltip:
+		'''
+		Стреляет крылатыми стрелами, самонаводящимеся на врагов
+		Чем дольше вы стреляете, тем вышего его скорость стрельбы
+		'''
+}
+
+TatantulaFlyTome: {
+	DisplayName: Гримуар мух
+	Tooltip:
+		'''
+		Призывает мух, которые следуют за вашим курсором, если вы продолжаете использовать гримуар
+		Если отпустить кнопку, когда уже призвано 10 мух, они быстро влетят в ближайших врагов
+		'''
+}
+
+VenomHarpoon: {
+	DisplayName: Ядовитый паук-гарпун
+	Tooltip:
+		'''
+		Выпускает ядовитый гарпун, который может зацепиться за врага и подтянуть его к вам
+		Паук-гарпун выстреливает ядовитой слюной в подтянутых врагов
+		'''
+}
+
+GourdBody: {
+	DisplayName: Нагрудник прогнившей тыквы
+	Tooltip: Увеличивает урон ближнего боя на 5%
+}
+
+GourdHead: {
+	DisplayName: Голова прогнившей тыквы
+	Tooltip: Увеличивает шанс критического удара ближнего боя на 5%
+}
+
+GourdLegs: {
+	DisplayName: Штаны прогнившей тыквы
+	Tooltip: Увеличивает скорость ближнего боя на 5%
+}
+
+OldWoodBody: {
+	DisplayName: Нагрудник из старого дерева
+	Tooltip: ""
+}
+
+OldWoodHead: {
+	DisplayName: Маска из старого дерева
+	Tooltip: ""
+}
+
+OldWoodLegs: {
+	DisplayName: Поножи из старого дерева
+	Tooltip: ""
+}
+
+WizardGangsterBody: {
+	DisplayName: Позолоченная туника мага
+	Tooltip: Увеличивает магический урон на 10%
+}
+
+WizardGangsterHead: {
+	DisplayName: Позолоченная шляпа волшебника
+	Tooltip: Увеличивает шанс критического удара магического оружия на 5%
+}
+
+WizardGangsterHead2: {
+	DisplayName: Позолоченная шляпа чародея
+	Tooltip: Увеличивает магический урон на 5%
+}
+
+WizardGangsterLegs: {
+	DisplayName: Позолоченный халат мага
+	Tooltip: Увеличивает максимальный запас маны на 20 ед.
+}
+
+FlyBigItem: {
+	DisplayName: Гигантская муха
+	Tooltip: ""
+}
+
+FlySmallItem: {
+	DisplayName: Муха
+	Tooltip: ""
+}
+
+LittleBonePot: {
+	DisplayName: Переносной горшок Черепка
+	Tooltip:
+		'''
+		Магический цветочный горшок, который дал вам Черепок
+		Вы можете использовать его в любом месте, чтобы призвать Черепка
+		'''
+}
+
+LittleSpiderItem: {
+	DisplayName: Паучок
+	Tooltip: ""
+}
+
+PumpkinCarvingKit: {
+	DisplayName: Набор для вырезки тыкв
+	Tooltip:
+		'''
+		Нажмите ПКМ набором по тыквам из жуткого леса, чтобы вырезать им лицо
+		Вы также можете разместить в них старые восковые свечи, чтобы зажечь их
+		'''
+}
+
+RottenChunk: {
+	DisplayName: Проплесневевший кусочек
+	Tooltip: "«Воняет»"
+}
+
+ShroomHopperItem: {
+	DisplayName: Грибной попрыгунчик
+	Tooltip: ""
+}
+
+SpookyBiomeKey: {
+	DisplayName: Ключ жуткого леса
+	Tooltip:
+		'''
+		Отпирает сундук жуткого леса в темнице
+		Не может быть использован до победы над Плантерой
+		'''
+}
+
+SpookyGlowshroom: {
+	DisplayName: Жуткий светящийся гриб
+	Tooltip: "«Наполнен магической энергией»"
+}
+
+SpookySolution: {
+	DisplayName: Оранжевый раствор
+	Tooltip:
+		'''
+		Используется «Очизнителем»
+		Распространяет жуткий лес
+		'''
+}
+
+TinyGhostItem: {
+	DisplayName: Привиденьеце
+	Tooltip: ""
+}
+
+TinyMushroomItem: {
+	DisplayName: Грибочек
+	Tooltip: ""
+}
+
+BustlingGlowshroom: {
+	DisplayName: Оживительный светящийся гриб
+	Tooltip: Значительно увеличивает регенерацию здоровья, пока вы не двигаетесь
+}
+
+CandyBag: {
+	DisplayName: Мешочек со сладостями
+	Tooltip:
+		'''
+		Призывает магическеский мешочек с конфетами, который будет летать за вами
+		При поподании по врагу оружием призывателя, из мешка будут вылетать самонаводящиеся конфеты
+		'''
+}
+
+CreepyCandle: {
+	DisplayName: Страшная свеча
+	Tooltip: Снаряды магического оружия иногда будут поджигать врагов
+}
+
+ElGourdo: {
+	DisplayName: El Gourdo
+	Tooltip:
+		'''
+		Throws a slow moving gourd bomb that will stop midair after a bit
+		After a few seconds, the bomb will explode, unleashing lingering greek fire
+		The bomb will automatically detonate when it hits an enemy
+		'''
+}
+
+GourdBook: {
+	DisplayName: Книга Джерри о вонючестях
+	Tooltip: Выпускает вонючие газы, которые делают вонючими поражённых врагов
+}
+
+GourdFlail: {
+	DisplayName: Ярость гнили
+	Tooltip:
+		'''
+		Постепенно призывает вокруг вас мух, пока вы раскручиваете оружие
+		Вместе с броском кистеня в ту же сторону полетит и рой мух
+		'''
+}
+
+GourdSlingshot: {
+	DisplayName: Вонючий рогаткер
+	Tooltip:
+		'''
+		Удерживайте, чтоба зарядить рогатку
+		Превращает замшелые камушки в заплесневевшие кусочки тыквы, призывающие мух при столкновении
+		'''
+}
+
+GourdStaff: {
+	DisplayName: Ветка тыквы
+	Tooltip: Призывает тыквенных дурашек, которые напрыгивают на врагов
+}
+
+LeafBlower: {
+	DisplayName: Насосная воздуходувка
+	Tooltip:
+		'''
+		Быстро стреляет разноцветными осенними листями
+		«Это как уброка листьев, приводящяя к ещё большому количеству листьев!»
+		'''
+}
+
+MossyPebble: {
+	DisplayName: Замшелый камешек
+	Tooltip: Используется как боеприпас для рогатки из старого дерева
+}
+
+NecromancyTome: {
+	DisplayName: Некромантия для чайников
+	Tooltip:
+		'''
+		Стреляет отскакивающими от поверхностей частями тела зомби
+		«Вы не настолько сильны, чтобы призывать полноценных зомби»
+		'''
+}
+
+OldMossBow: {
+	DisplayName: Старых моховый лук
+	Tooltip: Наносит больше урона при использовании с стрелами из старого дерева
+}
+
+OldWoodArrow: {
+	DisplayName: Стрела из старого дерева
+	Tooltip: Иногда может прилипнуть к врагу при попадании
+}
+
+OldWoodBow: {
+	DisplayName: Лук из старого дерева
+	Tooltip: ""
+}
+
+OldWoodGreatsword: {
+	DisplayName: Двуручный меч из старого дерева
+	Tooltip: "«Это скорее просто дубинка, чем меч»"
+}
+
+OldWoodHammer: {
+	DisplayName: Молот из старого дерева
+	Tooltip: ""
+}
+
+OldWoodSlingshot: {
+	DisplayName: Рогатка из старого дерева
+	Tooltip:
+		'''
+		Удерживайте, чтоба зарядить рогатку
+		Использует замшелые камушки в качестве боеприпасов
+		'''
+}
+
+OldWoodStaff: {
+	DisplayName: Посох из старого дерева
+	Tooltip: Выпускает магические теневые шары
+}
+
+OldWoodSword: {
+	DisplayName: Меч из старого редева
+	Tooltip: ""
+}
+
+ShroomFlail: {
+	DisplayName: Грибной кистень
+	Tooltip: ""
+}
+
+ShroomWhip: {
+	DisplayName: Спорошлёп
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Whips}
+		Попадание по врагу может вызвать медленно левитирующие споры
+		'''
+}
+
+SkullWispStaff: {
+	DisplayName: Череп колдуна-зомбоида
+	Tooltip:
+		'''
+		Призывает призрачные черепа, сражающиеся за вас
+		«Неужели тебе нужно оторвать и его руку?»
+		'''
+}
+
+ToiletPaper: {
+	DisplayName: Туалетная бумага
+	Tooltip:
+		'''
+		Бросает рулон туалетной бумаги
+		«Идально подходит для гнусных розыгрышей на Хэллоуин»
+		'''
+}
+
+WarlockRobe: {
+	DisplayName: Плащ колдуна
+	Tooltip:
+		'''
+		Увеличивает призываемое число миньонов на 1
+		Увеличивает скорость пережвижения на 5%
+		'''
+}
+
+EyeBody: {
+	DisplayName: Нагрудник из ожившей плоти
+	Tooltip: Увеличивает призываемое число миньонов и стражей на 1
+}
+
+EyeHead: {
+	DisplayName: Маска из ожившей плоти
+	Tooltip: Увеличивает урон призывателя на 8%
+}
+
+EyeLegs: {
+	DisplayName: Ботинки из ожившей плоти
+	Tooltip:
+		'''
+		Увеличивает урон призывателя на 6%
+		Увеличивает скорость передвижения на 12%
+		'''
+}
+
+GoreBody: {
+	DisplayName: Нагрудник запёкшейся крови
+	Tooltip:
+		'''
+		Увеличивает урон на 10%
+		Увеличивает шанс критичского удара на 12%
+		Враги чаще выбирают вас в качестве цели
+		'''
+}
+
+GoreHoodEye: {
+	DisplayName: Маска запёкшейся крови
+	Tooltip:
+		'''
+		Увеличивает магический урон и урона призывателя на 20%
+		Снижает расход маны на 10%
+		Увеличивает призываемое число миньонов на 2
+		Враги чаще выбирают вас в качестве цели
+		'''
+}
+
+GoreHoodMouth: {
+	DisplayName: Капюшон запёкшейся крови
+	Tooltip:
+		'''
+		Увеличивает урон ближнего боя и стрелковый урон на 20%
+		Увеличивает скорость ближнего боя на 12%
+		Увеличивает шанс не потратить боеприпасы на 10%
+		Враги чаще выбирают вас в качестве цели
+		'''
+}
+
+GoreLegs: {
+	DisplayName: Мантия запёкшейся крови
+	Tooltip:
+		'''
+		Увеличивает скорость передвижения на 20%
+		Увеличивает шанс критического удара на 5%
+		Враги чаще выбирают вас в качестве цели
+		'''
+}
+
+Biojets: {
+	DisplayName: Bio-Thrusters
+	Tooltip:
+		'''
+		Allows flight and slow fall
+		Hold Down to hover
+		'May create an unpleasant mess'
+		'''
+}
+
+GiantEar: {
+	DisplayName: Symbiotic Ear
+	Tooltip:
+		'''
+		Summons an ear companion that shoots out damaging sound blasts while you attack
+		The damage and frequency of the blasts is based on the weapon you are currently using
+		'''
+}
+
+GooChompers: {
+	DisplayName: Corroding Chompers
+	Tooltip:
+		'''
+		Hitting enemies will sometimes give them a stomach ache which weakens them
+		Enemies that have this debuff will explode into damaging pink bubbles on death
+		These pink bubbles can also sometimes inflict stomach ache onto enemies
+		'''
+}
+
+PeptoStomach: {
+	DisplayName: Peptobyssmal
+	Tooltip:
+		'''
+		A warm substance, created from hellish ingredients
+		Little eye may be interested in this
+		'''
+}
+
+SmokerLung: {
+	DisplayName: Smoker's Lungs
+	Tooltip:
+		'''
+		Press the Accessory Hotkey to cough up a lingering cloud of smoke
+		Enemies caught in the smoke may also cough out smoke clouds randomly for a short time
+		You cannot create another smoke cloud for a minute
+		'''
+}
+
+StonedKidney: {
+	DisplayName: Stoned Kidney
+	Tooltip:
+		'''
+		While not using weapons you will charge up the stoned kidney
+		At full charge, attacking will launch a spread of high damage kidney rocks
+		'''
+}
+
+VeinChain: {
+	DisplayName: Two-Way Blood-Way
+	Tooltip:
+		'''
+		Chance on hitting nearby enemies to attach a life-stealing vein on them
+		The chains will remain attached to enemies as long as you are close enough to that enemy
+		You can have up to 3 chains on different enemies, and this amount will lower if your health is lower
+		'''
+}
+
+TotalOrganPackage: {
+	DisplayName: Total Organ Package
+	Tooltip:
+		'''
+		Grants the abilities of all organ accessories
+		Chance on hitting nearby enemies to attach a life-stealing vein that damages them and heals you
+		Hitting enemies may attach a set of goo jaws to them to deal additional damage
+		Hitting enemies will sometimes give them a stomach ache, on death they will explode pink bubbles
+		While not using items you will charge up a kidney rock, at full charge attacking will launch the stone
+		Press the Accessory Hotkey to cough up a lingering cloud of smoke
+		Enemies caught in the smoke will also cough smoke clouds randomly for a short time
+		Summons an ear companion that shoots out damaging sound blasts while you attack
+		'''
+}
+
+ArteryPiece: {
+	DisplayName: Ожившая артерия
+	Tooltip: Наполнена странной кровью
+}
+
+CreepyChunk: {
+	DisplayName: Мясо монстра
+	Tooltip: "«Выглядит почти съедобно!»"
+}
+
+EyeValleyCompass: {
+	DisplayName: Мясной компас
+	Tooltip: Указывает на местоположение странного биома в преисподней, когда находится в руках
+}
+
+LeechWhipGore: {
+	DisplayName: Съедобная плоть
+	Tooltip: ""
+}
+
+NoseTempleResetter: {
+	DisplayName: Носовой идол возврата времени
+	Tooltip:
+		'''
+		При использовании, обращает время в спять, сбрасывая все боевые комнаты в храме Моко
+		Не может быть использован, когда в храме присутствуют игроки
+		'''
+}
+
+SnotGlob: {
+	DisplayName: Комок соплей
+	Tooltip: ""
+}
+
+SpookyHellKey: {
+	DisplayName: Ключ глазастой долины
+	Tooltip:
+		'''
+		Отпирает сундук глазастой долины в темнице
+		Не может быть использован до победы над Плантерой
+		'''
+}
+
+SpookyHellSolution: {
+	DisplayName: Красно-фиолетовый раствор
+	Tooltip:
+		'''
+		Используется «Очизнителем»
+		Распространяет глазастую долину на блоках преисподней
+		'''
+}
+
+SentientBladeTongue: {
+	DisplayName: Tongueblade
+	Tooltip:
+		'''
+		Hitting enemies with the tongue may confuse them
+		Hold down right click to belch out clouds of ichor
+		'Which came first, the tongue or the creature?'
+		'''
+}
+
+SentientBloodRainBow: {
+	DisplayName: Uncanine
+	Tooltip:
+		'''
+		Shoots teeth that fly upward and then fall back down towards your cursor
+		'It looks severely brain damaged'
+		'''
+}
+
+SentientCap: {
+	DisplayName: Capsworth
+	Tooltip:
+		'''
+		Will sometimes talk to you and make horrible noises while worn
+		'You better not be capping'
+		'''
+}
+
+SentientChik: {
+	DisplayName: Pendeloque
+	Tooltip:
+		'''
+		Cries out crystal tears
+		'Hope it isn't actually sad'
+		'''
+}
+
+SentientChumCaster: {
+	DisplayName: Акулогоблинская удочка
+	Tooltip:
+		'''
+		Запускает два поплавка за раз
+		Способна вылавливать чудовищ из кровавого озера
+		«Она рычит на вас»
+		'''
+}
+
+SentientClingerStaff: {
+	DisplayName: Moocher Staff
+	Tooltip:
+		'''
+		Summons short-lived cursed flame pillars on the ground that rapidly damage enemies
+		'Funny noises come from its flames'
+		'''
+}
+
+SentientGatligator: {
+	DisplayName: Gator Gun
+	Tooltip:
+		'''
+		Fires bullets extremely wildly and inaccurately
+		Will sometimes vomit out meat giblets that explode when they hit enemies
+		33% chance to save ammo
+		'Half aligator, half gun, and has a mind of its own'
+		'''
+}
+
+SentientImpStaff: {
+	DisplayName: Gargoyle Scepter
+	Tooltip:
+		'''
+		Summons Grug the gargoyle to fight with you
+		Only one can exist, and he requires 2 minion slots to summon
+		'He's actually a gargoyle, not a grugoyle'
+		'''
+}
+
+SentientKatana: {
+	DisplayName: Conscious Cutter
+	Tooltip:
+		'''
+		Creates slashes at your cursor upon hitting enemies
+		'It's a mystery how it doesn't get whiplash'
+		'''
+}
+
+SentientKeybrand: {
+	DisplayName: Molar Mauler
+	Tooltip:
+		'''
+		Swing twice, then throw the mauler as a boomerang
+		Hitting enemies may permanently lower their defense by one point, up to 15 total
+		Deals more damage to enemies below half health
+		'Should be brought to a dentist regularly'
+		'''
+}
+
+SentientLeafBlower: {
+	DisplayName: Carrion Chunker
+	Tooltip:
+		'''
+		Rapidly spits out a bunch of different organic chunks that all do different things
+		'Heart healthy!'
+		'''
+}
+SentientLeatherWhip: {
+	DisplayName: Licker
+	Tooltip:
+		'''
+		Your summons will focus struck enemies
+		Hold down to charge the whip up, giving it longer range and higher damage
+		'It tastes everything it hits'
+		'''
+}
+
+SentientLifeDrain: {
+	DisplayName: Soul Sucker
+	Tooltip:
+		'''
+		Siphons souls from enemies near your cursor, which can heal your life or mana
+		After absorbing 20 souls, the staff will unleash a powerful aura
+		'It looks at you maliciously'
+		'''
+}
+
+SentientMagnetSphere: {
+	DisplayName: Necronomicon Volume II
+	Tooltip:
+		'''
+		Channel a controllable heart that zaps nearby enemies with blood lightning
+		The heart grows in size and power the longer it is channeled
+		'Caution: May bite'
+		'''
+}
+
+SentientMineLauncher: {
+	DisplayName: Eye Belcher
+	Tooltip:
+		'''
+		Fires out a giant spread of eye mines that linger on the ground and explode on contact
+		Eye mines deal significantly more damage if they are detonated while on the ground
+		'Takes great pride in its eyelashes'
+		'''
+}
+
+SentientPaladinsHammer: {
+	DisplayName: Dave & Mike
+	Tooltip:
+		'''
+		Throw a two-faced hammer that will chase a nearby enemy
+		Upon reaching the targeted enemy, it will strike it 3 times before returning to you
+		'They won't stop yapping'
+		'''
+}
+SentientRavenStaff: {
+	DisplayName: Avian's Crux
+	Tooltip:
+		'''
+		Summons Billy-Bone the raven to fight with you
+		Only one can exist, and he requires 3 minion slots to summon
+		'Its heart is beating slowly'
+		'''
+}
+
+SentientShootius: {
+	DisplayName: Sentient Shootius
+	Tooltip:
+		'''
+		Summons a living eye tendril sentry to shoot beams at enemies
+		'It can stare holes through anything'
+		'''
+}
+
+SentientSkullBook: {
+	DisplayName: Necronomicon
+	Tooltip:
+		'''
+		Casts out fast magic skulls that will bite onto enemies
+		'Nom nom nom!'
+		'''
+}
+
+SentientSphereStaff: {
+	DisplayName: Оживший «Кадуцей»
+	Tooltip:
+		'''
+		Призывает комки крылатой биомассы, атакующие врагов
+		Если долго атаковать одно и того же врага, то биомасса влетит в него и взорвётся
+		«Вероятно, это не символ здоровья»
+		'''
+}
+
+SentientToxikarp: {
+	DisplayName: Bubble Belcher
+	Tooltip:
+		'''
+		Spits out toxic bubbles that bounce off of surfaces
+		Sometimes spits out special colored bubbles that all do different things
+		'Killer fish from valley of eyes!'
+		'''
+}
+
+SentientVenusMagnum: {
+	DisplayName: Ooze Magnum
+	Tooltip:
+		'''
+		Fires out bile and piercing teeth abhorrently slowly, but speeds up the longer it is used
+		Releasing while at maximum fire rate will shoot a giant explosive glob of bile
+		'It oozes with power'
+		'''
+}
+
+SentientHeart: {
+	DisplayName: Sentient Heart
+	Tooltip:
+		'''
+		A strange heart ripped from a strong monster
+		Can bring out the sentient power of certain weapons
+		'''
+}
+
+BoogerBlaster: {
+	DisplayName: Козявочный бластер
+	Tooltip:
+		'''
+		Заряжайте оружие, чтобы выстрелить противными козявками, замедляющими врагов при попадании
+		Чем больше вы его заряжаете, тем сильнее и быстрее козявки становлятся
+		Всего имеет 3 уровня зарядки
+		'''
+}
+
+BoogerBook: {
+	DisplayName: Snot-Nosed Tome
+	Tooltip: Casts a controllable nose that constantly sneezes boogers below it
+}
+
+BoogerFlail: {
+	DisplayName: Snot Ball
+	Tooltip: When launched, the booger will detach from the chain and bounce around
+}
+
+BoogerStaff: {
+	DisplayName: Sneeze Scepter
+	Tooltip: Summons fast flying noses that sneeze on enemies
+}
+
+EyeFlail: {
+	DisplayName: Прикованный взгляд
+	Tooltip: Раскручивает кистень из двух больших глаз и позволяет их бросать на большую дистанцию
+}
+
+EyeRocketLauncher: {
+	DisplayName: Д.З.Н.
+	Tooltip: Удерживайте, чтобы выстрелить взрывающимися глазоракетами, которые самонаводятся на врагов
+}
+
+LeechStaff: {
+	DisplayName: Скипетр пиявки
+	Tooltip:
+		'''
+		Призывает слабых, но быстрых пиявок, атакующих врагов
+		Каждая пиявка занимает только половину слота миньонов
+		'''
+}
+
+LeechWhip: {
+	DisplayName: Подсос
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Whips}
+		Попадания по врагам иногда отрывают от них куски плоти
+		Подбор этой плоти восстановит вам немного здоровья
+		'''
+}
+
+MouthFlamethrower: {
+	DisplayName: Ядопульверизатор
+	Tooltip: Выпускает струю ядовитого газа
+}
+
+Scycler: {
+	DisplayName: Косоврат
+	Tooltip: Бросает чакрам, который преследует курсор, перед тем как вернуться к вам
+}
+
+BrainJar: {
+	DisplayName: Мозговитый в банке
+	Tooltip:
+		'''
+		Бросает банку, из которой появляется мозг, преследующий вас
+		Каждую минуту он создаёт взрыв, уничтожающий всех ваших миньонов
+		Урон от взрыва увеличивается в зависимости от урона каждого отдельного взорванного миньона
+		Мозговитый не занимает слоты под миньонов
+		'''
+}
+
+FleshAxe: {
+	DisplayName: Мясоизмельчитель
+	Tooltip: Наносит больше урона врагам с низким показателем здоровья
+}
+
+FleshBow: {
+	DisplayName: Ясновидящий
+	Tooltip:
+		'''
+		Превращает любые стрелы в сгустки крови
+		Каждый десятый выстрел будет выпускать самонаводящийся глаз
+		'''
+}
+
+FleshStaff: {
+	DisplayName: Посох сетчатки
+	Tooltip:
+		'''
+		Выпускают летающие глаза, которые собираются возле курсора при зажатии ЛКМ
+		Отпустив ЛКМ, вылетевшие глаза нанесут удвоенный урон
+		Одновременно может быть выпущено только 5 глаз
+		'''
+}
+
+FleshWhip: {
+	DisplayName: Глазной лазер
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Whips}
+		Попадание по врагу может ненадолго снизить его защиту
+		'''
+}
+
+LivingFleshAxe: {
+	DisplayName: Оживший «Мясоизмельчитель»
+	Tooltip:
+		'''
+		Наносит намного больше урона врагам с низким показателем здоровья
+		Попадания по врагам вызывают всплески из наносящих урон глаз
+		'''
+}
+
+LivingFleshBow: {
+	DisplayName: Оживший «Ясновидящий»
+	Tooltip:
+		'''
+		Превращает любые стрелы в сгустки крови
+		Каждый двадцатый выстрел будет выпускать несколько самонаводящихся глаз
+		'''
+}
+
+LivingFleshStaff: {
+	DisplayName: Оживший «Посох сетчатки»
+	Tooltip:
+		'''
+		Одновременно может быть выпущено только 5 глаз
+		Выпускают летающие глаза, которые собираются возле курсора при зажатии ЛКМ
+		Отпустив ЛКМ, вылетевшие глаза нанесут удвоенный урон
+		Если в этот момент было призывано максимальное количество глаз, то они взорвутся на месте, нанося огромный урон
+		Одновременно может быть выпущено только 8 глаз
+		'''
+}
+
+LivingFleshWhip: {
+	DisplayName: Оживший «Глазной лазер»
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Whips}
+		Попадание по врагу может ненадолго снизить его защиту в двое
+		'''
+}
+
+MonsterBloodVial: {
+	DisplayName: Кровь монстра
+	Tooltip:
+		'''
+		Значительно увеличивает регенерацию здоровья, когда вы не двигаетесь
+		При движении, ваш шанс критического удара увеличивается на 5%
+		'''
+}
+
+NerveWhip: {
+	DisplayName: Открытый нерв
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Whips}
+		Deals more damage the more enemies it hits, caps after 5 enemies are hit. На самом деле оно нихуя не делает это наёб.
+		'''
+}
+
+Sneezer: {
+	DisplayName: Чихатель
+	Tooltip:
+		'''
+		Стреляет козявками, не подверженными гравитации
+		Каждый 10 выстрел выпускает более большую и быстру козявку
+		«Младший двоюродный брат козявочного бластера»
+		'''
+}
+
+SnotArrow: {
+	DisplayName: Козявочная стрела
+	Tooltip: Отскакивает от твёрдых поверхностей и врагов
+}
+
+SnotBullet: {
+	DisplayName: Соплевая пуля
+	Tooltip: Рикошетирует в другого врага поблизости при попадании
+}
+
+SnotMedication: {
+	DisplayName: Антигистаминные таблетки
+	Tooltip: Каждое получение дебаффа «Оклеен» заменяет его на «Железную кожу», «Регенерацию» или «Стремительность»
+}
+SnotRocket: {
+	DisplayName: Соплерокета
+	Tooltip:
+		'''
+		Ускоряется по мере полёта
+		Вызывает всплески соплей при прямом поподании по врагу
+		'''
+}
+
+SnotWings: {
+	DisplayName: Крылья соплежука
+	Tooltip:
+		'''
+		Позволяет летать и парить
+		«Ужас...»
+		'''
+}
+
+TortumorStaff: {
+	DisplayName: Посох запёкшейся крови
+	Tooltip: Призывает дружелюбные опухоли, стреляющие кровавыми сгустками по врага
+}
+
+TortumorYoyo: {
+	DisplayName: Бросок опухоли
+	Tooltip: При использовании, создаёт вокруг себя теневые шары
+}
+
+RaveyardDisc1: {
+	DisplayName: Пластинка посмертной тусы
+	Tooltip: "[c/6FE4A5:«Deathrattlin' Raving» (cтарая версия)] от Luxcapacitor"
+}
+
+RaveyardDisc2: {
+	DisplayName: Пластинка посмертной тусы
+	Tooltip: "[c/6FE4A5:«Graveyard Without The G» (cтарая версия)] от BananaLizard и Lurak"
+}
+
+VinylAlley: {
+	DisplayName: Виниловая пластинка (Долина)
+	Tooltip: ""
+}
+
+VinylLazy: {
+	DisplayName: Виниловая пластинка (Ленивая)
+	Tooltip: ""
+}
+
+VinylMysterious: {
+	DisplayName: Виниловая пластинка (Загадочная)
+	Tooltip: ""
+}
+
+VinylSleepy: {
+	DisplayName: Виниловая пластинка (Сонная)
+	Tooltip: ""
+}
+
+VinylSneaky: {
+	DisplayName: Виниловая пластинка (Хитрая)
+	Tooltip: ""
+}
+
+BloomSoilItem: {
+	DisplayName: Благородная почва
+	Tooltip: Позволяет сажать и выращивать цветенья
+}
+
+DandelionSeed: {
+	DisplayName: Семена одуванчика
+	Tooltip: Посадите на ровной поверхности из благородной почвы, чтобы вырастить одно из возможных одуванчековых цветений
+}
+
+DragonfruitSeed: {
+	DisplayName: Диваросток
+	Tooltip:
+		'''
+		Инвазивное растение, цветущее необычным образом
+		Сажается на ровной поверхности из благородной почвы
+		По мере роста предваращет близрастущие цветенья в себе подобных
+		'''
+}
+
+FallSeed: {
+	DisplayName: Внутренности тыквы
+	Tooltip: Посадите на ровной поверхности из благородной почвы, чтобы вырастить одно из возможных тыквенных цветений
+}
+
+SpringSeed: {
+	DisplayName: Цветочная пыльца
+	Tooltip: Посадите на ровной поверхности из благородной почвы, чтобы вырастить одно из возможных цветочных цветений
+}
+
+SummerSeed: {
+	DisplayName: Солнечное семя подсолнуха
+	Tooltip: Посадите на ровной поверхности из благородной почвы, чтобы вырастить одно из возможных тропических цветений
+}
+
+WinterSeed: {
+	DisplayName: Заснеженный ягодный кустарник
+	Tooltip: Посадите на ровной поверхности из благородной почвы, чтобы вырастить одно из возможных ягодных цветений
+}
+
+CatacombBrickPlatform1Item: {
+	DisplayName: Платформа из серого кирпича катакомб
+	Tooltip: ""
+}
+
+CatacombBrickPlatform2Item: {
+	DisplayName: Платформа из коричневого кирпича катакомб
+	Tooltip: ""
+}
+
+CatacombCrate: {
+	DisplayName: Костяной ящик
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CatacombCrate2: {
+	DisplayName: Черепной ящик
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+GiantCoffinItem: {
+	DisplayName: Гроб из старого дерева
+	Tooltip: ""
+}
+
+GoldenPotItem: {
+	DisplayName: Ваза жадности
+	Tooltip: ""
+}
+
+GoldStatue1Item: {
+	DisplayName: Позолоченная статуя злого лица
+	Tooltip: ""
+}
+
+GoldStatue2Item: {
+	DisplayName: Позолоченная статуя рта
+	Tooltip: ""
+}
+
+GoldStatue3Item: {
+	DisplayName: Позолоченная статуя черепа
+	Tooltip: ""
+}
+
+GoldStatue4Item: {
+	DisplayName: Позолоченная статуя духа
+	Tooltip: ""
+}
+
+MoyaiItem: {
+	DisplayName: Золотой Моаи
+	Tooltip: ""
+}
+
+PottedPlant1Item: {
+	DisplayName: Горшок с ротоцветом
+	Tooltip: ""
+}
+
+PottedPlant2Item: {
+	DisplayName: Горшок с лепестоцветом
+	Tooltip: ""
+}
+
+PottedPlant3Item: {
+	DisplayName: Горшок с глазоцветом
+	Tooltip: ""
+}
+
+PottedPlant4Item: {
+	DisplayName: Горшок с черепоцветом
+	Tooltip: ""
+}
+
+CatacombBrick1Item: {
+	DisplayName: Серый кирпич катакомб
+	Tooltip: ""
+}
+
+CatacombBrick2Item: {
+	DisplayName: Коричневый кирпич катакомб
+	Tooltip: ""
+}
+
+CatacombBrickWall1Item: {
+	DisplayName: Стена из серого кирпича катакомб
+	Tooltip: ""
+}
+
+CatacombBrickWall2Item: {
+	DisplayName: Стена из серого кирпича катакомб
+	Tooltip: ""
+}
+
+CatacombFlooringItem: {
+	DisplayName: Напольный кирпич катакомб
+	Tooltip: ""
+}
+
+CatacombGrassSeeds: {
+	DisplayName: Семена мха катакомб
+	Tooltip: Сажает мох на серые и коричневые кирпичи катакомб
+}
+
+GildedBrickItem: {
+	DisplayName: Позолоченный кирпич
+	Tooltip: ""
+}
+
+CemeteryBiomeChestItem: {
+	DisplayName: Сундук заболоченного кладбища
+	Tooltip: ""
+}
+
+CemeteryDirtItem: {
+	DisplayName: Почва болота
+	Tooltip: ""
+}
+
+CemeteryGrassSeeds: {
+	DisplayName: Семена травы кладбища
+	Tooltip: Сажает траву на почве болота
+}
+
+CemeteryStoneItem: {
+	DisplayName: Горная порода болота
+	Tooltip: ""
+}
+
+BigBoneBox: {
+	DisplayName: Музыкальная шкатулка (Исполинский череп)
+	Tooltip: "[c/D7D000:«Doom Abloom»] от BananaLizard"
+}
+
+CatacombBox: {
+	DisplayName: Музыкальная шкатулка (Мрачные катакомбы)
+	Tooltip: "[c/4A86AE:«Tomb Crawlin'»] от BananaLizard"
+}
+
+CatacombBox2: {
+	DisplayName: Музыкальная шкатулка (Мрачнейшие катакомбы)
+	Tooltip: "[c/B35A27:«Deep Dive To The Catacombs»] от BananaLizard"
+}
+
+CemeteryBox: {
+	DisplayName: Музыкальная шкатулка (Заболоченное кладбище)
+	Tooltip: "[c/6E9E3B:«A Boneyard Too Far»] от BananaLizard"
+}
+
+DaffodilBox: {
+	DisplayName: Музыкальная шкатулка (Нарцисс)
+	Tooltip: "[c/A7CF17:«To A Floral Demise»] от BananaLizard"
+}
+
+EggEventBox: {
+	DisplayName: Музыкальная шкатулка (Яичное нашествие)
+	Tooltip: "[c/FF1515:«The Evolution Of Evil»] от Rockwizard5"
+}
+
+MocoBox: {
+	DisplayName: Музыкальная шкатулка (Моко)
+	Tooltip: "[c/4DDE17:«And Yet The Snot-Nosed Bug Remains»] от BananaLizard"
+}
+
+NoseTempleBox: {
+	DisplayName: Музыкальная шкатулка (Храм Моко)
+	Tooltip: "[c/EF5145:«Grand Sinus Corridors»] от BananaLizard"
+}
+
+OrroboroBox: {
+	DisplayName: Музыкальная шкатулка (Орро и Боро)
+	Tooltip: "[c/A17CFF:«The All Is One»] от BananaLizard"
+}
+
+PandoraEventBox: {
+	DisplayName: Музыкальная шкатулка (Ящик Пандоры)
+	Tooltip: "[c/33C0A4:«You Should Know Better»] от BananaLizard"
+}
+
+RaveyardBox: {
+	DisplayName: Музыкальная шкатулка (Посмертная туса)
+	Tooltip:
+		'''
+		Светится разными цветами при включении
+		Можно поставить только на потолке
+		[c/6FE4A5:«Graveyard Without The G»] от BananaLizard
+		'''
+}
+
+RotGourdBox: {
+	DisplayName: Музыкальная шкатулка (Гнилая тыква)
+	Tooltip: "[c/D45037:«Funky Pumpkin»] от BananaLizard"
+}
+
+SpiderCaveBox: {
+	DisplayName: Музыкальная шкатулка (Паучий грот)
+	Tooltip: "[c/A88554:«It's Just Spider Stuff»] от BananaLizard"
+}
+
+SpookyBiomeDayBox: {
+	DisplayName: Музыкальная шкатулка (Дневной жуткий лес)
+	Tooltip: "[c/FFBF00:«Dead Trees...»] от BananaLizard"
+}
+
+SpookyBiomeNightBox: {
+	DisplayName: Музыкальная шкатулка (Ночной жуткий лес)
+	Tooltip: "[c/FFBF00:«...And Yellow Grass»] от BananaLizard"
+}
+
+SpookyBiomeRainBox: {
+	DisplayName: Музыкальная шкатулка (Дождь в жутком лесу)
+	Tooltip: "[c/FFBF00:«Harvest Rainfall»] от BananaLizard"
+}
+
+SpookyBiomeTownNightBox: {
+	DisplayName: Музыкальная шкатулка (Ночной город в жутком лесу)
+	Tooltip: "[c/AA19E3:«Spooky Town Night»] от BananaLizard"
+}
+
+SpookyBiomeUGBox: {
+	DisplayName: Музыкальная шкатулка (Подземелье жуткого леса)
+	Tooltip: "[c/FFBF00:«Spooky Spelunking»] от BananaLizard"
+}
+
+SpookyBloodmoonBox: {
+	DisplayName: Музыкальная шкатулка (Жуткая кровавая луна)
+	Tooltip: "[c/B60038:«Too Groovy, Very Spooky»] от BananaLizard"
+}
+
+SpookyHellBox: {
+	DisplayName: Музыкальная шкатулка (Глазастая долина)
+	Tooltip: "[c/E64565:«Eyeballs»] от BananaLizard"
+}
+
+SpookyMenuBox: {
+	DisplayName: Музыкальная шкатулка (Spooky Mod — Главное меню)
+	Tooltip: "[c/FFBF00:«Welcome To Spooky Mod»] от BananaLizard"
+}
+
+SpookySpiritBox: {
+	DisplayName: Музыкальная шкатулка (Жуткий дух)
+	Tooltip: "[c/B6ABFF:«Groovy Geist»] от BananaLizard"
+}
+
+CultistBathtubItem: {
+	DisplayName: Оккультная ванна
+	Tooltip: ""
+}
+
+CultistBedItem: {
+	DisplayName: Оккультная кровать
+	Tooltip: ""
+}
+
+CultistBookcaseItem: {
+	DisplayName: Оккультный книжный шкаф
+	Tooltip: ""
+}
+
+CultistCandelabraItem: {
+	DisplayName: Оккультный подсвечник
+	Tooltip: ""
+}
+
+CultistCandleItem: {
+	DisplayName: Оккультная свеча
+	Tooltip: ""
+}
+
+CultistChairItem: {
+	DisplayName: Оккультный стул
+	Tooltip: ""
+}
+
+CultistChandelierItem: {
+	DisplayName: Оккультная люстра
+	Tooltip: ""
+}
+
+CultistChestItem: {
+	DisplayName: Оккультный сундук
+	Tooltip: ""
+}
+
+CultistClockItem: {
+	DisplayName: Оккультные напольные часы
+	Tooltip: ""
+}
+
+CultistDoorItem: {
+	DisplayName: Оккультная дверь
+	Tooltip: ""
+}
+
+CultistDresserItem: {
+	DisplayName: Оккультный комод
+	Tooltip: ""
+}
+
+CultistLampItem: {
+	DisplayName: Оккультная напольная лампа
+	Tooltip: ""
+}
+
+CultistLanternItem: {
+	DisplayName: Оккультный фонарь
+	Tooltip: ""
+}
+
+CultistSinkItem: {
+	DisplayName: Оккультная раковина
+	Tooltip: ""
+}
+
+CultistSofaItem: {
+	DisplayName: Оккультный диван
+	Tooltip: ""
+}
+
+CultistTableItem: {
+	DisplayName: Оккультный стол
+	Tooltip: ""
+}
+
+CultistWorkBenchItem: {
+	DisplayName: Оккультный верстак
+	Tooltip: ""
+}
+
+NoseTemplePlatformGreenItem: {
+	DisplayName: Зелёная оккультная платформа
+	Tooltip: ""
+}
+
+NoseTemplePlatformPurpleItem: {
+	DisplayName: Фиолетовая оккультная платформа
+	Tooltip: ""
+}
+
+NoseTemplePlatformGrayItem: {
+	DisplayName: Серая оккультная платформа
+	Tooltip: ""
+}
+
+NoseTemplePlatformRedItem: {
+	DisplayName: Красная оккультная платформа
+	Tooltip: ""
+}
+AmbushPaintingItem: {
+	DisplayName: Картина «Засада»
+	Tooltip: "«Hat in a River»"
+}
+BaxterPaintingItem: {
+	DisplayName: Портрет Бакстера
+	Tooltip: "«Waasephi»"
+}
+FireExitSignItem: {
+	DisplayName: Знак пожарного выхода
+	Tooltip: ""
+}
+LuigiPaintingItem: {
+	DisplayName: Картина «Луиджи»
+	Tooltip: "«Waasephi»"
+}
+MonalumboItem: {
+	DisplayName: Картина «Моналимбо»
+	Tooltip: "«Waasephi»"
+}
+RedMistPaintingItem: {
+	DisplayName: Картина «Красный туман»
+	Tooltip: "«RocketLauncher»"
+}
+ShadowEyePaintingItem: {
+	DisplayName: Картина «Глаз»
+	Tooltip: "«???»"
+}
+NoseTempleBrickGreenItem: {
+	DisplayName: Зелёный оккультный кирпич
+	Tooltip: ""
+}
+NoseTempleBrickPurpleItem: {
+	DisplayName: Фиолетовый оккультный кирпич
+	Tooltip: ""
+}
+NoseTempleBrickGrayItem: {
+	DisplayName: Серый оккультный кирпич
+	Tooltip: ""
+}
+NoseTempleBrickRedItem: {
+	DisplayName: Красный оккультный кирпич
+	Tooltip: ""
+}
+NoseTempleFancyBrickGreenItem: {
+	DisplayName: Зелёная оккультная плита
+	Tooltip: ""
+}
+NoseTempleFancyBrickPurpleItem: {
+	DisplayName: Фиолетовая оккультная плита
+	Tooltip: ""
+}
+NoseTempleFancyBrickGrayItem: {
+	DisplayName: Сера оккультная плита
+	Tooltip: ""
+}
+NoseTempleFancyBrickRedItem: {
+	DisplayName: Красная оккультная плита
+	Tooltip: ""
+}
+NoseTempleFancyWallGreenItem: {
+	DisplayName: Стена из зелёной оккультной плиты
+	Tooltip: ""
+}
+NoseTempleFancyWallPurpleItem: {
+	DisplayName: Стена из фиолетовой оккультной плиты
+	Tooltip: ""
+}
+NoseTempleFancyWallGrayItem: {
+	DisplayName: Стена из серой оккультной плиты
+	Tooltip: ""
+}
+NoseTempleFancyWallRedItem: {
+	DisplayName: Стена из красной оккультной плиты
+	Tooltip: ""
+}
+NoseTempleWallGreenItem: {
+	DisplayName: Стена из зелёного оккультного кирпича
+	Tooltip: ""
+}
+NoseTempleWallPurpleItem: {
+	DisplayName: Стена из фиолетового оккультного кирпича
+	Tooltip: ""
+}
+NoseTempleWallGrayItem: {
+	DisplayName: Стена из серого оккультного кирпича
+	Tooltip: ""
+}
+NoseTempleWallRedItem: {
+	DisplayName: Стена из красного оккультного кирпича
+	Tooltip: ""
+}
+
+CemeteryPylonItem: {
+	DisplayName: Пилон заболоченного клидбища
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+SpiderCavePylonItem: {
+	DisplayName: Пилон паучьего грота
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+SpookyBiomePylonItem: {
+	DisplayName: Пилон жуткого леса
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+SpookyHellPylonItem: {
+	DisplayName: Пилон глазастой долины
+	Tooltip:
+		'''
+		На этот пилон можно телепортироваться независимо от количества жителей поблизости
+		Можно установить только один тип, совпадающий с биомом
+		'''
+}
+
+BanditBookRelicItem: {
+	DisplayName: Реликвия тома духов
+	Tooltip: ""
+}
+
+BigBoneRelicItem: {
+	DisplayName: Реликвия Исполинского черепа
+	Tooltip: ""
+}
+
+DaffodilRelicItem: {
+	DisplayName: Реликвия Нарцисс
+	Tooltip: ""
+}
+
+EyeWizardRelicItem: {
+	DisplayName: Реликвия Большеглазого
+	Tooltip: ""
+}
+
+FrankenGoblinRelicItem: {
+	DisplayName: Реликвия гоблина Франка
+	Tooltip: ""
+}
+
+MocoRelicItem: {
+	DisplayName: Реликвия Моко
+	Tooltip: ""
+}
+
+OrroboroRelicItem: {
+	DisplayName: Реликвия Орро и Боро
+	Tooltip: ""
+}
+
+RotGourdRelicItem: {
+	DisplayName: Реликвия Гнилой тыквы
+	Tooltip: ""
+}
+
+SpookySpiritRelicItem: {
+	DisplayName: Реликвия Жуткого духа
+	Tooltip: ""
+}
+
+StitchSpiderRelicItem: {
+	DisplayName: Реликвия Сшивателя
+	Tooltip: ""
+}
+
+SpiderCaveChestItem: {
+	DisplayName: Сундук паучьего грота
+	Tooltip: ""
+}
+
+DampGrassSeeds: {
+	DisplayName: Сырые семена травы
+	Tooltip: Сажает траву на сырую почву
+}
+
+DampSoilItem: {
+	DisplayName: Сырая почва
+	Tooltip: ""
+}
+
+RootWoodItem: {
+	DisplayName: Блок корня
+	Tooltip: ""
+}
+
+RootWoodWallItem: {
+	DisplayName: Стена из блока корня
+	Tooltip: ""
+}
+
+WebBlockItem: {
+	DisplayName: Блок паутины
+	Tooltip: ""
+}
+
+CandleItem: {
+	DisplayName: Старая восковая свеча
+	Tooltip:
+		'''
+		Излучает небольшое количество света
+		Нажмите ПКМ свечой по вырезанной тыкве, чтобы зажечь её
+		'''
+}
+
+FlyBigJarItem: {
+	DisplayName: Гигантская муха в банке
+	Tooltip: ""
+}
+
+FlySmallJarItem: {
+	DisplayName: Муха в банке
+	Tooltip: ""
+}
+
+OldWoodBathtubItem: {
+	DisplayName: Ванна из старого дерева
+	Tooltip: ""
+}
+
+OldWoodBedItem: {
+	DisplayName: Кровать из старого дерева
+	Tooltip: ""
+}
+
+OldWoodBookcaseItem: {
+	DisplayName: Книжный шкаф из старого дерева
+	Tooltip: ""
+}
+
+OldWoodCandleItem: {
+	DisplayName: Свеча из старого дерева
+	Tooltip: ""
+}
+
+OldWoodChairItem: {
+	DisplayName: Стул из старого дерева
+	Tooltip: ""
+}
+
+OldWoodChestItem: {
+	DisplayName: Сундук из старого дерева
+	Tooltip: ""
+}
+
+OldWoodDoorItem: {
+	DisplayName: Дверь из старого деерева
+	Tooltip: ""
+}
+
+OldWoodOrganItem: {
+	DisplayName: Орган из старого дерева
+	Tooltip:
+		'''
+		Нажмите ПКМ по органу, чтобы сыграть на нём
+		Однако, он может проигрывать только «Токкату и фуга ре минор»
+		'''
+}
+
+OldWoodPlatformItem: {
+	DisplayName: Платформа из старого дерева
+	Tooltip: ""
+}
+
+OldWoodSofaItem: {
+	DisplayName: Диван из старого дерева
+	Tooltip: ""
+}
+
+OldWoodTableItem: {
+	DisplayName: Стол из старого дерева
+	Tooltip: ""
+}
+
+OldWoodWorkBenchItem: {
+	DisplayName: Верстак из старого дерева
+	Tooltip: ""
+}
+
+SpookyBiomeChestItem: {
+	DisplayName: Сундук жуткого леса
+	Tooltip: ""
+}
+
+SpookyCrate: {
+	DisplayName: Ящик из жуткого дерева
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SwoleMushroomStatueItem: {
+	DisplayName: Статуя грибного Бога
+	Tooltip: ""
+}
+
+TinyGhostJarItem: {
+	DisplayName: Приведеньеце в банке
+	Tooltip: ""
+}
+
+TinyMushroomCageItem: {
+	DisplayName: Грибочек в террариуме
+	Tooltip: ""
+}
+
+GourdBlockGreenItem: {
+	DisplayName: Блок зелёной тыквы
+	Tooltip: ""
+}
+
+GourdBlockGreenPlatformItem: {
+	DisplayName: Платформа из зелёной тыквы
+	Tooltip: ""
+}
+
+GourdBlockGreenWallItem: {
+	DisplayName: Стена из зелёной тыквы
+	Tooltip: ""
+}
+
+GourdBlockLimeItem: {
+	DisplayName: Блок салатовой тыквы
+	Tooltip: ""
+}
+
+GourdBlockLimePlatformItem: {
+	DisplayName: Платформа из салатовой тыквы
+	Tooltip: ""
+}
+
+GourdBlockLimeWallItem: {
+	DisplayName: Стена из салатовой тыквы
+	Tooltip: ""
+}
+
+GourdBlockLimeOrangeItem: {
+	DisplayName: Блок салатово-оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdBlockLimeOrangePlatformItem: {
+	DisplayName: Платформа из салатово-оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdBlockLimeOrangeWallItem: {
+	DisplayName: Стена из салатово-оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdBlockOrangeItem: {
+	DisplayName: Блок оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdBlockOrangePlatformItem: {
+	DisplayName: Платформа из оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdBlockOrangeWallItem: {
+	DisplayName: Стена из оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdBlockRedItem: {
+	DisplayName: Блок красной тыквы
+	Tooltip: ""
+}
+
+GourdBlockRedPlatformItem: {
+	DisplayName: Платформа из красной тыквы
+	Tooltip: ""
+}
+
+GourdBlockRedWallItem: {
+	DisplayName: Стена из красной тыквы
+	Tooltip: ""
+}
+
+GourdBlockWhiteItem: {
+	DisplayName: Блок белой тыквы
+	Tooltip: ""
+}
+
+GourdBlockWhitePlatformItem: {
+	DisplayName: Платформа из белой тыквы
+	Tooltip: ""
+}
+
+GourdBlockWhiteWallItem: {
+	DisplayName: Стена из белой тыквы
+	Tooltip: ""
+}
+
+GourdBlockYellowGreenItem: {
+	DisplayName: Блок жёлто-зелёной тыквы
+	Tooltip: ""
+}
+
+GourdBlockYellowGreenPlatformItem: {
+	DisplayName: Платформа из жёлто-зелёной тыквы
+	Tooltip: ""
+}
+
+GourdBlockYellowGreenWallItem: {
+	DisplayName: Стена из жёлто-зелёной тыквы
+	Tooltip: ""
+}
+
+GourdBlockYellowItem: {
+	DisplayName: Блок жёлтой тыквы
+	Tooltip: ""
+}
+
+GourdBlockYellowPlatformItem: {
+	DisplayName: Платформа из жёлтой тыквы
+	Tooltip: ""
+}
+
+GourdBlockYellowWallItem: {
+	DisplayName: Стена из жёлтой тыквы
+	Tooltip: ""
+}
+
+GourdGreenCarvedItem: {
+	DisplayName: Стена из жёлтой тыквы
+	Tooltip: ""
+}
+
+GourdGreenCarvedItem: {
+	DisplayName: Зелёная вырезанная тыква
+	Tooltip: ""
+}
+
+GourdGreenCarvedLitItem: {
+	DisplayName: Фонарь из зелёной тыквы
+	Tooltip: ""
+}
+
+GourdLimeCarvedItem: {
+	DisplayName: Салатовая вырезанная тыква
+	Tooltip: ""
+}
+
+GourdLimeCarvedLitItem: {
+	DisplayName: Фонарь из салатовой тыквы
+	Tooltip: ""
+}
+
+GourdLimeOrangeCarvedItem: {
+	DisplayName: Салатово-оранжевая вырезанная тыква
+	Tooltip: ""
+}
+
+GourdLimeOrangeCarvedLitItem: {
+	DisplayName: Фонарь из салатово-оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdOrangeCarvedItem: {
+	DisplayName: Оранжевая вырезанная тыква
+	Tooltip: ""
+}
+
+GourdOrangeCarvedLitItem: {
+	DisplayName: Фонарь из оранжевой тыквы
+	Tooltip: ""
+}
+
+GourdRedCarvedItem: {
+	DisplayName: Красная вырезанная тыква
+	Tooltip: ""
+}
+
+GourdRedCarvedLitItem: {
+	DisplayName: Фонарь из красной тыквы
+	Tooltip: ""
+}
+
+GourdRottenCarvedItem: {
+	DisplayName: Прогнившая вырезанная тыква
+	Tooltip: ""
+}
+
+GourdRottenCarvedLitItem: {
+	DisplayName: Фонарь из прогнившей тыквы
+	Tooltip: ""
+}
+
+GourdWhiteCarvedItem: {
+	DisplayName: Белая вырезанная тыква
+	Tooltip: ""
+}
+
+GourdWhiteCarvedLitItem: {
+	DisplayName: Фонарь из белой тыквы
+	Tooltip: ""
+}
+
+GourdYellowCarvedItem: {
+	DisplayName: Жёлтая вырезанная тыква
+	Tooltip: ""
+}
+
+GourdYellowCarvedLitItem: {
+	DisplayName: Фонарь из жёлтой тыквы
+	Tooltip: ""
+}
+
+GourdYellowGreenCarvedItem: {
+	DisplayName: Жёлто-зелёная вырезанная тыква
+	Tooltip: ""
+}
+
+GourdYellowGreenCarvedLitItem: {
+	DisplayName: Фонарь из жёлто-зелёной тыквы
+	Tooltip: ""
+}
+
+MushroomMossSeeds: {
+	DisplayName: Семена грибного мха
+	Tooltip: Сажает грибной мох на замшелый камень
+}
+
+SpookyDirtItem: {
+	DisplayName: Жуткая земля
+	Tooltip: ""
+}
+
+SpookySeedsGreen: {
+	DisplayName: Семена жуткой зелёной травы
+	Tooltip: Сажает зелёную траву на жуткую землю
+}
+
+SpookySeedsOrange: {
+	DisplayName: Семена жуткой оранжевой травы
+	Tooltip: Сажает оранжевую траву на жуткую землю
+}
+
+SpookyStoneItem: {
+	DisplayName: Замшелый камень
+	Tooltip: ""
+}
+
+SpookyStoneWallItem: {
+	DisplayName: Стена из замшелого камня
+	Tooltip: ""
+}
+
+SpookyStoneBricksItem: {
+	DisplayName: Кирпич замшелого каменя
+	Tooltip: ""
+}
+
+SpookyStoneBricksWallItem: {
+	DisplayName: Стена из кирпича замшелого камня
+	Tooltip: ""
+}
+
+SpookyWoodItem: {
+	DisplayName: Старая древесина
+	Tooltip: ""
+}
+
+SpookyWoodWallItem: {
+	DisplayName: Стена из старого дерева
+	Tooltip: ""
+}
+
+SpookyWoodFenceItem: {
+	DisplayName: Забор из старого дерева
+	Tooltip: ""
+}
+
+EyeChestItem: {
+	DisplayName: Сундук-монстр
+	Tooltip: ""
+}
+
+SpookyHellChestItem: {
+	DisplayName: Сундук глазастой долины
+	Tooltip: ""
+}
+
+SpookyHellCrate: {
+	DisplayName: Ящик из ожившей плоти
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SpookyHellCrate2: {
+	DisplayName: Биомассовый ящик
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+EyeBlockItem: {
+	DisplayName: Глазастый блок
+	Tooltip: ""
+}
+
+EyeBathtubItem: {
+	DisplayName: Ванна из ожившей плоти
+	Tooltip: ""
+}
+
+EyeBedItem: {
+	DisplayName: Кровать из ожившей плоти
+	Tooltip: ""
+}
+
+EyeBookcaseItem: {
+	DisplayName: Книжный шкаф из ожившей плоти
+	Tooltip: ""
+}
+
+EyeCandelabraItem: {
+	DisplayName: Подсвечник из ожившей плоти
+	Tooltip: ""
+}
+
+EyeCandleItem: {
+	DisplayName: Свеча из ожившей плоти
+	Tooltip: ""
+}
+
+EyeChairItem: {
+	DisplayName: Стул из ожившей плоти
+	Tooltip: ""
+}
+
+EyeChandelierItem: {
+	DisplayName: Люстра из ожившей плоти
+	Tooltip: ""
+}
+
+EyeClockItem: {
+	DisplayName: Напольные часы из ожившей плоти
+	Tooltip: ""
+}
+
+EyeDoorItem: {
+	DisplayName: Дверб из ожившей плоти
+	Tooltip: ""
+}
+
+EyeDresserItem: {
+	DisplayName: Комод из ожившей плоти
+	Tooltip: ""
+}
+
+EyeLampItem: {
+	DisplayName: Напольная лампа из ожившей плоти
+	Tooltip: ""
+}
+
+EyeLanternItem: {
+	DisplayName: Фонарь из ожившей плоти
+	Tooltip: ""
+}
+
+EyePianoItem: {
+	DisplayName: Пианино из ожившей плоти
+	Tooltip: ""
+}
+
+EyePlatformItem: {
+	DisplayName: Платформа из ожившей плоти
+	Tooltip: ""
+}
+
+EyeSinkItem: {
+	DisplayName: Раковина из ожившей плоти
+	Tooltip: ""
+}
+
+EyeSofaItem: {
+	DisplayName: Диван из ожившей плоти
+	Tooltip: ""
+}
+
+EyeTableItem: {
+	DisplayName: Стол из ожившей плоти
+	Tooltip: ""
+}
+
+EyeWorkBenchItem: {
+	DisplayName: Верстак из ожившей плоти
+	Tooltip: ""
+}
+
+IconPainting1Item: {
+	DisplayName: Картина «Лицо тыквы»
+	Tooltip: "«DylanDoe21»"
+}
+
+IconPainting2Item: {
+	DisplayName: Картина «Пугающий логотип»
+	Tooltip: "«Honda»"
+}
+
+IconPainting3Item: {
+	DisplayName: Картина «Жуткая полночь»
+	Tooltip: "«Hugekraken»"
+}
+
+IconPainting4Item: {
+	DisplayName: Картина «Жуткий рассвет»
+	Tooltip: "«Hugekraken»"
+}
+
+IconPainting5Item: {
+	DisplayName: Картина «Портрет носокультиста»
+	Tooltip: "«Hugekraken»"
+}
+
+LittleEyePaintingItem: {
+	DisplayName: Автопортрет Глазика
+	Tooltip: "«Waasephi»"
+}
+
+LivingFleshItem: {
+	DisplayName: Ожившая плоть
+	Tooltip: ""
+}
+
+LivingFleshWallItem: {
+	DisplayName: Стена из ожившей плоти
+	Tooltip: ""
+}
+
+SpookyMushItem: {
+	DisplayName: Органическое месиво
+	Tooltip: ""
+}
+
+SpookyMushGrassSeeds: {
+	DisplayName: Семена мясной травы
+	Tooltip: Сажает мясную траву на органическое месиво
+}
+
+EyeSeed: {
+	DisplayName: Семена глазостебя
+	Tooltip: Сажает сажанец глазостебля
+}
+
+ValleyStoneItem: {
+	DisplayName: Кость долины
+	Tooltip: ""
+}
+
+BigBoneTrophyItem: {
+	DisplayName: Трофей Исполинского черепа
+	Tooltip: ""
+}
+
+BoroTrophyItem: {
+	DisplayName: Трофей Боро
+	Tooltip: ""
+}
+
+DaffodilTrophyItem: {
+	DisplayName: Трофей Нарцисс
+	Tooltip: ""
+}
+
+MocoTrophyItem: {
+	DisplayName: Трофей Моко
+	Tooltip: ""
+}
+
+OrroTrophyItem: {
+	DisplayName: Трофей Орро
+	Tooltip: ""
+}
+
+RotGourdTrophyItem: {
+	DisplayName: Трофей Гнилой тыквы
+	Tooltip: ""
+}
+
+SpookySpiritTrophyItem: {
+	DisplayName: Трофей Жуткого духа
+	Tooltip: ""
+}
+
+RaveStarter: {
+	DisplayName: Включатель тусовки
+	Tooltip:
+		'''
+		Начинает Посмертную тусу при использовании ночью
+		Предмет тестировки
+		'''
+}
+
+CatacombWeedKiller: {
+	DisplayName: Уничтожитель сорняков катакомб
+	Tooltip:
+		'''
+		Удаляет все тайлы растущих растений в катакомбах
+		Предмет тестировки
+		'''
+}
+
+Bestiary: {
+	DisplayName: Завершитель бестиария
+	Tooltip:
+		'''
+		Открывает все записи в бестиарии
+		Предмет тестировки
+		'''
+}
+
+CatacombTorch1Item: {
+	DisplayName: Факел мрачных катакомб
+	Tooltip: ""
+}
+
+CatacombTorch2Item: {
+	DisplayName: Факел мрачнейших катакомб
+	Tooltip: ""
+}
+
+CemeteryBiomeTorchItem: {
+	DisplayName: Факел заболоченого кладбища
+	Tooltip: ""
+}
+
+SpiderBiomeTorchItem: {
+	DisplayName: Факел паучьего грота
+	Tooltip: ""
+}
+
+SpookyBiomeTorchItem: {
+	DisplayName: Факел жуткого леса
+	Tooltip: ""
+}
+
+SpookyHellTorchItem: {
+	DisplayName: Факел глазастой долины
+	Tooltip: ""
+}
