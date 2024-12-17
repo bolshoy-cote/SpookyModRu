@@ -1,0 +1,267 @@
+LittleBone: {
+	Awaken: О, так ты, должно быть, здесь впервые, я всегда рад новеньким! Зови меня Косточкой, не стесняйся просить совета, если вдруг не разберёшься, что делать. И заходи почаще, я всегда буду ждать тебя здесь!
+	//advice
+	SpookyBiome: Как погляжу, в приключениях своих ты далеко ещё не зашёл. Не знаешь с чего начать? Советую тебе прогуляться по жуткому лесу, тут много всяких интересностей!
+	RotGourd: Хорошая снаряга у тебя однако! Уже слышал ту страшную историю про гниющую тыкву размером с дом, что бродит по лесу этому и то и дело пугает всех? Нет? Порыскай здесь тыковки да посрубай самые большие. Сразу всё поймёшь, как найдёшь ту самую.
+	CemeteryBiome: Если сможешь пробраться через джунгли тропические, наткнёшься на кладбище — местечко странное, там весь день темно и туманно, но добыча наверняка того стоит.
+	SpiderGrotto: Выглядишь так, будто горы сможешь свернуть. Думаю, гигантский паучий грот тебе будет по зубам. Найти такой можно под землёй вдали отсюда. Удачи.
+	SpookySpirit: Ходят слухи, что в том туманном кладбище обитает могущественный дух, что сражается насмерть с каждым, кого посчитает достойным. Так вот, скажу прямо — ты достоин.
+	CatacombLayer1: Теперь ты можешь исследовать катакомбы под кладбищем. Рекомендую собирать всё, что не прикручено к полу: мертвякам эти сокровища уж точно не нужны.
+	EyeValley: Стоит тебе спуститься в джунгли как можно глубже, прямо до преисподней, так ты найдешь одно очень жуткое местечко. Я сам туда больше ни ногой: до смерти боюсь этого чувства, когда за тобой будто кто-то наблюдает. Тебе же, мне кажется, будет там чем заняться.
+	CatacombLayer2: Советую тебе вернуться в катакомбы ещё разочек и найти способ пробудить спящего стража. Пробиваться придётся с боем, но одолев его — сможешь зайти ещё глубже...
+	OrroBoro: Теперь, когда эти гигантские машины побеждены, можно вернутся в глазастую долину. Этом жутком местечке обитает опытный алхимик, способный создавать особые вещества.
+	BigBone: Поскольку у тебя теперь есть доступ к самой глубокой комнате катакомб, ты можешь наконец встретить того, кто устроил там весь этот хаос.
+	NoAdvice: Прости, сейчас я не могу тебе посоветовать ничего дельного.
+	//transport
+	Transport: Вот, возьми мой волшебный переносной горшок. С его помощью ты сможешь призвать меня в любых своих приключениях! Я надеялся, что смогу быть рядом и помогать, когда тебе это нужно.
+	NoTransport: Походу у тебя уже есть мой волшебный переносной горшок.
+	//default
+	Default1: Почему я всегда пританцовываю, спрашиваешь? Потому что это просто весело, попробуй как-нибудь.
+	Default2: Когда наступает жуткий сезон? Жуткий сезон идёт всегда! По крайней мере, с моей точки зрения.
+	Default3: Вау, ты выглядишь прямо наполненным духом Хэллоуина!
+	Default4: Приключания - это весело. Жаль что я не могу нормально передвигаться в этом горшке.
+	Default5: Знаешь, быть растением не так уж и плохо. По крайней мере, я могу вдовль налюбоваться пейзажами!
+	Default6: ...
+	//biomes
+	SpookyBiome1: Иногда мне хочется поболтать с черепоцветами, растущими по близости. Только они, похоже, не отвечают.
+	SpookyBiome2: Жуткий лес такое чудное место для жизни! Если не считать этих зомбоидов, появляющихся каждую ночь, разве что.
+	SpookyBiome3: Слышал, что под этим местом расположены жуткие пещеры, в которых растут не менее жуткие грибы. Думаю, было бы интересно исследовать их!
+	SpookyHell1: Знаешь, для места, расположенного в преисподней, тут подозрительно холодно.
+	SpookyHell2: У меня от этого места мурашки по коже! Ощущение, будто за мной вечно кто-то следит, даже если рядом ни духу.
+	SpookyHell3: В этом месте столько отвратительных внутренносей и щупалец... Кажется, будто меня сейчас вырвет.
+	SpookyHell4: Здешние существа такие странные. Почему некоторые вообще могут двигаться?
+	Cemetery1: Это место действительно туманное и жуткое, я обожаю это!
+	Cemetery2: Будь внимателен ко всему вокруг. Я слышал, что тут водятся призраки, некоторые из которых даже могут вселится в ничего не подозревающего человека.
+	Cemetery3: Кладбище - странное место, где оживают зомби и другая нечисть. Будь осторожен!
+	CatacombFirstLayer1: Здесь как-то много растительности для подземных катакомб, куда не попадает и капли солнечного света...
+	CatacombFirstLayer2: Осторожно, я слышал слухи о том как катающиеся черепа тут переехали одного исследователя!
+	CatacombFirstLayer3: Здесь происходит что-то дейтсвительно странное. Здешняя нечисть сильно отличается от остальной.
+	CatacombSecondLayer1: Похоже, это место заражено действительно странными растениями. Некоторые из них даже разумны!
+	CatacombSecondLayer2: Удивительно, что здесь сохранилось столько растений при условии полного отсутствия солненчного света.
+	CatacombSecondLayer3: Есть в этом месте что-то странное. Да и некоторые существа-растения кажутся мне подозрительно знакомыми...
+	SpiderGrotto1: Это место намного мрачнее, чем я думал. Интересно, что за люди жили здесь раньше?
+	SpiderGrotto2: Эти светящиеся в темноте глаза повсюду! Надеюсь, нас не укусит один из этих смертельно ядовитых пауков.
+	SpiderGrotto3: Фууу!!! Здесь столько этой липкой паутины, мы можем поскорее уйди отсюда?
+	Forest1: Этот лес выглядит прямо как жуткий... только без всей этой жуткости, что-ли.
+	Forest2: Это достаточно хорошее место! Очень спокойно и мирно.
+	Forest3: Мне здесь нравится. Этот лес заставляет меня чувствовать себя как дома, даже за пределами жуткого леса.
+	Snow1: Бррр, в этом лесу очень холодно!
+	Snow2: Это место может и выглядит немного жутковато, но здесь страшно холодно!
+	Desert1: What is this horrible place? Its nothing but sand and awfully hot weather. I don't like this area.
+	Desert2: Ouch! Why are there so many painful prickly plants here? I thought plants were supposed to be nice and friendly!
+	Desert3: Can we go somewhere else? Sand keeps getting inside my flower pot!
+	Jungle1: This is a really dense and humid forest. Very groovy!
+	Jungle2: Why is everything here so unfriendly? Even the plants here try to eat you!
+	Mushroom1: This place looks really nice, but why are you looking at me like that?
+	Mushroom2: I have heard of such strange places before, but I never thought you would actually find one!
+	Dungeon: This dungeon is so spooky! I wonder if those other skeletons in the distance are coming to us to spread halloween cheer?
+	Shimmer1: Это самое прилестное озеро которое я видел в своей жизни!
+	Shimmer2: Какое-то прикольное мистическое и блестящее озеро! Интересно, что произойдёт, если в него нырнуть?
+	Corruption1: Это место выглядит круто. Жаль, только, что я всё время слышу о том как оно разрушает собой всё вокруг.
+	Corruption2: Здешние существа такие мерзкие! Мне даже противно на них смотреть.
+	Crimson1: ФУ, ФУ, ФУ, ФУ!! Что за убожественное место!?
+	Crimson2: О господи, как нечто настолько ужасное может существовать на земле? Здесь слишком жутко, даже для меня.
+	Hallow1: Вау, это место такое блестящее и яркое! Но, кажется, его же здесь раньше небыло?
+	Hallow2: Для место, выглядящего так мило и спокойно, тут слишком много фей-убийц!
+	//buttons
+	Button1: Совет
+	Button2: Перенос
+}
+
+LittleEye: {
+	Awaken: Whoa there, I was trying to take a nap! You must be a pretty curious adventurer to have found your way down here. Anyway, make yourself at home I guess, I've given up on trying to repair this giant lab of mine. Oh and take this weird crystal doohickey I found, It might be of use to you.
+	Default1: This place is really funky. I love watching those weird floating flesh creatures crash into stuff!
+	Default2: Did you know there's a strange giant egg somewhere around here? That'd make enough scrambled eggs to last for weeks!
+	Default3: You may call me an alchemist, I call it making nasty concoctions that I give to others for laughs.
+	Default4: You may use my magic cauldron, under the condition that you say the magic word... alright fine, you can use it whenever.
+	Default5: My cauldron is pretty crazy. Last guy wanted to make a fire elixir to fight some giant bee, but instead he comically exploded.
+	Default6: The alchemy I do down here is not really science. Nothing says alchemy more than throwing random things into a cauldron and saying gibberish afterward!
+	Default7: If your alchemy creation doesn't completely blow up in your face, you're probably doing something wrong.
+	Default8: Have you seen that giant pit of blood over there? I've seen some nasty things in there, but you can't just use any regular fishing rod in it.
+	OrroBoro: Hey, there's like a giant worm chasing you right now. Maybe go deal with that?
+	Upgrades: So, you've never heard about my cauldron? Well, if you obtain a sentient heart, you can combine it with specific weapons to turn them into something a little crazy. Sentient hearts are dropped by large and strong creatures, so make sure to look out for them! I have also heard rumors that killing a pair of serpents will also attract a strong creature in the blood lake which possesses them.
+	Quest1Accepted: Ok, so if you want to find the gremlin it'll probably be hungry. Take this yummy scrumptious slice of cake I've had saved and hopefully you'll be able to lure it out.
+	Quest2Accepted: With this bag of gold you should be able to attract those devious ghost bandits. Find them and show them what happens when you cause minor property damage to the lab I spent so much time making!
+	Quest3Accepted: Alright, since my sewing project is partially a spider, this dead fungus-covered beetle should do the trick! Just wait around and it'll probably smell it... or maybe detect it with whatever computer I put inside of it.
+	Quest4Accepted: Here's a container of my favorite eye drops, and since my clone is just me it should attract him as well. Be quick, I want him as dead as possible, as soon as possible.
+	Quest5Accepted: Take this special flask I made, which is constructed with materials you couldn't begin to comprehend. This should hopefully revert the barrier spell on the egg, but there's no telling what might happen when you use it. Always prepare for the worst!
+	Quest1Complete: You found that giant goblin much faster than expected! Also yay wow cool you survived somehow too!!! Anyways, here's this thread I used to sew the goblin together. I think it might be cursed so there's no telling what'll happen. I'm sure you'll get more use out of it anyway though.
+	Quest2Complete: Wow those chocola... I mean real gold coins worked! Anyways this book really scares me and spook-bay won't let me refund it, so I think maybe you should take it... and please don't bring it back here.
+	Quest3Complete: Yay you've managed to bring back my expensive felt I ho... What do you mean this is the only piece that didn't get destroyed? Ugh this is so small, I can't get anything from this... ok, here's this cloak I just made in a second for you, hope it can somehow help you in your adventures.
+	Quest4Complete: You have finally killed that dastardly evil-doer. For your efforts, please take this magical crystal ball to ponder and increase your power.
+	//buttons
+	Button1: Задание по охоте
+	Button2: Котёл
+}
+
+OldHunter: {
+	Awaken: Huh? What the hell is this? And who the hell are you!? What even happened, how long was I asleep for? Eh whatever, it probably don't matter. You look decently strong, you wanna buy some of my crazy weapons?
+	Default1: Y'know, if ya want guns you've come to the right place! I've got some classic weapons ain't no one can top!
+	Default2: Hunting is a great sport! You ever try to snipe one of them weird lil' spider creatures from far away?
+	Default3: Fantasy swords? Crazy magic weapons? Why not use a good ol' gun like a normal person?
+	Default4: Didja know that the grotto used to not be infested by spiders? We used to get visitors all time but apparently spiders are too scary for some people.
+	Default5: Ya ever used a slingshot before? Well I doubt you ever used one of my state-of-the-art high-velocity ones!
+}
+
+PartySkeleton: {
+	Dialogue1: Бро я умер.
+	Dialogue2: Танцуйте до смерти!
+	Dialogue3: ЙОУУУУУУ!!!
+	Dialogue4: Эта вечеринка просто убойна!
+	Dialogue5: Я забыл ключи от своей машины и не могу вернуться домой, помоги, пожалуйста.
+	Dialogue6: Я — сердце этой вечеринки.
+	Dialogue7: Честно, меня задрали эти каламбуры про смерть и скелетов до мозга костей.
+	Dialogue8: Мне кажется, что я просто умру, когда это всё закончится.
+	Dialogue9: Что ты такое говоришь? Ты должен тусоваться, а не говорить об этих глупостях!
+	Dialogue10: Ааааааааааааах...
+	Dialogue11: Я выпил так много, что мне кажется, я начинаю чувствовать вкус цветов!
+	Dialogue12: Всегда приятно отдохнуть от вечной охраны катакомб.
+	Dialogue13: Мы должны создать свой профсоюз для повышения зарплат стражей катакомб!
+	Dialogue14: Я бы держался подальше от того чувака в чёрной кофте. Он какой-то криповый.
+	Dialogue15: Я думал, что тот мужик в чёрной кофте продаст мне нормального дерьма, но теперь мне мерещатся теневые фигуры.
+	Dialogue16: Я обычный скелет, тут не на что смотреть.
+	Dialogue17: Я ЛЮБЛЮ ВЕЧЕРИНКИ!! ГРЯЯЯЯЯХ!!!!!
+	Dialogue18: Где музыка? Разве на вечеринках не должна играть му... а, да, я мёртв, чёрт возьми, у меня же нет ушей.
+	Dialogue19: Никакая вечеринка не обойдётся без некромантии.
+	Dialogue20: Безумная вечеринка, да? Приятно иметь дело с чем-то, что не погребено под землёй.
+	Dialogue21: Мне так надоели скелеты из катакомб, которые хвастаются тем, что там живут. Смогли бы они замутить там такую же тусу? Не думаю.
+	Dialogue22: Хм, ты, по всей видимости, не местный? Выглядишь напряжённо, останься здесь и потусуйся от души! Такие мероприятие бывают не так уж часто.
+	Dialogue23: Какой-то мужик подбежал ко мне и выкрикнул «CURSE OF RAH». Чё это вообще может значить?
+	Dialogue24: Ты когда-нибудь задумывался о том, как скелеты пьют? И не стоит, ты всё равно не сможешь понять.
+	Dialogue25: Я всего лишь ждал выхода третьей части моей любимой игры... ну, перед тем как стал скелетом.
+	Dialogue26: Что значит, ты «теперь» нас видишь? Мы тут были всегда.
+	Dialogue27: Откуда вообще берутся гигантские световые лучи? В любом случае, выглядит очень атмосферно!
+	Dialogue28: Я настоящая душа этой вечеринки. Быть сердцем вечеринки? Как жалко!
+	Dialogue29: ЗАТКНИСЬ! Мой отец работает на Valve и будет использовать ваш разлагающийся труп для текстуры модели!
+	Dialogue30: Они называют меня мешком с костями.
+	Dialogue31: Превращение из зомбоида в скелетоноида — это так чудно. Как из грязи в князи!
+}
+
+SkeletonBouncer: {
+	Dialogue1: Похоже, ты тут недавно. Я не хочу, чтобы у тебя возникли какие-нибудь неприятности, на организацию таких вечеринок уходит очень много времени и сил.
+	Dialogue2: Вперёд, развлекайся и веселись. Только не нужно здесь никому мешать.
+	Dialogue3: Эти вечеринки очень весёлые. Только не совершай никаких преступлений, а то мне придётся убить тебя из своего пистолета. Это может испортить атмосферу.
+	Dialogue4: Компания предоставила нам новые потусторонние пистолеты. Они утверждают, что эти пушки намного лучше предыдущих, но я не уверен. Клянусь, я слышал, как они кричали.
+	Dialogue5: ...
+}
+
+SuspiciousSkeleton: {
+	Dialogue1: Йоу, парень, не хочешь немного кошмарного топлива? Оно прям нормально втыкает.
+	Dialogue2: Мой брат Тони поставляет интересный товар. Видимо, достать его легче, когда ты превращаешь в фарш тех огромных чудиков. Честно, я сам не понимаю как это работает, так что не спрашивай меня об этом.
+	Dialogue3: Ey kid! Yer too slow! Just sold someone a big golden ring earlier. Haven't heard from em in a minute though
+	Dialogue4: Sorry kid, I ain't got much to give ya right now. Ye've gotta beat up some big fellas before Tony can get his hands on the good stuff, ye see what I'm sayin?
+	Dialogue5: Yer asking me if I've tried the stuff? My brother in christ, I'm not stupid enough to. You are. Now buy more of my stuff.
+	Dialogue6: The sweater? I won it at the arcade, where I played this weird arcade machine. Some men in black gave it to me for free!
+	Dialogue7: You want some weird contraband? Ye probably come to the right place. Some of the people who buy my crap never return though.
+	Dialogue8: Do I like pizza? Kid, last time I had pizza I almost got mauled by a cast of colorful pizzeria mascots. Pizza tastes bitter now.
+	Dialogue9: Ye know ma brother Tony used to be the one selling the stuff too. So happens that horrors beyond your comprehension don't really like him selling the goods, so this is our workaround.
+	Dialogue10: Never trust them 'VHS' tapes kid. Not only is it outdated tech, but if someone is selling you one directly, its probably got a demon in it.
+	Dialogue11: How do I know if this stuff is safe? I don't.
+	Dialogue12: I've heard there's actually some stuff similar to what I sell lying around here. No idea how ye get it, Tony's been trying. If ye come across anythin real weird let me know ey?
+	Dialogue13: I hate parties but they do a good job at hiding my business.
+	Dialogue14: Эй, я не продаю комтную муку. Это РЕАЛЬНО стрёмное дерьмо, понимаешь? Держись от неё подальше, если хочешь сохранить свой нос.
+	Dialogue15: Ye know Tony told me apperantly some of the stuff he gets from his ventures has this kind of weird magnetism. Ye know they stick together like glue and what not? Oughta mean something.
+	Dialogue16: Если ты хотел бы глянуть более широкий ассортимент, поубивай этих больших чудиков в округе. Это позволит Тони быстрее привести товар, не привликая лишнего внимания.
+	Dialogue17: Тони любит вечеринки. Хреново, что они мне не нравятся, но мне нужно тут быть.
+	Dialogue18: Some of this stuff apperantly's got a lot of familial sentimental value to some folks. Not any folks here mind you, I ain't got time to be family counselor. If they wanted the stuff should've gotten it before Tony.
+	Dialogue19: «Кто не успел, тот опоздал» — вот мой девиз, пацан. Так что хавай товар, пока есть возможность.
+	Dialogue20: Ye know one time ma brother Tony got lost in this weird town faaar away from here. Real foggy, couldn't see a thing, and it was filled with some real nasty ghouls. Not like us, more like, say the ones from the stuff I'm selling ye. Tony couldn't nab nothing from the place cause this cone-head freak kept chasing him around with a claymore.
+	Dialogue21: Не купить товар, когда у тебя есть возможность — вот что страшно.
+}
+
+DumbZomboid: {
+	Dialogue1: Урргх...
+	Dialogue2: Гууурх?
+	Dialogue3: Хуург!?
+}
+
+Daffodil: {
+	PreDefeatIntro1: !!!!!!
+	PreDefeatIntro2: Кто посмел меня разбудить!?
+	PreDefeatIntro3: ......
+	PreDefeatIntro4: Что ж, проверим, достоин ли ты!
+	PostDefeatIntro1: Гх, почему ты продолжаешь будить меня?
+	PostDefeatIntro2: Что ж, тогда сразимся снова...
+	PreDefeatPhaseTransition1: Ну, раз так...
+	PreDefeatPhaseTransition2: Посмотрим, справишься ли ты с этим!
+	PostDefeatPhaseTransition1: Хах, значит, ты стал не чуть не хуже с прошлого раза...
+	PostDefeatPhaseTransition2: Тогда я уверена, что ты справишься и с этим!
+	PreDefeatOutro1: Значит, ты действительно силён...
+	PreDefeatOutro2: Что ж, значит я позволю тебе пройти ниже.
+	PostDefeatOutro1: Ты всё также силён...
+	PostDefeatOutro2: Я до сих пор не понимаю, почему ты продолжаешь меня будить, но ладно.
+	BackToSleep: Не-а...
+}
+
+NoseBrute: {
+	Dialogue1: Мрррнг...
+	Dialogue2: Хр...
+	Dialogue3: Фффыррр...
+}
+
+NoseGrunt: {
+	Dialogue1: *шмыг*
+	Dialogue2: Повелитель... Моко...
+	Dialogue3: Да здравствует Моко!
+	Dialogue4: Правитель явится, если мы будем соблюдать эти ритуалы.
+	Dialogue5: Я не знаю, что лидер делает со всеми этими соплями, которые мы ему даём, но, вероятно, они идут на благо.
+}
+
+NoseGunner: {
+	Dialogue1: My gun speaks to me and tells me the holy nose will come soon. I am grateful.
+	Dialogue2: The great one's snot has allowed us to make and use these weapons, and together we will repay the favor.
+	Dialogue3: Being sacrificed into a booger blaster is the greatest experience one could ever imagine. I hope one day Noseferatu will let me become one.
+	Dialogue4: Jealous? Maybe if you keep up your rituals, you can wield a booger blaster yourself.
+}
+
+NoseLeader: {
+	Button: Благословение (дать комок соплей)
+	NoseBlessing: Here my little follower, for you a blessing straight from my nose. Use it wisely...
+	NoseBlessingBroke: Did you come to me and expect to yield results with no sacred snot? Shameful.
+	Dialogue1: My little disciple, have you come to sacrifice yourself for the holy one?
+	Dialogue2: I am out of holy booger blasters. I can make you into one, though.
+	Dialogue3: What are you doing away from the shrine? It is worshipping hour.
+	Dialogue4: Sniffle... you know, you look like you could use more snot. on your cloak.
+	Dialogue5: Our rituals have allowed us to turn those sacred moclings back into the great one. Only those who are worthy may witness it in all its glory.
+	Dialogue6: The nose that sneezed out the nose that sneezed out the nose. This is the process that created our kind and this world.
+}
+
+NoseMage: {
+	Dialogue1: I am trying to focus on my magic, I cannot talk now.
+	Dialogue2: We are worshipping, I am channeling my power, and you will ascend with us someday.
+	Dialogue3: Leave me to my arcane practices, please.
+	Dialogue4: Moco is the great one. It is the being that first brought snot to our land, and for that we thank it with our praise.
+	Dialogue5: Perhaps you yourself could harvest the arcane power and ascend further to become a snot mage.
+	Dialogue6: You look weak. A disciplined disciple of the nose will eventually be given the blessing of snot magic.
+}
+
+NoseWinged: {
+	Dialogue1: Our wings allow us to get closer to the great moco.
+	Dialogue2: The cult is powerful, and our rituals are increasing the great one's power.
+	Dialogue3: The great moco allows us to use its snot to further our power, as long as we return the favor with our rituals.
+	Dialogue4: These wings took me years to obtain. After getting in favor with our leader, he created them for me.
+}
+
+PandoraBox: {
+	Button: Открыть
+	Dialogue: Странный ящик, окутанный таинственной аура. Хотите ли вы его открыть?
+}
+
+SentientCap: {
+	Dialogue1: Hi Hi Hi!
+	Dialogue2: NIGHTMARE
+	Dialogue3: I love sitting on your head
+	Dialogue4: I'm cappin!
+	Dialogue5: Isn't this so silly?
+	Dialogue6: Glurrrg...
+}
+
+TheMan: {
+	One: Один
+	Two: Два
+	Three: Три
+	Four: Четыре
+	Five: Пять
+}
+
+TheHorse: Насколько ты голоден?
