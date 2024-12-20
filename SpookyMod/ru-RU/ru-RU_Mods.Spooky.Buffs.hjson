@@ -24,7 +24,7 @@ FlyBuff: {
 
 SkullFrenzyBuff: {
 	DisplayName: Некромантическое безумие
-	Description: Увеличение урона, шанса нанести критический удар, отбрасывания и скорости передвижения
+	Description: Увеличение урона, шанса нанести критический удар, силы отбрасывания и скорости передвижения
 }
 
 SnottySchnozCooldown: {
@@ -52,7 +52,7 @@ EmbryoCooldown: {
 	Description:
 		'''
 		The embryo's revival must recharge
-		Увеличивает все типы урона и шанс критического удара
+		Увеличивает урона и шанс критического удара
 		'''
 }
 
@@ -68,7 +68,7 @@ EnsnaredDebuff: {
 
 HallucinationDebuff1: {
 	DisplayName: Человек
-	Description: Выход отсутсвует
+	Description: Выхода нет
 }
 
 HallucinationDebuff2: {
@@ -133,11 +133,11 @@ Possessed: {
 
 SadDebuff: {
 	DisplayName: Грусть
-	Description: Урон уменьшен на 10%, вы двигаетесь медленнее
+	Description: Урон снижен на 10%, вы двигаетесь медленнее
 }
 
 ThornMark: {
-	DisplayName: Шипастая метка (Метка шипа?)
+	DisplayName: Метка шипа
 	Description: ""
 }
 
@@ -158,12 +158,12 @@ EntityMinionBuff: {
 
 EyeArmorMinionBuff: {
 	DisplayName: Глазастая кроха
-	Description: Маленький глаз помогает вам защищаться!
+	Description: Маленький глаз защитит вас!
 }
 
 GrugBuff: {
 	DisplayName: Гаргулья
-	Description: Грэг горгулья защищает тебя!
+	Description: Горгулья Грэг защищает вас!
 }
 
 NoseMinionBuff: {
@@ -178,7 +178,7 @@ OldHunterBuff: {
 
 PumpkinHeadBuff: {
 	DisplayName: Тыквенная голова
-	Description: Твоя голова теперь сражается за тебя!
+	Description: Твоя голова будет сражаеться за вас!
 }
 
 RotGourdMinionBuff: {
