@@ -112,7 +112,7 @@ FlyCooldown: {
 }
 
 GourdDecay: {
-	DisplayName: Гниющий
+	DisplayName: Гниение
 	Description: ""
 }
 
@@ -167,7 +167,7 @@ GrugBuff: {
 }
 
 NoseMinionBuff: {
-	DisplayName: Нос-муха
+	DisplayName: Муха-нос
 	Description: Нос жужжит вокруг вас
 }
 
@@ -178,7 +178,7 @@ OldHunterBuff: {
 
 PumpkinHeadBuff: {
 	DisplayName: Тыквенная голова
-	Description: Твоя голова будет сражаеться за вас!
+	Description: Ваша голова будет сражаеться за вас!
 }
 
 RotGourdMinionBuff: {
@@ -193,12 +193,12 @@ SkullWispBuff: {
 
 SoulSkullBuff: {
 	DisplayName: Череп-призрак
-	Description: Череп-призрак сражается за вас
+	Description: Череп-призрак будет сражаться за вас
 }
 
 SkullTotemBuff: {
-	DisplayName: Усиление черепного тотема
-	Description: Вы получили величенный урон призывателя, дальность хлыста, а также 2 слота для миньонов
+	DisplayName: Усиление черепного идола
+	Description: Увеличение урона призывателя, дальности хлыста, а также 2 дополнительных слота для миньонов
 }
 
 TortumorMinionBuff: {
@@ -207,8 +207,8 @@ TortumorMinionBuff: {
 }
 
 BigBonePetBuff: {
-	DisplayName: Крошка-кость
-	Description: Ыозможно, он поглощает ваше тело
+	DisplayName: Крошка-череп
+	Description: Возможно, он поглощает ваши питательные вещества
 }
 
 CatBuff: {
@@ -233,7 +233,7 @@ FuzzBatPetBuff: {
 
 GhostPetBuff: {
 	DisplayName: Маленький призрак
-	Description: Жуткий маленький призрак покажет вам путь
+	Description: Жуткий маленький призрак укажет вам путь
 }
 
 MocoPetBuff: {
@@ -313,7 +313,7 @@ MonumentMythosCooldown: {
 
 MonumentMythosShatter: {
 	DisplayName: Freedom Containment Shatter
-	Description: Вы получаете в два раза больше урона ото всех источников
+	Description: Вы получаете в 2 раза больше урона от всех источников
 }
 
 InchwormBuff: {
@@ -342,7 +342,7 @@ SpiderArmorStealth: {
 
 SpiderStealthCooldown: {
 	DisplayName: Spi-Ops Stealth Cooldown
-	Description: Вы не можете применить паучью скрытность
+	Description: Вы не можете использовать паучью скрытность
 }
 
 WhipSpiderAggression: {
@@ -466,8 +466,8 @@ GlassEyeDebuff: {
 }
 
 GlassEyeCooldown: {
-	DisplayName: Стеклянный глаз разбился
-	Description: Ваш стеклянный глаз разбился
+	DisplayName: Разбитый глаз
+	Description: Ваш стеклянный глаз разбит
 }
 
 StitchedCloakCooldown: {
@@ -491,7 +491,7 @@ EggEventEnemyBuff: {
 }
 
 ZombieCultistPetBuff: {
-	DisplayName: Культист зомби-носа
+	DisplayName: Зомби-носокультист
 	Description: Скорее всего хочет вернуть свои мозги
 }
 
