@@ -833,7 +833,7 @@ DiscoSkull: {
 }
 
 GraveDiggerShovel: {
-	DisplayName: Лопата гробовщика
+	DisplayName: Лопата копателя кладбища
 	Tooltip: Разбейте врагов ржавой лопатой!
 }
 
