@@ -1,16 +1,16 @@
 SpookyBiome: {
 	DisplayName: Жуткий лес
-	TownNPCDialogueName: жуткий лес
+	TownNPCDialogueName: Жуткий лес
 }
 
 SpookyBiomeUg: {
 	DisplayName: Жуткое подземелье
-	TownNPCDialogueName: подземелье жуткого леса
+	TownNPCDialogueName: Подземелье жуткого леса
 }
 
 CemeteryBiome: {
 	DisplayName: Заболоченное кладбище
-	TownNPCDialogueName: заболоченное кладбище
+	TownNPCDialogueName: Заболоченное кладбище
 }
 
 RaveyardBiome: {
@@ -20,17 +20,17 @@ RaveyardBiome: {
 
 CatacombBiome: {
 	DisplayName: Мрачные катакомбы
-	TownNPCDialogueName: мрачные катакомбы
+	TownNPCDialogueName: Мрачные катакомбы
 }
 
 CatacombBiome2: {
 	DisplayName: Мрачнейшие катакомбы
-	TownNPCDialogueName: мрачнейшие катакомбы
+	TownNPCDialogueName: Мрачнейшие катакомбы
 }
 
 NoseTempleBiome: {
 	DisplayName: Храм Моко
-	TownNPCDialogueName: храм Моко
+	TownNPCDialogueName: Храм Моко
 }
 
 PandoraBoxBiome: {
@@ -40,25 +40,25 @@ PandoraBoxBiome: {
 
 SpookyHellBiome: {
 	DisplayName: Глазастая долина
-	TownNPCDialogueName: глазастая долина
+	TownNPCDialogueName: Глазастая долина
 }
 
 SpookyHellEventBiome: {
 	DisplayName: Яичное нашествие
-	TownNPCDialogueName: яичное нашествие
+	TownNPCDialogueName: Яичное нашествие
 }
 
 SpookyHellLake: {
 	DisplayName: Кровавое озеро
-	TownNPCDialogueName: кровавое озеро
+	TownNPCDialogueName: Кровавое озеро
 }
 
 SpiderCaveBiome: {
 	DisplayName: Паучий грот
-	TownNPCDialogueName: паучий грот
+	TownNPCDialogueName: Паучий грот
 }
 
 HallucinationZone: {
 	DisplayName: Галлюцинация
-	TownNPCDialogueName: галлюцинация
+	TownNPCDialogueName: Галлюцинация
 }
