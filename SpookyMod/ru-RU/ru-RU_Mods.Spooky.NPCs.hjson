@@ -30,7 +30,7 @@ DaffodilEye: {
 
 	BossChecklistIntegration: {
 		SpawnInfo: Бросьте в неё [i:Spooky/Brick], чтобы разбудить.
-		DespawnMessage: Нарцисс завершает вашу экспедицию в катакомбы.
+		DespawnMessage: Нарцисс завершает вашу экспедицию в Катакомбы.
 	}
 }
 
@@ -48,7 +48,7 @@ BigBone: {
 	DisplayName: Исполинский череп
 
 	BossChecklistIntegration: {
-		SpawnInfo: Используйте [i:Spooky/Fertilizer] возле гигантского цветочного горшка, расположенного на самом дне катакомб
+		SpawnInfo: Используйте [i:Spooky/Fertilizer] возле гигантского цветочного горшка, расположенного на самом дне Катакомб.
 		DespawnMessage: Все игроки стали жертвой гнева Исполинского черепа.
 	}
 }
@@ -58,7 +58,7 @@ BigFlowerPot.DisplayName: Гигантский цветочный горшок
 BigFlower.DisplayName: Солнечный цветок
 DefensiveFlower.DisplayName: Защитный цветок
 HealingFlower.DisplayName: Исцеляющий цветок
-CatacombGuardian.DisplayName: Страж катакомб
+CatacombGuardian.DisplayName: Страж Катакомб
 BigBoneArenaBG.DisplayName: ""
 DaffodilBody.DisplayName: ""
 DaffodilHandLeft.DisplayName: Нарцисс
@@ -93,7 +93,7 @@ Skeletoid2.DisplayName: Скелетоид
 Skeletoid3.DisplayName: Скелетоид
 Skeletoid4.DisplayName: Скелетоид
 SkeletoidBig.DisplayName: Большой Иоанн
-BoneStackerBase.DisplayName: Плита катакомбы
+BoneStackerBase.DisplayName: Плита Катакомб
 BoneStacker1.DisplayName: Костяная плита
 BoneStacker2.DisplayName: Костяная плита
 BoneStacker3.DisplayName: Костяная плита
