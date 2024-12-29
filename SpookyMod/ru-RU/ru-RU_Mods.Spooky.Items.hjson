@@ -374,17 +374,17 @@ FlowerLegs: {
 
 CatacombKey1: {
 	DisplayName: Ключ от жёлтого люка
-	Tooltip: Открывает люк с жёлтым замком в катакомбах
+	Tooltip: Открывает люк с жёлтым замком в Катакомбах
 }
 
 CatacombKey2: {
 	DisplayName: Ключ от красного люка
-	Tooltip: Открывает люк с красным замком в катакомбах
+	Tooltip: Открывает люк с красным замком в Катакомбах
 }
 
 CatacombKey3: {
 	DisplayName: Ключ от оранжевого люка
-	Tooltip: Открывает люк с оранжевым замком в катакомбах
+	Tooltip: Открывает люк с оранжевым замком в Катакомбах
 }
 
 PlantChunk: {
@@ -607,7 +607,7 @@ RustyRing: {
 		'''
 		Увеличивает максимальный запас здоровья на 60 ед.
 		Увеличивает скорость регенерации здоровья
-		Даёт эффект зелья шахтёра, пока вы находитесь в темнице или в катакомбах
+		Даёт эффект зелья шахтёра, пока вы находитесь в Темнице или в Катакомбах
 		'''
 }
 
@@ -813,7 +813,7 @@ CemeteryKey: {
 	DisplayName: Ключ заболоченного кладбища
 	Tooltip:
 		'''
-		Отпирает сундук заболоченного кладбища в темнице
+		Отпирает сундук заболоченного кладбища в Темнице
 		Не может быть использован до победы над Плантерой
 		'''
 }
@@ -833,8 +833,8 @@ DiscoSkull: {
 }
 
 GraveDiggerShovel: {
-	DisplayName: Cemetery Digger's Shovel
-	Tooltip: Bash enemies with a rusty shovel
+	DisplayName: Лопата гробовщика
+	Tooltip: Разбейте врагов ржавой лопатой!
 }
 
 PartyNailgun: {
@@ -1023,7 +1023,7 @@ GourdFish: {
 
 HibiscusFish: {
 	DisplayName: Плавающий гибискус
-	Tooltip: "«Водится в мрачных катакомбах»"
+	Tooltip: "«Водится в Мрачных катакомбах»"
 }
 
 SpookySpiritFish: {
@@ -1115,17 +1115,17 @@ CatEyes: {
 }
 
 DissolvedBone: {
-	DisplayName: Slightly Dissolved Bone
+	DisplayName: Немного растворённая кость
 	Tooltip:
 		'''
-		Summons a mysterious pile of goo to follow you
-		'Its covered in nasty goop, gross!'
+		Призывает таинственную массу, приследующую вас
+		«Он покрыт какой-то липкой слизью, отвратительно!»
 		'''
 }
 
 ExpiredCheese: {
-	DisplayName: Expired Cheese
-	Tooltip: Summons a pet albino rat
+	DisplayName: Просроченный сыр
+	Tooltip: Призывает ручную крысу-альбиноса
 }
 
 FuzzBall: {
@@ -1134,8 +1134,8 @@ FuzzBall: {
 }
 
 GhostPetItem: {
-	DisplayName: Spooky Ghost
-	Tooltip: Summons a little ghost to provide light
+	DisplayName: Жуткое приведение
+	Tooltip: Призывает приведеньеце, излучающее свет
 }
 
 InchwormApple: {
@@ -1153,8 +1153,8 @@ MocoTissue: {
 }
 
 OddBrain: {
-	DisplayName: Oddly Shaped Brain
-	Tooltip: Summons a zombie nose cultist
+	DisplayName: Мозг странной формы
+	Tooltip: Призывает зомби-носокультиста
 }
 
 OldSaddle: {
@@ -1172,8 +1172,8 @@ OrroboroRing: {
 }
 
 PandoraBean: {
-	DisplayName: Ghastly Bean
-	Tooltip: Summons Von Anguston VI, heir to the throne of the king bean
+	DisplayName: Гадкая фасоль
+	Tooltip: Призывает фон Ангустона VI, наследника трона короля фасоли
 }
 
 PetscopTool1: {
@@ -1192,8 +1192,8 @@ PetscopTool3: {
 }
 
 PuttyCup: {
-	DisplayName: Tub of Putty
-	Tooltip: Summons a squad of putty slimes
+	DisplayName: Баночка мастики
+	Tooltip: Призывает отряд мастичных слизнячков
 }
 
 RottenGourd: {
@@ -1211,11 +1211,11 @@ SkullKey: {
 }
 
 SkullSeed: {
-	DisplayName: Skull Seed
+	DisplayName: Черепосемя
 	Tooltip:
 		'''
-		Summons a baby bone to provide light
-		'Will it grow into a plant, or a skull?'
+		Призывает малыша-черепа, илучающего свет
+		«Из него вырастет растение, или всё-таки череп?»
 		'''
 }
 
@@ -1243,11 +1243,11 @@ StickyEye: {
 }
 
 SuspiciousBrownie: {
-	DisplayName: Suspicious Looking Brownie
+	DisplayName: Подозрительно выглядещее брауни
 	Tooltip:
 		'''
-		Summons Columbo
-		'Your better judgement tells you to NOT eat this'
+		Призывает Коломбо
+		«Ваш здравый смыл подсказывает, что вам лучше НЕ ЕСТЬ это»
 		'''
 }
 
@@ -1257,8 +1257,8 @@ ValleyNautilusShell: {
 }
 
 YellowSpore: {
-	DisplayName: Yellow Spore
-	Tooltip: Summons a small mushroom hopper to provide light
+	DisplayName: Жёлтый спорышь
+	Tooltip: Призывает маленького грибного прыгунчика, излучающего свет
 }
 
 BountyItem1: {
@@ -1347,29 +1347,29 @@ SummonItem1: {
 }
 
 SummonItem2: {
-	DisplayName: Bag of Coins
+	DisplayName: Мешочек монет
 	Tooltip:
 		'''
-		It smells like chocolate
-		Attracts a creature in the swampy cemetery while in your inventory
+		Пахнет шоколадом
+		Приманивает существо в заболоченном кладбище, когда находится в инвентаре
 		'''
 }
 
 SummonItem3: {
-	DisplayName: Fungus Beetle
+	DisplayName: Грибной жук
 	Tooltip:
 		'''
-		A large spider's favorite snack
-		Attracts a creature in the spider grotto while in your inventory
+		Любимая закуска огромного паука
+		Приманивает существо в паучьем гроте, когда находится в инвентаре
 		'''
 }
 
 SummonItem4: {
-	DisplayName: Eye Drops
+	DisplayName: Глазные капли
 	Tooltip:
 		'''
-		Soothes an irritated eye
-		Attracts a creature in the valley of eyes while in your inventory
+		Успокаивает раздражённый глаз
+		Приманивает существо в глазастой долине, когда находится в инвентаре
 		'''
 }
 
@@ -1464,7 +1464,7 @@ SpiderKey: {
 	DisplayName: Ключ паучьего грота
 	Tooltip:
 		'''
-		Отпирает сундук паучьего грота в темнице
+		Отпирает сундук паучьего грота в Темнице
 		Не может быть использован до победы над Плантерой
 		'''
 }
@@ -1729,7 +1729,7 @@ SpookyBiomeKey: {
 	DisplayName: Ключ жуткого леса
 	Tooltip:
 		'''
-		Отпирает сундук жуткого леса в темнице
+		Отпирает сундук жуткого леса в Темнице
 		Не может быть использован до победы над Плантерой
 		'''
 }
@@ -1985,12 +1985,12 @@ GoreLegs: {
 }
 
 Biojets: {
-	DisplayName: Bio-Thrusters
+	DisplayName: Биоускоритель
 	Tooltip:
 		'''
-		Allows flight and slow fall
-		Hold Down to hover
-		'May create an unpleasant mess'
+		Позволяет летать и парить
+		Удерживайте ВНИЗ, чтобы парить
+		«Может создать неприятный беспорядок»
 		'''
 }
 
@@ -2104,7 +2104,7 @@ SpookyHellKey: {
 	DisplayName: Ключ глазастой долины
 	Tooltip:
 		'''
-		Отпирает сундук глазастой долины в темнице
+		Отпирает сундук глазастой долины в Темнице
 		Не может быть использован до победы над Плантерой
 		'''
 }
@@ -2119,7 +2119,7 @@ SpookyHellSolution: {
 }
 
 SentientBladeTongue: {
-	DisplayName: Tongueblade
+	DisplayName: Языкомеч
 	Tooltip:
 		'''
 		Hitting enemies with the tongue may confuse them
@@ -2138,11 +2138,11 @@ SentientBloodRainBow: {
 }
 
 SentientCap: {
-	DisplayName: Capsworth
+	DisplayName: Достойная кепка
 	Tooltip:
 		'''
-		Will sometimes talk to you and make horrible noises while worn
-		'You better not be capping'
+		Иногда разговаривает и издаёт ужасные звуки при ношении
+		«Не стоит шутить с кепками»
 		'''
 }
 
@@ -2196,11 +2196,11 @@ SentientImpStaff: {
 }
 
 SentientKatana: {
-	DisplayName: Conscious Cutter
+	DisplayName: Резак с сознанием
 	Tooltip:
 		'''
-		Creates slashes at your cursor upon hitting enemies
-		'It's a mystery how it doesn't get whiplash'
+		Создаёт разрезы в месте курсора после попадания по врагу
+		«Удивительно, как у него ещё шея не отваливается»
 		'''
 }
 
@@ -2216,11 +2216,11 @@ SentientKeybrand: {
 }
 
 SentientLeafBlower: {
-	DisplayName: Carrion Chunker
+	DisplayName: Метатель падали
 	Tooltip:
 		'''
-		Rapidly spits out a bunch of different organic chunks that all do different things
-		'Heart healthy!'
+		Быстро выстреливаем кусками органики, имеющими различное поведение
+		«Сердце чистосердечно»
 		'''
 }
 SentientLeatherWhip: {
@@ -2632,12 +2632,12 @@ WinterSeed: {
 }
 
 CatacombBrickPlatform1Item: {
-	DisplayName: Платформа из серого кирпича катакомб
+	DisplayName: Платформа из серого кирпича Катакомб
 	Tooltip: ""
 }
 
 CatacombBrickPlatform2Item: {
-	DisplayName: Платформа из коричневого кирпича катакомб
+	DisplayName: Платформа из коричневого кирпича Катакомб
 	Tooltip: ""
 }
 
@@ -2687,53 +2687,53 @@ MoyaiItem: {
 }
 
 PottedPlant1Item: {
-	DisplayName: Горшок с ротоцветом
+	DisplayName: Ротоцвет в горшке
 	Tooltip: ""
 }
 
 PottedPlant2Item: {
-	DisplayName: Горшок с лепестоцветом
+	DisplayName: Лепестоцвет в горшке
 	Tooltip: ""
 }
 
 PottedPlant3Item: {
-	DisplayName: Горшок с глазоцветом
+	DisplayName: Глазоцвет в горшке
 	Tooltip: ""
 }
 
 PottedPlant4Item: {
-	DisplayName: Горшок с черепоцветом
+	DisplayName: Черепоцвет в горшке
 	Tooltip: ""
 }
 
 CatacombBrick1Item: {
-	DisplayName: Серый кирпич катакомб
+	DisplayName: Серый кирпич Катакомб
 	Tooltip: ""
 }
 
 CatacombBrick2Item: {
-	DisplayName: Коричневый кирпич катакомб
+	DisplayName: Коричневый кирпич Катакомб
 	Tooltip: ""
 }
 
 CatacombBrickWall1Item: {
-	DisplayName: Стена из серого кирпича катакомб
+	DisplayName: Стена из серого кирпича Катакомб
 	Tooltip: ""
 }
 
 CatacombBrickWall2Item: {
-	DisplayName: Стена из серого кирпича катакомб
+	DisplayName: Стена из серого кирпича Катакомб
 	Tooltip: ""
 }
 
 CatacombFlooringItem: {
-	DisplayName: Напольный кирпич катакомб
+	DisplayName: Напольный кирпич Катакомб
 	Tooltip: ""
 }
 
 CatacombGrassSeeds: {
-	DisplayName: Семена мха катакомб
-	Tooltip: Сажает мох на серые и коричневые кирпичи катакомб
+	DisplayName: Семена мха Катакомб
+	Tooltip: Сажает мох на серые и коричневые кирпичи Катакомб
 }
 
 GildedBrickItem: {
@@ -3775,10 +3775,10 @@ RaveStarter: {
 }
 
 CatacombWeedKiller: {
-	DisplayName: Уничтожитель сорняков катакомб
+	DisplayName: Уничтожитель сорняков Катакомб
 	Tooltip:
 		'''
-		Удаляет все тайлы растущих растений в катакомбах
+		Удаляет все тайлы растущих растений в Катакомбах
 		Предмет тестировки
 		'''
 }
@@ -3793,12 +3793,12 @@ Bestiary: {
 }
 
 CatacombTorch1Item: {
-	DisplayName: Факел мрачных катакомб
+	DisplayName: Факел Мрачных катакомб
 	Tooltip: ""
 }
 
 CatacombTorch2Item: {
-	DisplayName: Факел мрачнейших катакомб
+	DisplayName: Факел Мрачнейших катакомб
 	Tooltip: ""
 }
 
