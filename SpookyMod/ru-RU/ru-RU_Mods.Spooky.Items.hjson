@@ -2376,7 +2376,7 @@ EyeFlail: {
 }
 
 EyeRocketLauncher: {
-	DisplayName: Д.З.Н
+	DisplayName: ДЗН
 	Tooltip: Удерживайте, чтобы выстрелить взрывающимися глазоракетами, которые самонаводятся на врагов
 }
 
