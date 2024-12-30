@@ -107,8 +107,8 @@ FlowerArmorCooldown: {
 }
 
 FlyCooldown: {
-	DisplayName: Fly Charm Recharge
-	Description: Your defensive flies cannot respawn
+	DisplayName: Перезарядка роя мух
+	Description: Ваши защитные мухи не могут появляться
 }
 
 GourdDecay: {
@@ -217,23 +217,23 @@ CatBuff: {
 }
 
 ColumboBuff: {
-	DisplayName: Columbo
-	Description: The creature lurks behind you
+	DisplayName: Коломбо
+	Description: Существо, скрывающееся за вашей спиной
 }
 
 FlyPetBuff: {
-	DisplayName: Корнелиус, муха
+	DisplayName: Муха, Корнелиус
 	Description: Он угрожающе парит вокруг вас
 }
 
 FuzzBatPetBuff: {
 	DisplayName: Бестолковая летучая плюшомышь
-	Description: Он не понимает почему, но ему нравится ходить за вами
+	Description: Он не понимает почему, но ему нравится летать за вами
 }
 
 GhostPetBuff: {
-	DisplayName: Маленький призрак
-	Description: Жуткий маленький призрак укажет вам путь
+	DisplayName: Приведеньеце
+	Description: Жуткок пиведеньеце укажет вам путь
 }
 
 MocoPetBuff: {
@@ -242,12 +242,12 @@ MocoPetBuff: {
 }
 
 PandoraBeanBuff: {
-	DisplayName: Von Anguston VI
-	Description: Ancient royalty is following you
+	DisplayName: Фон Ангустон VI
+	Description: Древняя королевсткая особа приследует вас
 }
 
 PetscopBuff: {
-	DisplayName: Защитник
+	DisplayName: Страж
 	Description: Создатель нового
 }
 
@@ -257,8 +257,8 @@ PetscopMarvinBuff: {
 }
 
 PetscopTiaraBuff: {
-	DisplayName: Petscop Tiara Buff
-	Description: Tiara plays bad music too
+	DisplayName: Тиара
+	Description: Тиара тоже играет плохую музыку
 }
 
 RotGourdPetBuff: {
@@ -267,8 +267,8 @@ RotGourdPetBuff: {
 }
 
 ShroomHopperBuff: {
-	DisplayName: Shroom Hopper
-	Description: It likes your spore
+	DisplayName: Грибной попрыгунчик
+	Description: Ему нравятся твои споры
 }
 
 SkullEmojiBuff: {
@@ -471,12 +471,12 @@ GlassEyeCooldown: {
 }
 
 StitchedCloakCooldown: {
-	DisplayName: Stitched Cloak Cooldown
-	Description: You cannot use your stitched cloak dash
+	DisplayName: Перезарядка сшитого плаща
+	Description: Вы не можете использовать рывок сшытого плаща
 }
 
 StitchedCloakWebSlow: {
-	DisplayName: Stitched Cloak Web Slow
+	DisplayName: Замедление паутиной сшитого плаща
 	Description: ""
 }
 
@@ -486,7 +486,7 @@ OrroboroPetBuff: {
 }
 
 EggEventEnemyBuff: {
-	DisplayName: Flesh Bolster Buff
+	DisplayName: Мясная поддержка
 	Description: ""
 }
 
@@ -496,16 +496,16 @@ ZombieCultistPetBuff: {
 }
 
 BeePetBuff: {
-	DisplayName: Pollinator Bee
-	Description: Its attracted to your honeycomb
+	DisplayName: Пчёлка-опылытельница
+	Description: Её привлекают ваши соты
 }
 
 RatPetBuff: {
-	DisplayName: Albino Rat
+	DisplayName: Крыса-альбинос
 	Description: Милый и, возможно, заразный!
 }
 
 PuttyPetBuff: {
-	DisplayName: Putty Slime Squad
-	Description: The putties are hopping along with you
+	DisplayName: Банда мастичных слизней
+	Description: Мастички прыгают за вами
 }
