@@ -936,11 +936,6 @@ MocoMask: {
 	Tooltip: ""
 }
 
-OrroMask: {
-	DisplayName: Маска Орро
-	Tooltip: ""
-}
-
 NoseCultistHood: {
 	DisplayName: Капюшон носокультиста
 	Tooltip: Маскирует вас под культиста при ношении с мантией
@@ -949,6 +944,11 @@ NoseCultistHood: {
 NoseCultistRobe: {
 	DisplayName: Мантия носокультиста
 	Tooltip: Маскирует вас под культиста при ношении с капюшоном
+}
+
+OrroMask: {
+	DisplayName: Маска Орро
+	Tooltip: ""
 }
 
 PartySkeletonSkull: {
@@ -1136,6 +1136,11 @@ FuzzBall: {
 GhostPetItem: {
 	DisplayName: Жуткое приведение
 	Tooltip: Призывает приведеньеце, излучающее свет
+}
+
+Honeycomb: {
+	DisplayName: Кусок сот
+	Tooltip: Призывает пчёлку-опылытельницу
 }
 
 InchwormApple: {
@@ -2272,6 +2277,7 @@ SentientPaladinsHammer: {
 		'They won't stop yapping'
 		'''
 }
+
 SentientRavenStaff: {
 	DisplayName: Avian's Crux
 	Tooltip:
@@ -2370,7 +2376,7 @@ EyeFlail: {
 }
 
 EyeRocketLauncher: {
-	DisplayName: Д.З.Н.
+	DisplayName: Д.З.Н
 	Tooltip: Удерживайте, чтобы выстрелить взрывающимися глазоракетами, которые самонаводятся на врагов
 }
 
@@ -2469,7 +2475,6 @@ LivingFleshStaff: {
 	DisplayName: Оживший «Посох сетчатки»
 	Tooltip:
 		'''
-		Одновременно может быть выпущено только 5 глаз
 		Выпускают летающие глаза, которые собираются возле курсора при зажатии ЛКМ
 		Отпустив ЛКМ, вылетевшие глаза нанесут удвоенный урон
 		Если в этот момент было призывано максимальное количество глаз, то они взорвутся на месте, нанося огромный урон
@@ -2500,7 +2505,7 @@ NerveWhip: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.Whips}
-		Deals more damage the more enemies it hits, caps after 5 enemies are hit. На самом деле оно нихуя не делает это наёб.
+		Наносит тем больше урона, чем больше врагов поражено за удар, вплоть до 5-ти
 		'''
 }
 
@@ -2509,7 +2514,7 @@ Sneezer: {
 	Tooltip:
 		'''
 		Стреляет козявками, не подверженными гравитации
-		Каждый 10 выстрел выпускает более большую и быстру козявку
+		Каждый 10-ый выстрел выпускает более большую и быстру козявку
 		«Младший двоюродный брат козявочного бластера»
 		'''
 }
@@ -3401,11 +3406,6 @@ GourdBlockYellowPlatformItem: {
 }
 
 GourdBlockYellowWallItem: {
-	DisplayName: Стена из жёлтой тыквы
-	Tooltip: ""
-}
-
-GourdGreenCarvedItem: {
 	DisplayName: Стена из жёлтой тыквы
 	Tooltip: ""
 }
