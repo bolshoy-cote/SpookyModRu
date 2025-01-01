@@ -69,17 +69,17 @@ LittleBone: {
 }
 
 LittleEye: {
-	Awaken: Whoa there, I was trying to take a nap! You must be a pretty curious adventurer to have found your way down here. Anyway, make yourself at home I guess, I've given up on trying to repair this giant lab of mine. Oh and take this weird crystal doohickey I found, It might be of use to you.
-	Default1: This place is really funky. I love watching those weird floating flesh creatures crash into stuff!
-	Default2: Did you know there's a strange giant egg somewhere around here? That'd make enough scrambled eggs to last for weeks!
-	Default3: You may call me an alchemist, I call it making nasty concoctions that I give to others for laughs.
-	Default4: You may use my magic cauldron, under the condition that you say the magic word... alright fine, you can use it whenever.
-	Default5: My cauldron is pretty crazy. Last guy wanted to make a fire elixir to fight some giant bee, but instead he comically exploded.
-	Default6: The alchemy I do down here is not really science. Nothing says alchemy more than throwing random things into a cauldron and saying gibberish afterward!
-	Default7: If your alchemy creation doesn't completely blow up in your face, you're probably doing something wrong.
-	Default8: Have you seen that giant pit of blood over there? I've seen some nasty things in there, but you can't just use any regular fishing rod in it.
-	OrroBoro: Hey, there's like a giant worm chasing you right now. Maybe go deal with that?
-	Upgrades: So, you've never heard about my cauldron? Well, if you obtain a sentient heart, you can combine it with specific weapons to turn them into something a little crazy. Sentient hearts are dropped by large and strong creatures, so make sure to look out for them! I have also heard rumors that killing a pair of serpents will also attract a strong creature in the blood lake which possesses them.
+	Awaken: Эй, я тут пытался вздремнуть! А ты, должно быть, очень любопытный исследователь, раз добрался до сюда. В любом случае, чувствуй себя как дома. Я уже бросил попытки починить эту свою огромную лабораторию. О, ещё возьми эту странную кристальную штуковину, которую я нашёл, она может тебе пригодиться.
+	Default1: Это место действительно забавное. Мне нравится смотреть как летающие существа из плоти врезаются в каждый выступ!
+	Default2: Ты видел то странное огромное яйцо неподалёку? Из него можно сделать столько яичницы, что хватит на несколько людей!
+	Default3: Ты можешь назвать меня алхимиком, но я предпочитаю называть свою деятельность приготовлением сомнительных коктелей. Я потом ещё отдаю их случайным людям для забавы.
+	Default4: Ты можешь пользоваться моим волшебным котлом при условии, что произнесёшь волшебное слово... Да ладно, пользуйся им когда душе угодно.
+	Default5: Мой котелок достаточно безумен. Предыдщий чувак хотел приготовить на нём огненный элексир, чтобы использовать его для битвы с какой-то пчелиной королевской особой, но в итоге просто смешно взорвался.
+	Default6: Алхимия, которой я занимаюсь, - это не совсем наука. Ничто не так алхимично, как бросание случайных штук в котёл, параллельно произнося загадочно звучащие звуки!
+	Default7: Если твоё алхимическое творение не взорвалось у тебя на глазах, значит ты сделал что-то не так.
+	Default8: Ты видел ту впадину, заполненную кровью? Я видел как там плавало нечто отвратительное, но обычной удочкой там не порыбачишь.
+	OrroBoro: Эй, как я вижу, прямо сейчас за тобой гонится громадный червь. Может, ты сначала разберёшься с ним?
+	Upgrades: Получается, ты ни разу не слышал о моём котелке? Что ж, если добудешь разумное сердце, ты сможешь объединить его с некоторым оружием, чтобы превратить его во что-то немного безумное. Разумные сердца выпадают из крупных и сильных существ, так что будь начеку! Я также слышал о том, что убийство парочки змей привлечёт сильное существо в озере крови, обладающее ими в большом количестве.
 	Quest1Accepted: Ok, so if you want to find the gremlin it'll probably be hungry. Take this yummy scrumptious slice of cake I've had saved and hopefully you'll be able to lure it out.
 	Quest2Accepted: With this bag of gold you should be able to attract those devious ghost bandits. Find them and show them what happens when you cause minor property damage to the lab I spent so much time making!
 	Quest3Accepted: Alright, since my sewing project is partially a spider, this dead fungus-covered beetle should do the trick! Just wait around and it'll probably smell it... or maybe detect it with whatever computer I put inside of it.
