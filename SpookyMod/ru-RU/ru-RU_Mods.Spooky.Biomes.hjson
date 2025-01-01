@@ -49,8 +49,8 @@ SpookyHellEventBiome: {
 }
 
 SpookyHellLake: {
-	DisplayName: Кровавое озеро
-	TownNPCDialogueName: Кровавое озеро
+	DisplayName: Озеро крови
+	TownNPCDialogueName: Озеро крови
 }
 
 SpiderCaveBiome: {
