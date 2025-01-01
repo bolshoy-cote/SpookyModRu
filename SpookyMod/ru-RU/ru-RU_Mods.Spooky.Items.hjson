@@ -2165,7 +2165,7 @@ SentientChumCaster: {
 	Tooltip:
 		'''
 		Запускает два поплавка за раз
-		Способна вылавливать чудовищ из кровавого озера
+		Способна вылавливать чудовищ из озера крови
 		«Она рычит на вас»
 		'''
 }
@@ -2337,11 +2337,11 @@ SentientVenusMagnum: {
 }
 
 SentientHeart: {
-	DisplayName: Sentient Heart
+	DisplayName: Разумное сердце
 	Tooltip:
 		'''
-		A strange heart ripped from a strong monster
-		Can bring out the sentient power of certain weapons
+		Странное сердце, вырванное из сильного монстра
+		Способно пробудить разумирующую силу некоторого оружия
 		'''
 }
 
