@@ -28,24 +28,24 @@ ZomboidNecromancer: Эти зомбоиды заключены в катаком
 ZomboidPyromancer: Иногда даже самые усердные зомбоиды-маги не знают, как правильно использовать магию. Судя по их сожжённому плащу, их магия не раз взрывалась прямо перед их лицом.
 ZomboidSuspiciomancer: Необычайно большой плащ, под которым прячутся вредные зомбоиды, замаскированный под одноги из зомбоидов-магов. Неизвестно, почему они путешествуют вместе, используя такой нелепый способ.
 //catacombs layer 2
-CatacombCrusher1: A large and cracked statue that constantly smashes the ground, causing intense tremors throughout the lower catacombs.
-CatacombCrusher2: They constantly smash the ground in an extremely hostile way. They may have been created as a sort of trap to kill off unwanted intruders.
-CatacombCrusher3: It is unknown if they are truly alive or not. Some say they are just traps, while others say they are ancient idols possessed by vengeful spirits who wish to inflict pain on anything they see.
-CatacombCrusher4: A rare crusher made out of gold, possibly meant as a symbol of wealth for the deceased within the lower catacombs.
-CelebrationSkeletoid1: Skeletoids risen from the dead, they have come back to celebrate in the lower catacombs.
-CelebrationSkeletoid2: More powerful than their skeletoid friends in the upper catacombs, these skeletoids have the magic of the dead with them.
-CelebrationSkeletoid3: They used to throw large celebrations in the lower catacombs before it became infested with plant life.
-CelebrationSkeletoid4: After death, they continue to live in the deep catacombs due to excess necromantic magic.
-CelebrationSkeletoid5: Due to the plant infestation in the lower catacombs, the celebrations they used to throw have been moved to the surface instead.
-Dahlia: A strange flower that became so jealous of the lower catacombs guardian, she tried to mimic her look. Looks like she went a little overboard though.
-FlushBush1: They lure targets with their sweet smelling flowers, only to attack once the intruder faces away from them.
-FlushBush2: The thorns they can poke out and retract are coated in dangerous poison. The paper-like cloak surrounding them is covering their true body, which has never been seen before.
-JumpingSeed1: A small juvenile seedling that spends its time buried in the ground so it may eventually grow into a bigger plant.
-JumpingSeed2: Despite their small size, they can leap out of the ground when disturbed. While not too harmful, it can scare those who aren't expecting it.
-JumpingSeed3: It is unknown where exactly these seeds come from. They may actually be the seeds that grow into the other plant creatures in the deep catacombs.
-LilySlime1Big: These flowers can hop around by trapping excess water under their flower, turning it into a bouncy slime-like substance.
-LilySlime2Big: They hop around the catacombs aimlessly in search of more water so they can grow bigger. Their watery bodies are very squishy and bouncy.
-LilySlime1Small: Small juvenile lillies that travel by using a small water droplet to jump around.
+CatacombCrusher1: Большая потрескавшаяся статуя, которая непрерывно ударяет по земле, что вызывает сильную тряску в нижних катакомбах.
+CatacombCrusher2: Крайне агрессивно бьют по земле, не отвлекаясь ни на что. Скорее всего, были созданы как один из видов многочисленных ловушек для противостояния нежеланным нарушителям.
+CatacombCrusher3: Неизвестно, живы ли они на самом деле. Кто-то говорит, что это - просто ловушки, другие утверждают, что это - древние идолы, одержимые мстительными духами, желающимим причинить боль всему, что попадётся им на глаза.
+CatacombCrusher4: Редкий крушитель, состоящий из золота, возможно, он был символом богатства для тех, кто упокоился в нижних катакомбах.
+CelebrationSkeletoid1: Скелетоиды, что восстали после смерти, вернулись, чтобы праздновать в нижних катакомбах.
+CelebrationSkeletoid2: Эти скелетоиды более сильные, чем их друзья-скелетоиды на верхнем уровне, они обладают магией мертвецов.
+CelebrationSkeletoid3: Они раньше устраивали большие вечеринки в нижних катакомбах, но празднества пришлось прекратить из=за заражения нижних уровней растительностью.
+CelebrationSkeletoid4: После смерти они продолжили своё существование в нижних катакомбах из-за избытка там некроматической магии.
+CelebrationSkeletoid5: Из=за того, что растительное заражение поглотило нижние катакомбы, вечеринки, которые раньше проводились там, теперь переехали на поверхность.
+Dahlia: Странная флора, которая настолько завидовала защитнице нижних катакомб, что попыталась скопировать её облик. Похоже, что она слега перестаралась.
+FlushBush1: Они заманивают жертв своими благоухающими цветами, атакуя нарушителей, как только те отвернутся от них.
+FlushBush2: Шипы, которые эти растения могут выдвигать и втягивать, покрыты опасным ядом. Их настоящее тело скрывает плащ из материала, чем-то смахивающим на бумагу, благодаря чему их истинного облика никто никогда не видел.
+JumpingSeed1: Маленький молодой сеянец, который сидит в земле, надеясь, что однажды варастет в растение побольше.
+JumpingSeed2: Несмотря на их малый размер, они могут выскочить из земли, если их потревожить. Они не могут нанести много урона, зато хорошо пугаю тех, кто не ожидает их внезапного появления.
+JumpingSeed3: Неизвестно, откуда появились эти семена. Вохможно, они - семена растительных существ, что обитают в глубочайших катакомбах.
+LilySlime1Big: Эти цыеты могут подпрыгивать, накапливая излишки воды под своими телеми, что превращает их в похожую на слизь прыгающую субстанцию.
+LilySlime2Big: Они прыгают по катакомбам бесцельно, ища лишь воду для дальнейшего роста. Их водянистые тела очень скользкие и упругие.
+LilySlime1Small: Маленькие молодые лилии, которые используют небольшие капли воды, чтобы перемещаться.
 LilySlime2Small: They store water under themselves so that they can drink it when needed. It also helps them navigate the deep catacombs.
 OrchidPinkBig: These passive looking flowers are very territorial. They will not pay any mind to intruders so long as they stay away from their area.
 OrchidPinkSmall: Their stretchy stem allows them to navigate a little ways away from where they grew from. They don't like being approached by unfamiliar creatures.
