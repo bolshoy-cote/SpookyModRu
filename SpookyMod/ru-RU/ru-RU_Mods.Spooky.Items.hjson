@@ -348,7 +348,7 @@ FlowerBody: {
 	Tooltip:
 		'''
 		Увеличивает урон и шанс критического удара на 15%
-		Наносит контактный урон прикасающимся к вам врагам
+		Враги будут получать контактный урон от вас
 		'''
 }
 
@@ -409,7 +409,7 @@ BigBoneBow: {
 		Нажмите ЛКМ, чтобы быстро стрелять самонаводящимися розами, пронзающими врагов
 		Нажмите ПКМ, чтобы выпустить останавливающийся на месте шипастый цветок, накладывающий на врагов метку шипов
 		Враги с меткой шипов получают значительно больше урона от этого оружия
-		10%-ный шанс не использовать боеприпасы
+		Даёт 10%-ный шанс не использовать боеприпасы
 		'''
 }
 
@@ -510,7 +510,7 @@ GraveCrossbow: {
 	Tooltip:
 		'''
 		Удерживайте ЛКМ, чтобы зарядить мощный выстрел стрелой, пронзающей врагов
-		Чем дольше вы заряжали выстрел, тем быстрее будет лететь стрела и тем больше урона она нанесёт
+		Чем дольше заряжался выстрел, тем быстрее будет лететь стрела и тем больше урона она нанесёт
 		'''
 }
 
@@ -683,7 +683,7 @@ HerobrineAltar: {
 	Tooltip:
 		'''
 		Нажмите горячую клавишу, чтобы мощно ударить молнией по месту, на которое наведён курсор
-		Молния наносит 15% максимального здоровья боссам
+		Молния не может нанести боссам урон, превышающий 15% от их максимального здоровья
 		Эта способность перезаряжается 2 минуты
 		«Херобрин приди»
 		'''
@@ -766,7 +766,7 @@ SlendermanPage: {
 }
 
 SlendermanBuffPage: {
-	DisplayName: Creepy Page
+	DisplayName: Страшная страница
 	Tooltip: ""
 }
 
@@ -828,8 +828,8 @@ CemeterySolution: {
 }
 
 DiscoSkull: {
-	DisplayName: Disco Skull
-	Tooltip: Fires out homing rainbow party skulls
+	DisplayName: Диско-череп
+	Tooltip: Выстреливает кучей радужных, праздничных самонаводящихся черепов
 }
 
 GraveDiggerShovel: {
@@ -1385,7 +1385,7 @@ RootBody: {
 
 RootHead: {
 	DisplayName: Маска из корней
-	Tooltip: Увеличивает шанс критического удара стрелкового оружия на 5%
+	Tooltip: Увеличивает стрелковый шанс критического удара на 5%
 }
 
 RootLegs: {
@@ -1542,7 +1542,7 @@ OrbWeaverShield: {
 	DisplayName: Шипованный щит атакующего
 	Tooltip:
 		'''
-		Вытягивает шипованный щит, который наносит тем больше урона, чем быстрее вы двигаетесь
+		Вытягивает шипованный щит, который наносит больше урона по мере увеличения скорости передвижения
 		После 3-ёх секунд использования, шипы щита заряжаются
 		Отпустите ЛКМ с заряженными шипами, чтобы выстрелить ими
 		'''
@@ -1674,7 +1674,7 @@ WizardGangsterBody: {
 
 WizardGangsterHead: {
 	DisplayName: Позолоченная шляпа волшебника
-	Tooltip: Увеличивает шанс критического удара магического оружия на 5%
+	Tooltip: Увеличивает магический шанс критического удара на 5%
 }
 
 WizardGangsterHead2: {
@@ -1850,7 +1850,7 @@ OldMossBow: {
 
 OldWoodArrow: {
 	DisplayName: Стрела из старого дерева
-	Tooltip: Имеет шанс прилипнуть к врагу при попадании
+	Tooltip: Может прилипнуть к врагу при попадании
 }
 
 OldWoodBow: {
@@ -1974,7 +1974,7 @@ GoreHoodMouth: {
 		'''
 		Увеличивает урон ближнего боя и стрелковый урон на 20%
 		Увеличивает скорость ближнего боя на 12%
-		Увеличивает шанс не потратить боеприпасы на 10%
+		Даёт 10%-ный шанс не использовать боеприпасы
 		Враги чаще выбирают вас в качестве цели
 		'''
 }
@@ -2134,11 +2134,11 @@ SentientBladeTongue: {
 }
 
 SentientBloodRainBow: {
-	DisplayName: Uncanine
+	DisplayName: Безклыковый
 	Tooltip:
 		'''
-		Shoots teeth that fly upward and then fall back down towards your cursor
-		'It looks severely brain damaged'
+		Стреляет окровавлеными клыками в небо, которые затем быстро падают в сторону вашего курсора
+		«Выглядит каким-то отшибленным»
 		'''
 }
 
@@ -2152,11 +2152,11 @@ SentientCap: {
 }
 
 SentientChik: {
-	DisplayName: Pendeloque
+	DisplayName: Подвеска
 	Tooltip:
 		'''
-		Cries out crystal tears
-		'Hope it isn't actually sad'
+		Плачет кристальными слезами
+		«Надеюсь, ей на самом деле не грустно»
 		'''
 }
 
@@ -2180,13 +2180,13 @@ SentientClingerStaff: {
 }
 
 SentientGatligator: {
-	DisplayName: Gator Gun
+	DisplayName: Аллигатор-пулемёт
 	Tooltip:
 		'''
-		Fires bullets extremely wildly and inaccurately
-		Will sometimes vomit out meat giblets that explode when they hit enemies
-		33% chance to save ammo
-		'Half aligator, half gun, and has a mind of its own'
+		Стреляет крайне быстрыми и неточными пулями
+		Иногда извергает потроха, взрывающиеся при попадании по врагу
+		33%-ный шанс не использовать боеприпасы
+		«Наполовину аллигатор, наполовину пулемёт, так ещё и обладает разумом»
 		'''
 }
 
@@ -2225,16 +2225,16 @@ SentientLeafBlower: {
 	Tooltip:
 		'''
 		Быстро выстреливаем кусками органики, имеющими различное поведение
-		«Сердце чистосердечно»
+		«От сердца, чистосердечно»
 		'''
 }
 SentientLeatherWhip: {
-	DisplayName: Licker
+	DisplayName: Облизыватель
 	Tooltip:
 		'''
-		Your summons will focus struck enemies
-		Hold down to charge the whip up, giving it longer range and higher damage
-		'It tastes everything it hits'
+		{$CommonItemTooltip.Whips}
+		Ужерживание атаки заряжает хлыст, что делает его длинее и увеличивает его урон
+		«Пробует на вкус всё, что попадётся под руку»
 		'''
 }
 
@@ -2269,22 +2269,22 @@ SentientMineLauncher: {
 }
 
 SentientPaladinsHammer: {
-	DisplayName: Dave & Mike
+	DisplayName: Майк и Дейв
 	Tooltip:
 		'''
-		Throw a two-faced hammer that will chase a nearby enemy
-		Upon reaching the targeted enemy, it will strike it 3 times before returning to you
-		'They won't stop yapping'
+		Бросает двухсторонний молот, самонаводящийся на ближайших врагов
+		Наведясь на врага, молот совершит три удара, прежде чем вернуться к вам
+		«Им не надоест нести херню»
 		'''
 }
 
 SentientRavenStaff: {
-	DisplayName: Avian's Crux
+	DisplayName: Птицкая сущность
 	Tooltip:
 		'''
-		Summons Billy-Bone the raven to fight with you
-		Only one can exist, and he requires 3 minion slots to summon
-		'Its heart is beating slowly'
+		Призывает ворона Билли Бонса сражаться за вас
+		Может быть призван только один ворон, который занимает 3 слота под миньонов
+		«Его сердце бьётся очень медленно»
 		'''
 }
 
@@ -2317,12 +2317,12 @@ SentientSphereStaff: {
 }
 
 SentientToxikarp: {
-	DisplayName: Bubble Belcher
+	DisplayName: пузыреотрыгиватель
 	Tooltip:
 		'''
-		Spits out toxic bubbles that bounce off of surfaces
-		Sometimes spits out special colored bubbles that all do different things
-		'Killer fish from valley of eyes!'
+		Выплёвывает токсичные пузыры, отскакивающие от твёрдых поверхностей
+		Иногда выплевывает пузыри другого цвета, отличающиеся по функционалу
+		«Рыба-убийца глазастой долины!»
 		'''
 }
 
@@ -2394,7 +2394,7 @@ LeechWhip: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.Whips}
-		Попадания по врагам имеют шанс оторвать от них кусок плоти
+		Попадания по врагам могут оторвать от них кусок плоти
 		Подбор этой плоти восстановит вам немного здоровья
 		'''
 }
@@ -3079,7 +3079,7 @@ NoseTempleWallRedItem: {
 }
 
 CemeteryPylonItem: {
-	DisplayName: Пилон заболоченного клидбища
+	DisplayName: Пилон заболоченного кладбища
 	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
 }
 
@@ -3531,12 +3531,12 @@ SpookyStoneWallItem: {
 }
 
 SpookyStoneBricksItem: {
-	DisplayName: Кирпич замшелого каменя
+	DisplayName: Замшелый каменный кирпич
 	Tooltip: ""
 }
 
 SpookyStoneBricksWallItem: {
-	DisplayName: Стена из кирпича замшелого камня
+	DisplayName: Стена из замшелого камнного кирпича
 	Tooltip: ""
 }
 
@@ -3621,7 +3621,7 @@ EyeClockItem: {
 }
 
 EyeDoorItem: {
-	DisplayName: Дверб из ожившей плоти
+	DisplayName: Дверь из ожившей плоти
 	Tooltip: ""
 }
 
