@@ -55,7 +55,7 @@ SpookyHellLake: {
 
 SpiderCaveBiome: {
 	DisplayName: Паучий грот
-	TownNPCDialogueName: Паучий грот
+	TownNPCDialogueName: паучий грот
 }
 
 HallucinationZone: {
