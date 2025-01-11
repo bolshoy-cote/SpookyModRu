@@ -39,7 +39,7 @@ BouncerDeathmark: {
 
 CatacombDebuff: {
 	DisplayName: Проклятье катакомб 
-	Description: Проклятье ограничевает ваше поле зрения
+	Description: Проклятье сильно ограничевает ваше поле зрения!
 }
 
 CrossCooldown: {
