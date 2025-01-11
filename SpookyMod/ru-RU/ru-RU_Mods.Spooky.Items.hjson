@@ -231,7 +231,7 @@ OrroboroEmbryo: {
 	Tooltip:
 		'''
 		Возрождает вас после вашей смерти и даёт мощную прибавку к регенерации здоровья и защите на короткое время
-		Эффекту возрождения требуется десять минут перезарядки перед повторным срабатыванием
+		Эффекту возрождения требуется 10 минут перезарядки перед повторным срабатыванием
 		Однако в течение этих десяти минут ваш урон и шанс критического удара будут увеличены на 8%
 		'''
 }
@@ -393,12 +393,12 @@ PlantChunk: {
 }
 
 Slot3Unlocker: {
-	DisplayName: Ленточка 2-го места цветенья
+	DisplayName: Ленточка 2 места цветенья
 	Tooltip: Открывает третий слот под эффекты цветений
 }
 
 Slot4Unlocker: {
-	DisplayName: Ленточка 1-го места цветенья
+	DisplayName: Ленточка 1 места цветенья
 	Tooltip: Открывает четвёртый слот под эффекты цветений
 }
 
@@ -651,7 +651,7 @@ BackroomsCorpse: {
 	Tooltip:
 		'''
 		Призывает летающую голову, заставляющую ближайших врагов гнить заживо
-		Гниение наносит переодический урон, но не действует на врагов, чеё уровень здоровья ниже половины
+		Гниение наносит переодический урон, но не действует на врагов, чей уровень здоровья ниже половины
 		Гниение наносит меньше урона боссам
 		«Словно части тела моего перестали разлагаться»
 		'''
@@ -661,7 +661,7 @@ CarnisFlavorEnhancer: {
 	DisplayName: Усилитель вкуса
 	Tooltip:
 		'''
-		Вы оставляете за собой след из спор, наклажывающих различные дебаффы на врагов
+		Вы оставляете за собой след из спор, накладывающих различные дебаффы на врагов
 		Накладываемые дебаффы будут сильнее, если вы находитесь под действием баффа сытости
 		Степень усиления зависит от уровня баффа сытости
 		«Подходит каждому блюду»
@@ -682,10 +682,10 @@ HerobrineAltar: {
 	DisplayName: Алтарь из блоков
 	Tooltip:
 		'''
-		Нажмите горячую клавишу, чтобы мощно ударить молнией по месту, на которое наведён курсор
+		Нажмите горячую клавишу, чтобы сильно ударить молнией по месту, на которое наведён курсор
 		Молния не может нанести боссам урон, превышающий 15% от их максимального здоровья
 		Эта способность перезаряжается 2 минуты
-		«Херобрин приди»
+		«Херобрин удалён из игры»
 		'''
 }
 
@@ -718,50 +718,49 @@ MonumentMythosPyramid: {
 		Помещает вас в стеклянный барьер-пирамиду
 		Пирамида существенно снижает получаемый урон, но раскалывается после получения трёх ударов
 		Вы будете получать вдвое больше урона в течение 10 секунд после того, как пирамида раскололась
-		Пирамида восстановится спустя минуту
+		Пирамида восстановится спустя 1 минуту
 		«Она впала в спячку»
 		'''
 }
 
 PolybiusArcadeGame: {
-	DisplayName: Arcade Cabinet
+	DisplayName: Аркадный автомат
 	Tooltip:
 		'''
-		Summons a damaging blue spiral on your cursor
-		Stores 5 charges and looses a charge upon hitting an enemy
-		Constantly regenerates charges if it hasn't hit an enemy
-		'Classified information not to be meddled with'
+		Призывает голубую спираль в месте вашего курсора, которая расходует заряды, чтобы наносить урон
+		Всего может иметь 5 зарядов, которые накапливаются, пока спираль не наносит урон
+		«Секретная информация, в которую нельзя вмешиваться»
 		'''
 }
 
 RedGodzillaCartridge: {
-	DisplayName: NES Cartridge
+	DisplayName: NES-картридж
 	Tooltip:
 		'''
-		Upon damaging an enemy, there is a rare chance to summon a red apparition
-		The red apparition will deal a huge amount of damage to the enemy you hit
-		'King of monsters'
+		При нанесении ударов врагу, есть небольшой шанс призвать красного одержимого
+		Красный одержимый нанесёт большой урон врагу, атакой по которому было призвано
+		«Король монстров»
 		'''
 }
 
 RedMistClarinet: {
-	DisplayName: Dreadful Clarinet
+	DisplayName: Ужасный кларнет
 	Tooltip:
 		'''
-		Critical hits will sometimes spawn an orbiting note that will chase enemies
-		There is a 2 second cooldown before you can spawn another note
-		'Your worst and last performance'
+		Нанесение критические ударов призывает вращающуся вокруг вас красную ноту, самонаводящуюся на расположенных рядом врагов
+		Ноты могут появится не чаще, чем раз в 2 секунды
+		«Ваше последнее и наихудшее выступление»
 		'''
 }
 
 SlendermanPage: {
-	DisplayName: The Eighth Page
+	DisplayName: Восьмая страница
 	Tooltip:
 		'''
-		Spawns some black tentacles attached to you that will attack nearby enemies
-		Enemies killed by the tentacles will sometimes drop pages you can pick up
-		Picking up these pages will temporarily buff your tentacles
-		'Don't look'
+		Призывает несколько чёрных щупалец, атакующие ближайших врагов
+		С убитых щупальцами врагов будут выпадать подбираемые страницы
+		Подбор этих страниц на время усиливает ваши щупальца
+		«Не смотри»
 		'''
 }
 
@@ -771,27 +770,27 @@ SlendermanBuffPage: {
 }
 
 SmileDogPicture: {
-	DisplayName: Creepy Dog Photo
+	DisplayName: Страшное фото собаки
 	Tooltip:
 		'''
-		Summons a smiling puppy to follow you and maul nearby enemies
-		Every 3 minutes, the dog will attack you for 10 seconds before returning to normal
-		'That dog is messed up'
+		Призывает улыбающегося ценка, который преследует вас и разрывает на части ближайших врагов
+		Раз в 3 минуты, собака будет вас атаковать в течении 10 секунд, после чего вернётся в нормальное состояние
+		«Этой собаке не повезло»
 		'''
 }
 
 AnalogHorrorTape: {
-	DisplayName: Apocalypse Mixtape
+	DisplayName: Апокалипсисный микстейп
 	Tooltip:
 		'''
-		Grants the effects of every analog horror accessory
-		You will sometimes spawn nature's mockery that sap life from enemies
-		Press the Accessory Hotkey to summon an alternate that slows down nearby enemies
-		Moving will spawn spores that inflict debuffs, becomes stronger if you have well fed buffs
-		Spawns a floating head that decays nearby enemies above half health, rapidly draining their health
-		Summons an orbiting moon that can reflect weaker hostile projectiles and damage enemies
-		Grants you a glass pyramid that gives you high defense for 3 hits and then shatters
-		You will take double damage for 10 seconds after the pyramid shatters
+		Объединяет эффекты от всех аксессуаров аналоговых хорроров
+		Переодически призывает Насмешку природы, высасывающую жизнь из врагов
+		Нажмите горячую клавишу, чтобы призвать своего доппельгангера, который будет замедлять ближайших врагов
+		Вы оставляете след из спор, накладывающих дебаффы на врагов, действие которых усиливается, если вы находитесь под баффом сытости
+		Призывает летающую голову, которая заставляет ближайших врагов, здоровье которых выше 50%, гнить заживо, быстро истощаяя их здоровье
+		Призывает вращающуюся вокруг вас луну, которая может отражать слабые вражеские снаряды и наность урон врагам столкновением
+		Помещает вас в стеклянный барьер-пирамиду, существенно повышающий защиту, но разрущающийся после получения 3 ударов
+		Вы будете получать удвоенный урон в течении 10 секунд после разрушения пирамиды
 		'''
 }
 
@@ -799,13 +798,13 @@ Creepypasta: {
 	DisplayName: Криповая паста
 	Tooltip:
 		'''
-		Grants the effects of every creepypasta accessory
-		Summons a damaging blue spiral on your cursor with 5 charges that damages enemies
-		Summons a smiling puppy that will maul nearby enemies
-		Critical hits may spawn orbiting red notes that will attack enemies
-		Summons black tentacles to attack nearby enemies, enemies killed by them may drop pages that buff them
-		Damaging enemies has a rare chance to spawn a red apparition to deal massive damage to them
-		Press the Accessory Hotkey to summon lighting that smites enemies and deals lots of damage to bosses
+		Объединяет эффекты от всех аксессуаров крипипасты
+		Призывает синю спираль в месте курсора, которая имеет 5 зарядов для атаки врагов
+		Призывает улыбающегося щенка, разрывающего боижайших врагов
+		Нанесение критимческих ударов призывают вращающиеся красные ноты, самонаводящуюся на врагов
+		Призывает чёрные щупальца, атакующие ближайших врагов, с которых выпадут подбираемые страницы, усиливающие щупальца, при условии что они были убиты ими
+		При нанесении ударов врагу есть небольшой шанс призвать красного одержимого, который нанесёт большой урон этому врагу
+		Нажмите горячую клавишу, чтобы призвать молнию, которая уничтожает врагов и наносит большой урон боссам
 		'''
 }
 
@@ -838,12 +837,12 @@ GraveDiggerShovel: {
 }
 
 PartyNailgun: {
-	DisplayName: Spook-02 Necromantic Machine Pistol
+	DisplayName: Некромантический пистолет-пулемёт «Жуть-02»
 	Tooltip:
 		'''
-		The newest self-defense weapon in the necromancy weapons scene
-		Rapidly fires out bolts that completely ignore enemy defense
-		Has its own special ammo stored inside of it that regenerates over time
+		Новейшее оружие самообороны в сфере некромантического оружия
+		Быстро выстреливает лучами, полностью игнорирующими защиту врага
+		Содержит 200 зарядов лучей, востанавливающиеся со временем
 		'''
 }
 
@@ -870,9 +869,8 @@ SpiritSlingshot: {
 	DisplayName: Призрачная рогатка
 	Tooltip:
 		'''
-		Использует замшелые камушки в качестве боеприпасов
-		Удерживайте, чтоба зарядить рогатку
-		Превращает замшелые камушки в призрачные шары, быстро отскакивающие от поверхностей и врагов
+		Удерживайте ЛКМ, чтобы зарядить рогатку, и отпустите, чтобы выпустить снаряд
+		Превращает замшелые камушки в быстрые призрачные шары, отскакивающие от поверхностей и врагов
 		'''
 }
 
@@ -1303,31 +1301,31 @@ BountyItem4: {
 }
 
 GhostBook: {
-	DisplayName: Tome of Spirits
+	DisplayName: Том духов
 	Tooltip:
 		'''
-		Summons one of the grave-robber's spirits to fight with and protect you
-		The spirit summoned depends on the color of the book's eye
-		Use to switch the type of spirit this book summons
+		Призывает одного из духов расхитителей могил, чтобы сражаться на вашей стороне и защищать вас
+		Призываемый дух зависит от цвета глаза на книге
+		Используйте этот предмет из инвентаря, чтобы изменит призываемого духа
 		'''
 }
 
 MagicEyeOrb: {
-	DisplayName: Eyeball of Pondering
+	DisplayName: Глазное яблоко рассуждения
 	Tooltip:
 		'''
-		Summons a glass eye that looks at nearby enemies
-		Enemies being looked at will take more damage from your magic attacks
-		The eye will shatter if you get hit 5 times, and will respawn after 30 seconds
+		Призывает стеклянный глаз, наблюдающий за ближайшими врагами
+		Наблюдаемые глазом враги получают больше урона от ваших магических атак
+		Глаз разрушается после получения вами 5 ударов и возрождается через 30 секунд
 		'''
 }
 
 SewingThread: {
-	DisplayName: Sewing Thread
+	DisplayName: Швейная нить
 	Tooltip:
 		'''
-		Using items will sometimes launch out a piercing thread
-		The thread will deal more damage the more enemies it pierces
+		Использование оружия может выпустить прознающую врагов нить
+		Нить наносит тем больше урона, чем больше врагов пронзила
 		'''
 }
 
@@ -1338,16 +1336,16 @@ StitchedCloak: {
 		Увеличивает ускорение 
 		Нажмите дважды в нужном направлении, чтобы сделать рывок по горизонтали или вертикали
 		Рывки оставляют за собой паутину, которая зацепляет врагов, нанося им урон
-		Рывок плаща имеет 9 секунд перезарядки
+		Эта способность перезаряжается 9 секунд
 		'''
 }
 
 SummonItem1: {
-	DisplayName: Red Velvet Cake
+	DisplayName: Торт «Красный бархат»
 	Tooltip:
 		'''
-		It smells absolutely delectable
-		Attracts a creature in the spooky forest while in your inventory
+		Пахнет просто восхитительно
+		Приманивает существо в жутком лесу, когда находится в инвентаре
 		'''
 }
 
@@ -1489,11 +1487,11 @@ GodGun: {
 }
 
 HighVelocitySlingshot: {
-	DisplayName: High-Velocity Slingshot
+	DisplayName: Высокоскоростная рогатка
 	Tooltip:
 		'''
-		Hold down to pull back the slingshot, then release to fling ammo
-		Fires Mossy Pebbles at an extremely high velocity
+		Удерживайте ЛКМ, чтобы зарядить рогатку, и отпустите, чтобы выпустить снаряд
+		Стреляет замшелыми камушками с черезвычайно высокой скоростью
 		'''
 }
 
@@ -1543,7 +1541,7 @@ OrbWeaverShield: {
 	Tooltip:
 		'''
 		Вытягивает шипованный щит, который наносит больше урона по мере увеличения скорости передвижения
-		После 3-ёх секунд использования, шипы щита заряжаются
+		После 3 секунд использования, шипы щита заряжаются
 		Отпустите ЛКМ с заряженными шипами, чтобы выстрелить ими
 		'''
 }
@@ -1578,7 +1576,7 @@ SpiderEggCannon: {
 	Tooltip:
 		'''
 		Выстреливает шелковистыми паучьи яйца
-		Каждый 5-ый выстрел будет выпускать более крупное яйцо, призывающие атакующего паука
+		Каждый 5 выстрел будет выпускать более крупное яйцо, призывающие атакующего паука
 		'''
 }
 
@@ -1591,7 +1589,7 @@ SpiderSlingshot: {
 	DisplayName: Паутинометатель
 	Tooltip:
 		'''
-		Удерживайте, чтоба зарядить рогатку
+		Удерживайте ЛКМ, чтобы зарядить рогатку, и отпустите, чтобы выпустить снаряд
 		Превращает замшелые камушки в комки паутины, замедляющие врагов
 		'''
 }
@@ -1783,12 +1781,12 @@ CreepyCandle: {
 }
 
 ElGourdo: {
-	DisplayName: El Gourdo
+	DisplayName: Ель Тыкво
 	Tooltip:
 		'''
-		Throws a slow moving gourd bomb that will stop midair after a bit
-		After a few seconds, the bomb will explode, unleashing lingering greek fire
-		The bomb will automatically detonate when it hits an enemy
+		Бросает медленно летящие тыквы-бомбы, останавливающиеся в воздухе через некоторое время
+		Через несколько секунд, бомба взрывается, разрбрасывая огненные осколки, временно остающиеся на земле
+		Бомба взорвётся сразу, если столкнётся с врагом
 		'''
 }
 
@@ -1810,7 +1808,7 @@ GourdSlingshot: {
 	DisplayName: Вонючий рогаткер
 	Tooltip:
 		'''
-		Удерживайте, чтоба зарядить рогатку
+		Удерживайте ЛКМ, чтобы зарядить рогатку, и отпустите, чтобы выпустить снаряд
 		Превращает замшелые камушки в заплесневевшие кусочки тыквы, призывающие мух при столкновении
 		'''
 }
@@ -1872,7 +1870,7 @@ OldWoodSlingshot: {
 	DisplayName: Рогатка из старого дерева
 	Tooltip:
 		'''
-		Удерживайте, чтоба зарядить рогатку
+		Удерживайте ЛКМ, чтобы зарядить рогатку, и отпустите, чтобы выпустить снаряд
 		Использует замшелые камушки в качестве боеприпасов
 		'''
 }
@@ -2000,54 +1998,54 @@ Biojets: {
 }
 
 GiantEar: {
-	DisplayName: Symbiotic Ear
+	DisplayName: Симбиотическое ухо
 	Tooltip:
 		'''
-		Summons an ear companion that shoots out damaging sound blasts while you attack
-		The damage and frequency of the blasts is based on the weapon you are currently using
+		Призывает ухо-компаньона, выпускающего наносящие урон звуковые волны, когда вы атакуете
+		Урон и частота волн зависит от оружия, которое вы используете
 		'''
 }
 
 GooChompers: {
-	DisplayName: Corroding Chompers
+	DisplayName: Абцессные зубы
 	Tooltip:
 		'''
-		Hitting enemies will sometimes give them a stomach ache which weakens them
-		Enemies that have this debuff will explode into damaging pink bubbles on death
-		These pink bubbles can also sometimes inflict stomach ache onto enemies
+		Попадания по врагам могут вызвать у них боль в животе, которая ослабляет их
+		Враги с этим дебаффом при смерти взрываются розовыми пузырями, наносящими урон
+		Розовые пузыри также имеют шанс вызвать боль в животе у поражённых врагов
 		'''
 }
 
 PeptoStomach: {
-	DisplayName: Peptobyssmal
+	DisplayName: Полисорбер
 	Tooltip:
 		'''
-		A warm substance, created from hellish ingredients
-		Little eye may be interested in this
+		Тёплая субстанция, созданная из дьявольских игриндиентов
+		Может заинтересовать Глазика
 		'''
 }
 
 SmokerLung: {
-	DisplayName: Smoker's Lungs
+	DisplayName: Лёгкие курильщика
 	Tooltip:
 		'''
-		Press the Accessory Hotkey to cough up a lingering cloud of smoke
-		Enemies caught in the smoke may also cough out smoke clouds randomly for a short time
-		You cannot create another smoke cloud for a minute
+		Нажмите горячую клавишу, чтобы выпустить большое облако дыма
+		Враги, попывшие в облако дыма также начнут их выкашлевать короткое время
+		Эта способность перезаряжается 1 минуту
 		'''
 }
 
 StonedKidney: {
-	DisplayName: Stoned Kidney
+	DisplayName: Почка с камнями
 	Tooltip:
 		'''
-		While not using weapons you will charge up the stoned kidney
-		At full charge, attacking will launch a spread of high damage kidney rocks
+		Почка с камнями заряжается, пока вы не используете оружие
+		Использование оружия при полной зарядке также выпустит гору камней
 		'''
 }
 
 VeinChain: {
-	DisplayName: Two-Way Blood-Way
+	DisplayName: Двустороннее кровообращение
 	Tooltip:
 		'''
 		Chance on hitting nearby enemies to attach a life-stealing vein on them
@@ -2505,7 +2503,7 @@ NerveWhip: {
 	Tooltip:
 		'''
 		{$CommonItemTooltip.Whips}
-		Наносит тем больше урона, чем больше врагов поражено за удар, вплоть до 5-ти
+		Наносит тем больше урона, чем больше врагов поражено за удар, вплоть до 5
 		'''
 }
 
@@ -2514,7 +2512,7 @@ Sneezer: {
 	Tooltip:
 		'''
 		Стреляет козявками, не подверженными гравитации
-		Каждый 10-ый выстрел выпускает более большую и быстру козявку
+		Каждый 10 выстрел выпускает более большую и быстру козявку
 		«Младший двоюродный брат козявочного бластера»
 		'''
 }
