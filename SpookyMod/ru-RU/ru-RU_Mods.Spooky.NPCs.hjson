@@ -30,7 +30,7 @@ DaffodilEye: {
 
 	BossChecklistIntegration: {
 		SpawnInfo: Бросьте в неё [i:Spooky/Brick], чтобы разбудить.
-		DespawnMessage: Нарцисс завершает вашу экспедицию в Катакомбы.
+		DespawnMessage: Все игроки встретили свою смерть в цветах.
 	}
 }
 
