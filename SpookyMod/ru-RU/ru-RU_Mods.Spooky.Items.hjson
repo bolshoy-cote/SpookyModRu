@@ -1567,7 +1567,7 @@ SphiderFlail: {
 }
 
 SpiderCrossbow: {
-	DisplayName: Ядовитый арбалет
+	DisplayName: Отравляющий арбалет
 	Tooltip: Превращает любые стрелы в пробивающие врагов дротики
 }
 
@@ -2750,7 +2750,7 @@ CemeteryBiomeChestItem: {
 }
 
 CemeteryDirtItem: {
-	DisplayName: Почва болота
+	DisplayName: Болотистая грязь
 	Tooltip: ""
 }
 
