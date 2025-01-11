@@ -2756,7 +2756,7 @@ CemeteryDirtItem: {
 
 CemeteryGrassSeeds: {
 	DisplayName: Семена травы кладбища
-	Tooltip: Сажает траву на почве болота
+	Tooltip: Сажает траву на болотистой грязи
 }
 
 CemeteryStoneItem: {
