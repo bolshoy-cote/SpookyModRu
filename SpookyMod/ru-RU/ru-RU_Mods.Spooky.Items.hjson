@@ -2048,24 +2048,23 @@ VeinChain: {
 	DisplayName: Двустороннее кровообращение
 	Tooltip:
 		'''
-		Chance on hitting nearby enemies to attach a life-stealing vein on them
-		The chains will remain attached to enemies as long as you are close enough to that enemy
-		You can have up to 3 chains on different enemies, and this amount will lower if your health is lower
+		При поподании по врагу, есть шанс зацепиться за него высасывающей жизнь веной
+		Максимум можно зацепиться за 3 врагов, и они будут прикерепледы до тех пор, пока вы достаточно близко к ним
 		'''
 }
 
 TotalOrganPackage: {
-	DisplayName: Total Organ Package
+	DisplayName: Полный пакет орагов
 	Tooltip:
 		'''
-		Grants the abilities of all organ accessories
-		Chance on hitting nearby enemies to attach a life-stealing vein that damages them and heals you
-		Hitting enemies may attach a set of goo jaws to them to deal additional damage
-		Hitting enemies will sometimes give them a stomach ache, on death they will explode pink bubbles
-		While not using items you will charge up a kidney rock, at full charge attacking will launch the stone
-		Press the Accessory Hotkey to cough up a lingering cloud of smoke
-		Enemies caught in the smoke will also cough smoke clouds randomly for a short time
-		Summons an ear companion that shoots out damaging sound blasts while you attack
+		Объединяет эффекты от всех аксессуаров органов
+		При поподании по врагу, есть шанс зацепиться за него высасывающей жизнь веной
+		При поподании по врагу, есть шанс прикрепить к нему липкие челюсти, наносящие дополнительный урон
+		Попадание по врагу также может вызвать у него боль в животе, из-за чего они будут взрываться розовыми пузырями при смерти
+		Пока вы не используете оружие будет заряжаться почка с камнями, при полном заряде которой атаки будут выпускать гору камней
+		Нажмите горячую клавишу, чтобы выпустить большое облако дыма
+		Враги, попывшие в облако дыма также начнут их выкашлевать короткое время
+		Призывает ухо-компаньона, выпускающего наносящие урон звуковые волны, когда вы атакуете
 		'''
 }
 
@@ -2237,22 +2236,22 @@ SentientLeatherWhip: {
 }
 
 SentientLifeDrain: {
-	DisplayName: Soul Sucker
+	DisplayName: Поглотитель душ
 	Tooltip:
 		'''
-		Siphons souls from enemies near your cursor, which can heal your life or mana
-		After absorbing 20 souls, the staff will unleash a powerful aura
-		'It looks at you maliciously'
+		Высасывает душу из врагов, находящихся рядом с вашим курсором, что востанавливает ваше здоровье и ману
+		Посох излучает наносящую урон ауру после поглощения 20 душ
+		«Он злобно смотрит на вас»
 		'''
 }
 
 SentientMagnetSphere: {
-	DisplayName: Necronomicon Volume II
+	DisplayName: Некрономикон: часть вторая
 	Tooltip:
 		'''
-		Channel a controllable heart that zaps nearby enemies with blood lightning
-		The heart grows in size and power the longer it is channeled
-		'Caution: May bite'
+		Выпускает управляемое курсором сердце, атаующее молнией ближайших врагов
+		Чем дольше сердце управляется, тем больше и сильнее оно становится
+		«Осторожно, кусается!»
 		'''
 }
 
@@ -2296,11 +2295,11 @@ SentientShootius: {
 }
 
 SentientSkullBook: {
-	DisplayName: Necronomicon
+	DisplayName: Некрономикон
 	Tooltip:
 		'''
-		Casts out fast magic skulls that will bite onto enemies
-		'Nom nom nom!'
+		Выпускает быстрые магические черепа, взгрзающиеся в врагов
+		«Ням ням ням!»
 		'''
 }
 
@@ -2310,12 +2309,12 @@ SentientSphereStaff: {
 		'''
 		Призывает комки крылатой биомассы, атакующие врагов
 		Если долго атаковать одно и того же врага, то биомасса влетит в него и взорвётся
-		«Вероятно, это не символ здоровья»
+		«Не очень похоже на символ здоровья»
 		'''
 }
 
 SentientToxikarp: {
-	DisplayName: пузыреотрыгиватель
+	DisplayName: Пузыреотрыгиватель
 	Tooltip:
 		'''
 		Выплёвывает токсичные пузыры, отскакивающие от твёрдых поверхностей
@@ -2354,18 +2353,18 @@ BoogerBlaster: {
 }
 
 BoogerBook: {
-	DisplayName: Snot-Nosed Tome
-	Tooltip: Casts a controllable nose that constantly sneezes boogers below it
+	DisplayName: Фолиант сопливого носа
+	Tooltip: Выпускает управляемый курсором нос, постоянно вычихивающий козявки
 }
 
 BoogerFlail: {
-	DisplayName: Snot Ball
-	Tooltip: When launched, the booger will detach from the chain and bounce around
+	DisplayName: Соплявой шар
+	Tooltip: При запуске, козявка отцепляется от цепи и отпрыгивает от поверхностей
 }
 
 BoogerStaff: {
-	DisplayName: Sneeze Scepter
-	Tooltip: Summons fast flying noses that sneeze on enemies
+	DisplayName: Скипетр чиха
+	Tooltip: Призывает быстрый летающий нос, зачищивающий врагов
 }
 
 EyeFlail: {
