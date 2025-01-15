@@ -1,10 +1,10 @@
-SpookySolutionProj.DisplayName: Spooky Spray
-CemeterySolutionProj.DisplayName: Cemetery Spray
-SpookyHellSolutionProj.DisplayName: Eye Valley Spray
-BigBoneThorn.DisplayName: Thorn Vine
-BigBoneThornTelegraph.DisplayName: Telegraph
+SpookySolutionProj.DisplayName: Распыление жути
+CemeterySolutionProj.DisplayName: Распыление кладбища
+SpookyHellSolutionProj.DisplayName: Распыление глазной долины
+BigBoneThorn.DisplayName: Колючая лоза
+BigBoneThornTelegraph.DisplayName: Предупреждение
 BoneWisp.DisplayName: Skull Wisp
-BouncingFlower.DisplayName: Flower
+BouncingFlower.DisplayName: Цветок
 DefensiveFlowerSeed.DisplayName: Flower Seed
 FlamingWisp.DisplayName: Flaming Skull Wisp
 FlowerSpore.DisplayName: Flower Spore
@@ -27,7 +27,7 @@ EyeSpit2.DisplayName: Saliva Ball
 OrroBiomatter.DisplayName: Biomass
 DirtDebris.DisplayName: Dirt Debris
 MoldSpore.DisplayName: Mold Spore
-RotFly.DisplayName: Fly
+RotFly.DisplayName: Муха
 EyeBeam.DisplayName: Eye Beam
 EyeBeamTelegraph.DisplayName: Telegraph
 EyeBolt.DisplayName: Eye Bolt
