@@ -3800,7 +3800,7 @@ CatacombTorch2Item: {
 }
 
 CemeteryBiomeTorchItem: {
-	DisplayName: Факел заболоченого кладбища
+	DisplayName: Факел заболоченного кладбища
 	Tooltip: ""
 }
 
