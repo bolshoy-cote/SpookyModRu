@@ -4,16 +4,16 @@ BustlingGlowshroomHeal: {
 }
 
 DaffodilHairpinCooldown: {
-	DisplayName: Thorn Petal Cooldown
-	Description: Your petal ring is regrowing
+	DisplayName: Перезарядка кольца из лепестков
+	Description: Вышему кольцу из лепестков нужно время, чтобы отрасти
 }
 
 EmbryoRevival: {
-	DisplayName: Embryotic Revival
+	DisplayName: Эмбриональный пробуждение
 	Description:
 		'''
-		The embyro has saved you from death
-		Majorly increases defense and life regeneration
+		Эмбрион защитил вас от смерти
+		Защита и регенерация здоровья значительно увеличеныMajorly increases defense and life regeneration
 		'''
 }
 
@@ -28,8 +28,8 @@ SkullFrenzyBuff: {
 }
 
 SnottySchnozCooldown: {
-	DisplayName: Snotty Schnoz Cooldown
-	Description: Your booger frenzy is recharging
+	DisplayName: Перезарядка сопливого носища
+	Description: Ваше соплебезумие перезаряжается
 }
 
 BouncerDeathmark: {
