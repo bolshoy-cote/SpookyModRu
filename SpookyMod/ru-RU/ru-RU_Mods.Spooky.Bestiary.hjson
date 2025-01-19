@@ -205,18 +205,18 @@ TrapdoorSpider1: У этих молодых пауков очень тонико
 TrapdoorSpider2: Полностью выросшие ловушечные пауки гораздо опаснее молодых особей. Дополнительные ноги, которые выросли во р=время взросления, позволяют им рыть и преследовать добычу ещё более эффективно.
 WhipSpider: На самом деле, эти создания гораздо ближе к ракообразным, чем к паукам. У них есть длянный кнутообразный язык, покрытый феромонами, которые увеличивают агрессивность других пауков.
 //nose cultists
-NoseBallPurple: A large amalgam of noses fused together with the cult leader's magic. They can jump around off of surfaces by blowing air out of their many noses.
-NoseBallRed: Created by Noseferatu, they chaotically propel themselves around to serve as a distraction. They are formed using parts of other cultists who willingly sacrificed themselves.
-NoseCultistGrunt: Members of the nose cult, they are extremely devoted to their rituals. They also have a constant runny nose which they can use against their enemies.
-NoseCultistGunner: Armed with the cult's own creation, the booger blaster. An important weapon to the cultists, who claim to recive holy telephathic messages from them.
-NoseCultistWinged: Higher ups in the cult have mutated and grown wings, which can quickly carry them through the air. They are seen as divine due to this unique ability to fly, like the one they worship.
-NoseCultistMage: Seen as much higher above the grunts of the cult, these cultists are larger and can summon reinforcements with their magical snot.
-NoseCultistBrute: Once grunt cultists, they have been blessed with divine snot magic, turning them into mindless and powerful brutes. Their sticky snot flail takes no effort for them to swing around.
-NoseCultistLeader: The great leader and the most powerful of the cultists. The amount of snot magic in his body allows him to erratically cast spells, but it has turned him insane. A perfect trait for the nose cult's leader.
-SnotMonster: Humanoid beings formed with magic snot by the conjurers, they serve as temporary sentries before they loose magic and explode.
-SnotSlime: The snot from the conjurers has enough magical power to live on its own, and can hop around in the form of a living blob.
+NoseBallPurple: Амальгама из носов, слияние которых произошло из=за магии лидера культа. Они могут отпрыгивать от поверхностей, выдувая воздух из  своих многочисленных ноздрей.
+NoseBallRed: Созданные Нософерату они беспорядочно катаются по земле, отвлекая внимание. Они сформированы частями культистов, охотно пожертвовавших собой.
+NoseCultistGrunt: Члены культа носа крайне преданы своим ритуалам. К тому же из их носа постоянно течёт, и они используют свои сопли, чтобы атаковать врагов.
+NoseCultistGunner: Вооружен созданным культом сопливым бластером. Для культистов это оружие крайне важно, так как они утверждают, что с его помощью получают священные откровения.
+NoseCultistWinged: Высшие члены культа мутировали и отрастили крылья, что позволило им с лёгкостью перемещаться по воздуху. Благодаря их способности летать они встали почти на один уровень с теми, кому сами поклоняются.
+NoseCultistMage: Они намного превосходят рядовых членов культа - как по размеру, так и по способностям: их магические сопли могут призывать подкрепление.
+NoseCultistBrute: Однажды рядовые культисты были благословлены божественной магией соплей, что привратило их в безмозглых сильных зверей. Они без усилий размахивают своим липким сопливым цепом.
+NoseCultistLeader: Великий лидер культистов и сильнейший из них. Количество магии соплей в его теле позволяет ему хаотично импользовать заклинания, но ценой этому стал его разум. Идеальная особенность для лидера культистов носа.
+SnotMonster: Человекоподобные создания, сформированные заклинателями с помощью сопливой магии, слудат временеммы часовыми до истощения поддерживающей их ворму магии и последующего взрыва.
+SnotSlime: В соплях заклинателей достаточно магии для того, чтобы существовать без воли человека, и благодаря этому они перемещаются по миру в форме живых сгустков.
 //quest minibosses
-StitchSpider: A sewing project turned chimera, this spider-like creature made out of felt and spider skin now crawls around the spider grotto after it escaped. It also has metal fangs and a mortar cannon in its body which allows it to fire off heat-seeking missiles.
-EyeWizard: Little eye's most successful experiment, a large clone of himself that possesses enchanced magic abilities, can use various spells, and can move freely without being stuck on the ground. After finding a stylish cloak and hat it left little eye's lab to hone its skills further, making little eye extremely jealous.
-FrankenGoblin: In an attempt to make a guardian for his lab, little eye instead created a horrible frankensteined goblin with an incredibly lazy but hostile personality. It is also equipped with extendable stretchy arms for grabbing things, and can call upon eyes to assist it in combat.
-BanditBook: A group of grave-robber's souls trapped within a tome for their mischevious behavior. After being sold to little eye, the book was mistakenly opened. They took the chance to escape from little eye's lab, and have found their way to the cemetery to try and steal treasure from the catacombs like they once did before death.
+StitchSpider: Швейный проект, обернувшийся химерой; это арахноподобное существо, созданное из войлока и паучьей кожи, после своего побега ползает по паучьему гроту. В его теле есть металлические клыки и мортира, что позволяет ему стрелять ракетами, наводящимися на тепло.
+EyeWizard: Самый удачный эксперимент Глазика - большой клон его самого, обладающий продвинутыми магическими способностями и использующий различные заклинания, и, в отличие от своего создателя, способный передвигаться. Найдя стильный плащ и шляпу, он покинул лабораторию Глазика для того, чтобы продолжать оттачивать свои магиеские способности, что вызвало у его создателя немалую зависть.
+FrankenGoblin: В попытке создать защитника для своей лаборатории Глазик создал ужасающего ожившего гоблина, который был ленив, но агрессивен. Руи этого существа легко растягивались для того, чтобы дотянуться до дальних целей, а ещё он мог призвать глаза себе на помощь.
+BanditBook: Души расхитителей гробниц, запертые в томе за их отвратительное ремесло. Глазик, купивший эту книгу, по ишбке открыл её. Души воспользовались шансом и сбежали из лаборатории Глазика, нашли путь в заболоченное кладбище и теперь, как при жизни, пытаются выкрасть из катакомб ценные сокровища.
