@@ -179,8 +179,8 @@ MistGhostFaces.DisplayName: Туманный призрак
 MistGhostWiggle.DisplayName: Туманный призрак
 Possessor.DisplayName: Извивающийся призрак
 PossessorEvil.DisplayName: Извивающийся призрак
-SadGhostBig.DisplayName: Грусный призрак
-SadGhostSmall.DisplayName: Грусный призрак
+SadGhostBig.DisplayName: Грустный призрак
+SadGhostSmall.DisplayName: Грустный призрак
 SmileGhost.DisplayName: Счастливый призрак
 SmileGhostSmall1.DisplayName: Счастливый призрак
 SmileGhostSmall2.DisplayName: Счастливый призрак
@@ -213,14 +213,14 @@ LittleBoneSleeping.DisplayName: Спящее растение
 LittleEye.DisplayName: Глазик
 LittleEyeSleeping.DisplayName: Спящий глаз
 Musicman.DisplayName: Музыкант
-PartySkeleton1.DisplayName: Тусоскелет
-PartySkeleton2.DisplayName: Тусоскелет
-PartySkeleton3.DisplayName: Тусоскелет
-PartySkeleton4.DisplayName: Тусоскелет
-PartySkeleton5.DisplayName: Тусоскелет
-PartySkeleton6.DisplayName: Тусоскелет
-PartySkeleton7.DisplayName: Тусоскелет
-PartySkeleton8.DisplayName: Тусоскелет
+PartySkeleton1.DisplayName: Тусующийся скелет
+PartySkeleton2.DisplayName: Тусующийся скелет
+PartySkeleton3.DisplayName: Тусующийся скелет
+PartySkeleton4.DisplayName: Тусующийся скелет
+PartySkeleton5.DisplayName: Тусующийся скелет
+PartySkeleton6.DisplayName: Тусующийся скелет
+PartySkeleton7.DisplayName: Тусующийся скелет
+PartySkeleton8.DisplayName: Тусующийся скелет
 SkeletonBouncer.DisplayName: Скелет-вышибала
 SuspiciousSkeleton.DisplayName: Подозрительный скелет
 OldHunterSleeping.DisplayName: Старый охотник
@@ -255,7 +255,7 @@ GiantWeb: {
 
 //spooky biome
 Bungus.DisplayName: Хриб
-CandleMonster.DisplayName: Монстросвеч
+CandleMonster.DisplayName: Монстросвеча
 Chungus.DisplayName: Толстый гриб
 FluffBatBig1.DisplayName: Гигантская летучая плюшомышь
 FluffBatBig2.DisplayName: Гигантская летучая плюшомышь
@@ -264,7 +264,7 @@ FluffBatSmall2.DisplayName: Летучая плюшомышь
 FlyBig.DisplayName: Гигантская муха
 FlySmall.DisplayName: Муха
 HoppingCandyBasket.DisplayName: Прыгающая корзинка с конфетами
-LittleSpider.DisplayName: Паучок
+LittleSpider.DisplayName: Крошечный паук
 MonsterEye1.DisplayName: Глаз-монстр
 MonsterEye2.DisplayName: Глаз-монстр
 MonsterEye4.DisplayName: Глаз-монстр
@@ -296,12 +296,12 @@ ZomboidWarlock.DisplayName: Колдун-зомбоид
 WarlockSkull.DisplayName: Колдун-скелет
 ZomboidWind.DisplayName: Зомбоид
 //valley of eyes
-EyeBat.DisplayName: Глазомышь
+EyeBat.DisplayName: Летучая глазомышь
 EyeBatFleshy.DisplayName: Летучая глазомышь
-ManHole.DisplayName: Мясное отверстие
-ManHoleFleshy.DisplayName: Мясное отверстие
+ManHole.DisplayName: Мясная полость
+ManHoleFleshy.DisplayName: Мясная полость
 ManHoleEye.DisplayName: Глаз
-ManHoleBig.DisplayName: Большое мясное отверстие
+ManHoleBig.DisplayName: Большая мясная полость
 MrHandy.DisplayName: Мистер Руки
 MrHandyFleshy.DisplayName: Мистер Руки
 Tortumor.DisplayName: Болепухоль
@@ -311,7 +311,7 @@ TortumorGiantFleshy.DisplayName: Гигантская болепухоль
 Mocling.DisplayName: Моксит
 MoclingSwarm.DisplayName: ""
 ValleyFish.DisplayName: Подглядывающая рыба
-ValleyNautilus.DisplayName: Кроваво-красный цефалопод
+ValleyNautilus.DisplayName: Кроваво-красный моллюск
 ValleySquid.DisplayName: Тромбный кальмар
 ValleySquidClone.DisplayName: Тромбный кальмар
 ValleyEelBody.DisplayName: Аортный угорь
@@ -321,12 +321,12 @@ ValleyShark.DisplayName: Чудище-гемотромб
 ValleySharkMouth.DisplayName: Чудище-гемотромб
 ValleyMerman.DisplayName: Мясной тритон
 //spider cave
-Ant1.DisplayName: Муровей
-Ant2.DisplayName: Муровей
+Ant1.DisplayName: Муравей
+Ant2.DisplayName: Муравей
 BallSpider.DisplayName: Пхаук
 BallSpiderWeb.DisplayName: Пхаутина
 Cockroach.DisplayName: Таракан
-DaddyLongLegs.DisplayName: Длинноногий дядюшка
+DaddyLongLegs.DisplayName: Паук-долгоножка
 Inchworm1.DisplayName: Гусеница
 Inchworm2.DisplayName: Гусеница
 Inchworm3.DisplayName: Гусеница
@@ -347,16 +347,16 @@ OrbWeaverGiant.DisplayName: Гигантский шароткач
 TarantulaHawk1.DisplayName: Тарантуловый ястреб
 TarantulaHawk2.DisplayName: Тарантуловый ястреб
 TarantulaHawk3.DisplayName: Тарантуловый ястреб
-TinySpider1.DisplayName: Крошечный паук
-TinySpider2.DisplayName: Крошечный паук
-TinySpider3.DisplayName: Крошечный паук
-TinySpider4.DisplayName: Крошечный паук
-TinySpider5.DisplayName: Крошечный паук
+TinySpider1.DisplayName: Паучок
+TinySpider2.DisplayName: Паучок
+TinySpider3.DisplayName: Паучок
+TinySpider4.DisplayName: Паучок
+TinySpider5.DisplayName: Паучок
 TinySpiderEgg.DisplayName: Паучье яйцо
-TrapdoorSpider1.DisplayName: Ловушечный паук
-TrapdoorSpider2.DisplayName: Ловушечный паук
-TrapdoorSpiderIdle1.DisplayName: Ловушечный паук
-TrapdoorSpiderIdle2.DisplayName: Ловушечный паук
+TrapdoorSpider1.DisplayName: Паук-ловчий
+TrapdoorSpider2.DisplayName: Паук-ловчий
+TrapdoorSpiderIdle1.DisplayName: Паук-ловчий
+TrapdoorSpiderIdle2.DisplayName: Паук-ловчий
 WhipSpider.DisplayName: Паук-хлыстовик
 WhipSpiderTongue.DisplayName: Паук-хлыстовик
 //nose cult
@@ -366,8 +366,8 @@ MocoIdol3.DisplayName: ""
 MocoIdol4.DisplayName: ""
 MocoIdol5.DisplayName: ""
 MocoIdol6.DisplayName: ""
-NoseBallPurple.DisplayName: Нелегам
-NoseBallRed.DisplayName: Нелегам
+NoseBallPurple.DisplayName: Носольгама
+NoseBallRed.DisplayName: Носольгама
 NoseCultistBruteIdle.DisplayName: ""
 NoseCultistBrute.DisplayName: Культист-палач
 NoseCultistGruntIdle.DisplayName: ""
@@ -380,8 +380,8 @@ NoseCultistWingedIdle.DisplayName: ""
 NoseCultistWinged.DisplayName: Культист-лётчик
 NoseCultistLeaderIdle.DisplayName: ""
 NoseCultistLeader.DisplayName: Нософерату
-SnotMonster.DisplayName: Соплевой монстр
-SnotSlime.DisplayName: Соплевой слизень
+SnotMonster.DisplayName: Сопляной монстр
+SnotSlime.DisplayName: Сопляной слизень
 //quest minibosses
 BanditBook.DisplayName: Том духов
 BanditBruiser.DisplayName: Крастантин
