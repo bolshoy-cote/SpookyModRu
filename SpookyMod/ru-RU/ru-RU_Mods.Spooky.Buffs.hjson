@@ -9,11 +9,11 @@ DaffodilHairpinCooldown: {
 }
 
 EmbryoRevival: {
-	DisplayName: Эмбриональный пробуждение
+	DisplayName: Эмбриональное пробуждение
 	Description:
 		'''
 		Эмбрион защитил вас от смерти
-		Защита и регенерация здоровья значительно увеличеныMajorly increases defense and life regeneration
+		Защита и регенерация здоровья значительно увеличены
 		'''
 }
 
@@ -38,7 +38,7 @@ BouncerDeathmark: {
 }
 
 CatacombDebuff: {
-	DisplayName: Проклятье катакомб 
+	DisplayName: Проклятье Катакомб 
 	Description: Проклятье сильно ограничевает ваше поле зрения!
 }
 
