@@ -307,12 +307,12 @@ BackroomsDecay: {
 }
 
 MonumentMythosCooldown: {
-	DisplayName: Freedom Containment Cooldown
-	Description: Ваша стеклянная пирамида восстанавливается
+	DisplayName: Перезарядка сдерживания Свободы
+	Description: Пирамида из гиза-стекла восстанавливается
 }
 
 MonumentMythosShatter: {
-	DisplayName: Freedom Containment Shatter
+	DisplayName: Сдерживание Свободы разбито
 	Description: Вы получаете в 2 раза больше урона от всех источников
 }
 
@@ -322,17 +322,17 @@ InchwormBuff: {
 }
 
 SlendermanPageBuff: {
-	DisplayName: Slenderman Page Buff
-	Description: Your slenderman tentacles are empowered
+	DisplayName: Усиление страницы Слендермена
+	Description: Ваши слендер-щупальца усилены
 }
 
 HerobrineAltarCooldown: {
-	DisplayName: Blocky Altar Cooldown
+	DisplayName: Перезарядка алтаря из блоков
 	Description: Вы не можете призвать молнию
 }
 
 SpiderArmorStealth: {
-	DisplayName: Spi-Ops Stealth
+	DisplayName: Паучья скрытность
 	Description:
 		'''
 		Враги реже будут выбирать вас в качестве цели
@@ -341,17 +341,17 @@ SpiderArmorStealth: {
 }
 
 SpiderStealthCooldown: {
-	DisplayName: Spi-Ops Stealth Cooldown
-	Description: Вы не можете использовать паучью скрытность
+	DisplayName: Перезарядка паучьей скрытности
+	Description: Паучьей скрытности нужно время на восстановление
 }
 
 WhipSpiderAggression: {
 	DisplayName: Паучьи феромоны
-	Description: Spider grotto creatures are more aggressive
+	Description: Существа из паучьего грота более агрессивны
 }
 
 PheromoneWhipDebuff: {
-	DisplayName: Pheromone Whip Debuff
+	DisplayName: Ослабления от жала с феромонами
 	Description: ""
 }
 
@@ -366,47 +366,47 @@ SpiderBabyBuff: {
 }
 
 HunterScarfMark: {
-	DisplayName: Hunter Scarf Mark
+	DisplayName: Метка шарфа старого охотника
 	Description: ""
 }
 
 BeeDamageBuff: {
-	DisplayName: Pollenation Damage
+	DisplayName: Опылительное усиление
 	Description: ""
 }
 
 BeeHealingBuff: {
-	DisplayName: Pollenation Healing
+	DisplayName: опылительное лечение
 	Description: ""
 }
 
 BeePollinationProcessBuff: {
-	DisplayName: Bee Pollination Process Buff
+	DisplayName: Усиление пчелиного опыления
 	Description: ""
 }
 
 BlueberryFrost: {
-	DisplayName: Blueberry Frost
+	DisplayName: Голубичная заморозка
 	Description: ""
 }
 
 StrawberryBoostBuff: {
 	DisplayName: Клубничное усиление
-	Description: Увеличены урон, шанс критического удара и отбрасывание
+	Description: Урон, шанс критического удара и отбрасывание увеличены
 }
 
 LeechBuff: {
-	DisplayName: Leech
-	Description: The leech will fight with you
+	DisplayName: Пиявка
+	Description: Пиявка будет сражаться за вас
 }
 
 ToothyDebuff: {
-	DisplayName: Toothy Debuff
+	DisplayName: Клыковый дебафф
 	Description: ""
 }
 
 SentientKeybrandDebuff: {
-	DisplayName: Sentient Keybrand Debuff
+	DisplayName: Дебафф молярного мучителя
 	Description: ""
 }
 
@@ -416,52 +416,52 @@ WingedBiomassBuff: {
 }
 
 BillyBuff: {
-	DisplayName: Billy-Bone
-	Description: Billy-Bone the raven protects you!
+	DisplayName: Билли Бонс
+	Description: Ворона Билли Бонс защищает вас!
 }
 
 GooseberryBoostBuff: {
-	DisplayName: Gooseberry Boost
-	Description: Increased life regeneration and movement
+	DisplayName: Усиление крыжовника
+	Description: Регенерация здоровья и скорость передвижения увеличены
 }
 
 PeptoDebuff: {
-	DisplayName: Pepto Debuff
+	DisplayName: Пепто-дебафф
 	Description: ""
 }
 
 SmokerLungCooldown: {
-	DisplayName: Smoker's Lungs Cooldown
-	Description: Cannot use your cough ability
+	DisplayName: Перезарядка лёгких курильщика
+	Description: Вы не можете вызвать облако дыма
 }
 
 SmokerCoughDebuff: {
-	DisplayName: Smoker Cough Debuff
+	DisplayName: Дебафф облака дыма
 	Description: ""
 }
 
 NoseBlessingDebuff: {
-	DisplayName: Nose Blessing Debuff
+	DisplayName: Дебафф носового благословения
 	Description: ""
 }
 
 NoseBlessingDebuffCooldown: {
-	DisplayName: Nose Blessing Debuff Cooldown
+	DisplayName: Перезарядка дебаффа носового благословения
 	Description: ""
 }
 
 NoseBlessingBuff: {
-	DisplayName: Noseferatu's Blessing
-	Description: Attacking enemies will damage them with boogers
+	DisplayName: Благословение Нософерату
+	Description: Атаки по врагам будут наносить им дополнительный урон козявками
 }
 
 GhostBanditDefense: {
-	DisplayName: Blueford's Holy Shield
-	Description: 15 extra defense
+	DisplayName: Священный щит СирентияBlueford's Holy Shield
+	Description: Защита увеличена на 15 ед.
 }
 
 GlassEyeDebuff: {
-	DisplayName: Glass Eye Debuff
+	DisplayName: Дебафф глазного лазера
 	Description: ""
 }
 
