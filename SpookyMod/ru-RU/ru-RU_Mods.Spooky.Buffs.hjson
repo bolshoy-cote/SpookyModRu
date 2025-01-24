@@ -19,7 +19,7 @@ EmbryoRevival: {
 
 FlyBuff: {
 	DisplayName: Рой мух
-	Description: Рой мух защищает вас
+	Description: Вас защищает рой из мух
 }
 
 SkullFrenzyBuff: {
@@ -33,8 +33,8 @@ SnottySchnozCooldown: {
 }
 
 BouncerDeathmark: {
-	DisplayName: Skeleton Bouncer Deathmark
-	Description: Остановитесь! Вы нарушили закон!
+	DisplayName: Смертельная метка скелета-вышибалы
+	Description: Стоять! Вы нарушили закон!
 }
 
 CatacombDebuff: {
@@ -43,31 +43,31 @@ CatacombDebuff: {
 }
 
 CrossCooldown: {
-	DisplayName: Cross Charm Cooldown
-	Description: Your cross protection is recharging
+	DisplayName: Перезарядка крестика-оберега
+	Description: Защита от вашего оберега востанавливается
 }
 
 EmbryoCooldown: {
-	DisplayName: Embryotic Shatter
+	DisplayName: Эмбриональное разрушение
 	Description:
 		'''
-		The embryo's revival must recharge
-		Увеличивает урона и шанс критического удара
+		Эмбриону нужно время для повторного пробуждения
+		Урон и шанс критического удара увеличены
 		'''
 }
 
 EnsnaredCooldown: {
-	DisplayName: Ensnared Cooldown
+	DisplayName: Перезарядка поимки
 	Description: ""
 }
 
 EnsnaredDebuff: {
-	DisplayName: Ensnared
+	DisplayName: Пойманный
 	Description: ""
 }
 
 HallucinationDebuff1: {
-	DisplayName: Человек
+	DisplayName: Сущность
 	Description: Выхода нет
 }
 
@@ -78,7 +78,7 @@ HallucinationDebuff2: {
 
 HallucinationDebuff3: {
 	DisplayName: Лошадь
-	Description: Лошадь здесь...
+	Description: Она здесь...
 }
 
 HallucinationDebuff4: {
@@ -87,23 +87,23 @@ HallucinationDebuff4: {
 }
 
 FleshWhipCooldown: {
-	DisplayName: Eye Lasher Cooldown
+	DisplayName: Перезарядка беззащитности
 	Description: ""
 }
 
 FleshWhipDefense: {
-	DisplayName: Eye Lasher Defense
-	Description: ""
+	DisplayName: Беззащитный
+	Description: Глазной лазер снизил вашу защиту
 }
 
 FleshWhipDefense2: {
-	DisplayName: Eye Lasher Defense
-	Description: ""
+	DisplayName: Беззащитный
+	Description: Глазной лазер снизил вашу защиту
 }
 
 FlowerArmorCooldown: {
-	DisplayName: Pollen Cooldown
-	Description: You cannot spawn any more pollen
+	DisplayName: Перезардка распыления
+	Description: Вы пока не можете вызвать пыльцу
 }
 
 FlyCooldown: {
@@ -117,13 +117,13 @@ GourdDecay: {
 }
 
 PandoraCrossCooldown: {
-	DisplayName: Cross Bass Cooldown
-	Description: You cannot use the cross sound ability
+	DisplayName: Перезарядка баса креста
+	Description: Вы пока не можете активировать способность креста
 }
 
 PandoraHandCooldown: {
-	DisplayName: Rosary Hand Cooldown
-	Description: Your rosary hands cannot spawn
+	DisplayName: Перезарядка летающих рук розария
+	Description: Летающие руки розария пока не могут появится
 }
 
 Possessed: {
@@ -163,12 +163,12 @@ EyeArmorMinionBuff: {
 
 GrugBuff: {
 	DisplayName: Гаргулья
-	Description: Горгулья Грэг защищает вас!
+	Description: Горгулья Камнеголовый защищает вас!
 }
 
 NoseMinionBuff: {
-	DisplayName: Муха-нос
-	Description: Нос жужжит вокруг вас
+	DisplayName: Носомуха
+	Description: Разрдражающе жужжит вокруг вас
 }
 
 OldHunterBuff: {
@@ -202,8 +202,8 @@ SkullTotemBuff: {
 }
 
 TortumorMinionBuff: {
-	DisplayName: Friendly Tortumor
-	Description: The tortumor will fight with you
+	DisplayName: Дружественная болепухоль
+	Description: Болепухоль будет сражаться зав ас
 }
 
 BigBonePetBuff: {
@@ -222,8 +222,8 @@ ColumboBuff: {
 }
 
 FlyPetBuff: {
-	DisplayName: Муха, Корнелиус
-	Description: Он угрожающе парит вокруг вас
+	DisplayName: Муха Корнелиус
+	Description: Угрожающе парит вокруг вас
 }
 
 FuzzBatPetBuff: {
@@ -278,7 +278,7 @@ SkullEmojiBuff: {
 
 SkullGoopBuff: {
 	DisplayName: Череп-слизняк
-	Description: Такинственный слизняк ползёт за вами
+	Description: Таинственный слизняк ползёт за вами
 }
 
 SpookySpiritPetBuff: {
