@@ -104,14 +104,14 @@ OldHunter: {
 }
 
 PartySkeleton: {
-	Dialogue1: Бро, я умер.
+	Dialogue1: Бро я умер.
 	Dialogue2: Танцуйте до смерти!
 	Dialogue3: ЙОУУУУУУ!!!
 	Dialogue4: Эта вечеринка просто убойна!
 	Dialogue5: Я забыл ключи от своей машины и не могу вернуться домой, помоги, пожалуйста.
 	Dialogue6: Я — сердце этой вечеринки.
 	Dialogue7: Честно, меня задрали эти каламбуры про смерть и скелетов до мозга костей.
-	Dialogue8: Мне кажется, что я просто умру, когда это всё закончится.
+	Dialogue8: Эта вечеринка закончится, и опять наступит скука смертная.
 	Dialogue9: Что ты такое говоришь? Ты должен тусоваться, а не говорить об этих глупостях!
 	Dialogue10: Ааааааааааааах...
 	Dialogue11: Я выпил так много, что теперь мне кажется, что я начинаю чувствовать вкус цветов!
@@ -126,13 +126,13 @@ PartySkeleton: {
 	Dialogue20: Безумная вечеринка, да? Приятно иметь дело с чем-то, что не погребено под землёй.
 	Dialogue21: Мне так надоели скелеты из Катакомб, которые хвастаются тем, что там живут. Смогли бы они замутить там такую же тусу? Не думаю.
 	Dialogue22: Хм, ты, по всей видимости, не местный? Выглядишь напряжённо, останься здесь и потусуйся от души! Такие мероприятие бывают не так уж часто.
-	Dialogue23: Какой-то мужик подбежал ко мне и выкрикнул «CURSE OF RAH». Чё это вообще может значить?
+	Dialogue23: Какой-то мужик подбежал ко мне и выкрикнул «CURSE OF RAH». Чё это вообще может значит?
 	Dialogue24: Ты когда-нибудь задумывался о том, как скелеты пьют? И не стоит, ты всё равно не сможешь понять.
 	Dialogue25: Я всего лишь ждал выхода третьей части моей любимой игры... ну, перед тем как стал скелетом.
 	Dialogue26: Что значит, ты «теперь» нас видишь? Мы тут были всегда.
 	Dialogue27: Откуда вообще берутся гигантские световые лучи? В любом случае, выглядит очень атмосферно!
 	Dialogue28: Я настоящая душа этой вечеринки. Быть сердцем вечеринки? Как жалко!
-	Dialogue29: ЗАТКНИСЬ! Мой отец работает на Valve и будет использовать ваш разлагающийся труп для текстуры модели!
+	Dialogue29: ЗАТКНИСЬ! Мой отец работает на Valve и будет использовать твой разлагающийся труп для текстуры модели!
 	Dialogue30: Они называют меня мешком с костями.
 	Dialogue31: Превращение из зомбоида в скелетоноида — это так чудно. Как из грязи в князи!
 }
@@ -140,7 +140,7 @@ PartySkeleton: {
 SkeletonBouncer: {
 	Dialogue1: Похоже, ты тут недавно. Я не хочу, чтобы у тебя возникли какие-нибудь неприятности, на организацию таких вечеринок уходит очень много времени и сил.
 	Dialogue2: Вперёд, развлекайся и веселись. Только не нужно здесь никому мешать.
-	Dialogue3: Эти вечеринки очень весёлые. Только не совершай никаких преступлений, а то мне придётся убить тебя из своего пистолета. Это может испортить атмосферу.
+	Dialogue3: Эти вечеринки очень весёлые. Только не совершай никаких преступлений, а то мне придётся убить тебя из своего пистолета. Это может убить атмосферу.
 	Dialogue4: Компания предоставила нам новые потусторонние пистолеты. Они утверждают, что эти пушки намного лучше предыдущих, но я не уверен. Клянусь, я слышал, как эти штуки кричали.
 	Dialogue5: ...
 }
@@ -149,14 +149,14 @@ SuspiciousSkeleton: {
 	Dialogue1: Йоу, парень, не хочешь немного кошмарного топлива? Оно прям нормально втыкает.
 	Dialogue2: Мой брат Тони поставляет интересный товар. Видимо, достать его легче, когда ты превращаешь в фарш тех огромных чудиков. Честно, я сам не понимаю как это работает, так что не спрашивай меня об этом.
 	Dialogue3: Ey kid! Yer too slow! Just sold someone a big golden ring earlier. Haven't heard from em in a minute though
-	Dialogue4: Sorry kid, I ain't got much to give ya right now. Ye've gotta beat up some big fellas before Tony can get his hands on the good stuff, ye see what I'm sayin?
-	Dialogue5: Yer asking me if I've tried the stuff? My brother in christ, I'm not stupid enough to. You are. Now buy more of my stuff.
-	Dialogue6: The sweater? I won it at the arcade, where I played this weird arcade machine. Some men in black gave it to me for free!
-	Dialogue7: You want some weird contraband? Ye probably come to the right place. Some of the people who buy my crap never return though.
-	Dialogue8: Do I like pizza? Kid, last time I had pizza I almost got mauled by a cast of colorful pizzeria mascots. Pizza tastes bitter now.
-	Dialogue9: Ye know ma brother Tony used to be the one selling the stuff too. So happens that horrors beyond your comprehension don't really like him selling the goods, so this is our workaround.
-	Dialogue10: Never trust them 'VHS' tapes kid. Not only is it outdated tech, but if someone is selling you one directly, its probably got a demon in it.
-	Dialogue11: How do I know if this stuff is safe? I don't.
+	Dialogue4: Извини, пацан, сейчас у меня особо ничё нет. Тебе придётся разобраться с большими ребятами, чтобы Тони смог достать больше стоящего товара, понимаешь, о чём я?
+	Dialogue5: Ты спрашиваешь, пробовал ли я это всё? Чел, ты дейтсвительно считаешь, что я настолько туп? Зато я считаю, что ТЫ настолько туп. Так что покупай ещё.
+	Dialogue6: Эта кофта? Я выиграл её на каком-то странном аркадном автомате. Непонятные люди в чёрном просто так отдали мне её!
+	Dialogue7: Нуждаешься в сомнительной контрабанде? Что ж, ты обратился по адресу, чувак. Хотя некоторые люди больше никогда не возращались, попробовав этой дури.
+	Dialogue8: Нравится ли мне пицца? Пацан, когда я последний раз ел пиццу, меня чуть не разорвали разноцветные маскоты этой пиццерии. Я не могу есть пиццу с тех пор.
+	Dialogue9: Ты знал, что мой брат Тони раньше сам втюхивал дурь? Дело в том, что ужасам, находящимся за гранью твоего понимания, не очень понравилось, что от продавал это добро, так что теперь у нас теперь такая схема.
+	Dialogue10: Никогда не доверьях этим «VHS-касетам», пацан. Как минимум, они сильно устарели, а если тебе их кто-то хочет продать напрямую, то в ней сто пудов сидит какой-то демон.
+	Dialogue11: Хочешь узнать, как определить безопасность этих вещей? Я хз.
 	Dialogue12: I've heard there's actually some stuff similar to what I sell lying around here. No idea how ye get it, Tony's been trying. If ye come across anythin real weird let me know ey?
 	Dialogue13: I hate parties but they do a good job at hiding my business.
 	Dialogue14: Эй, я не продаю комтную муку. Это РЕАЛЬНО стрёмное дерьмо, понимаешь? Держись от неё подальше, если хочешь сохранить свой нос.
@@ -164,9 +164,9 @@ SuspiciousSkeleton: {
 	Dialogue16: Если ты хотел бы глянуть более широкий ассортимент, поубивай этих больших чудиков в округе. Это позволит Тони быстрее привести товар, не привликая лишнего внимания.
 	Dialogue17: Тони любит вечеринки. Хреново, что они мне не нравятся, но мне нужно тут быть.
 	Dialogue18: Some of this stuff apperantly's got a lot of familial sentimental value to some folks. Not any folks here mind you, I ain't got time to be family counselor. If they wanted the stuff should've gotten it before Tony.
-	Dialogue19: «Кто не успел, тот опоздал» — вот мой девиз, пацан. Так что хавай товар, пока есть возможность.
+	Dialogue19: «Кто не успел, тот опоздал» — вот мой девиз, пацан. Так что хапай товар, пока есть возможность.
 	Dialogue20: Ye know one time ma brother Tony got lost in this weird town faaar away from here. Real foggy, couldn't see a thing, and it was filled with some real nasty ghouls. Not like us, more like, say the ones from the stuff I'm selling ye. Tony couldn't nab nothing from the place cause this cone-head freak kept chasing him around with a claymore.
-	Dialogue21: Не купить товар, когда у тебя есть возможность — вот что страшно.
+	Dialogue21: Не купить товар, когда у тебя есть возможность, — вот что страшно.
 }
 
 DumbZomboid: {
