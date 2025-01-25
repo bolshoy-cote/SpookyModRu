@@ -881,7 +881,7 @@ SpiritSword: {
 
 BananalizardHead: {
 	DisplayName: Маска BananaLizard
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 BanditHat: {
@@ -906,27 +906,27 @@ DaffodilMask: {
 
 DylanDoeHead: {
 	DisplayName: Маска DylanDoe
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 FlowerPotHead: {
 	DisplayName: Наголовный цветочный горшок
-	Tooltip: "«Это выглядит не так круто, как ты думаешь»"
+	Tooltip: «Это выглядит не так круто, как ты думаешь»
 }
 
 HatHead: {
 	DisplayName: Маска Hat in a River
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 KrakenHead: {
 	DisplayName: Маска HugeKraken
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 LittleEyeHat: {
 	DisplayName: Волшебная шляпа Глазика
-	Tooltip: "«Она слишком велика для вас»"
+	Tooltip: «Она слишком велика для вас»
 }
 
 MocoMask: {
@@ -956,7 +956,7 @@ PartySkeletonSkull: {
 
 DandyHead: {
 	DisplayName: Маска Dandy
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 RotGourdMask: {
@@ -966,12 +966,12 @@ RotGourdMask: {
 
 SeasaltHead: {
 	DisplayName: Маска Seasalt
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 SirenHead: {
 	DisplayName: Сиреноголова
-	Tooltip: "«Звуки сирены не прилагаются»"
+	Tooltip: «Звуки сирены не прилагаются»
 }
 
 SpookySpiritMask: {
@@ -981,57 +981,57 @@ SpookySpiritMask: {
 
 TacoHead: {
 	DisplayName: Маска Taco
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 WaasephiHead: {
 	DisplayName: Маска Waasephi
-	Tooltip: "«Отлично подходит для подражания внешности разработчиков спуки мода!»"
+	Tooltip: «Отлично подходит для подражания внешности разработчиков спуки мода!»
 }
 
 WarlockHood: {
 	DisplayName: Капюшон колдуна
-	Tooltip: "«We love casting spells!»"
+	Tooltip: «We love casting spells!»
 }
 
 ZomboidNecromancerHood: {
 	DisplayName: Капюшон некроманта
-	Tooltip: "«Sponsored by the shadow government!»"
+	Tooltip: «Sponsored by the shadow government!»
 }
 
 ZomboidPyromancerHood: {
 	DisplayName: Капюшон пироманта
-	Tooltip: "«Legalize nuclear bombs!»"
+	Tooltip: «Legalize nuclear bombs!»
 }
 
 BoogerFish: {
 	DisplayName: Соплерыба
-	Tooltip: "«Водится в глазастой долине»"
+	Tooltip: «Водится в глазастой долине»
 }
 
 OrroEel: {
 	DisplayName: Орроугорь
-	Tooltip: "«Водится в глазастой долине»"
+	Tooltip: «Водится в глазастой долине»
 }
 
 GourdFish: {
 	DisplayName: Проплесневевшая тыкворыба
-	Tooltip: "«Водится в жутком лесу»"
+	Tooltip: «Водится в жутком лесу»
 }
 
 HibiscusFish: {
 	DisplayName: Плавающий гибискус
-	Tooltip: "«Водится в Мрачных катакомбах»"
+	Tooltip: «Водится в Мрачных катакомбах»
 }
 
 SpookySpiritFish: {
 	DisplayName: Дух-рыба
-	Tooltip: "«Водится на заболоченном кладбище»"
+	Tooltip: «Водится на заболоченном кладбище»
 }
 
 ZomboidFish: {
 	DisplayName: Рыба-зомбоид
-	Tooltip: "«Водится в жутком лесу»"
+	Tooltip: «Водится в жутком лесу»
 }
 
 BlackLicorice: {
@@ -1720,7 +1720,7 @@ PumpkinCarvingKit: {
 
 RottenChunk: {
 	DisplayName: Проплесневевший кусочек
-	Tooltip: "«Воняет»"
+	Tooltip: «Воняет»
 }
 
 ShroomHopperItem: {
@@ -1739,7 +1739,7 @@ SpookyBiomeKey: {
 
 SpookyGlowshroom: {
 	DisplayName: Жуткий светящийся гриб
-	Tooltip: "«Наполнен магической энергией»"
+	Tooltip: «Наполнен магической энергией»
 }
 
 SpookySolution: {
@@ -1858,7 +1858,7 @@ OldWoodBow: {
 
 OldWoodGreatsword: {
 	DisplayName: Двуручный меч из старого дерева
-	Tooltip: "«Это скорее просто дубинка, чем меч»"
+	Tooltip: «Это скорее просто дубинка, чем меч»
 }
 
 OldWoodHammer: {
@@ -2075,7 +2075,7 @@ ArteryPiece: {
 
 CreepyChunk: {
 	DisplayName: Мясо монстра
-	Tooltip: "«Выглядит почти съедобно!»"
+	Tooltip: «Выглядит почти съедобно!»
 }
 
 EyeValleyCompass: {
@@ -2984,11 +2984,11 @@ NoseTemplePlatformRedItem: {
 }
 AmbushPaintingItem: {
 	DisplayName: Картина «Засада»
-	Tooltip: "«Hat in a River»"
+	Tooltip: «Hat in a River»
 }
 BaxterPaintingItem: {
 	DisplayName: Портрет Бакстера
-	Tooltip: "«Waasephi»"
+	Tooltip: «Waasephi»
 }
 FireExitSignItem: {
 	DisplayName: Знак пожарного выхода
@@ -2996,19 +2996,19 @@ FireExitSignItem: {
 }
 LuigiPaintingItem: {
 	DisplayName: Картина «Луиджи»
-	Tooltip: "«Waasephi»"
+	Tooltip: «Waasephi»
 }
 MonalumboItem: {
 	DisplayName: Картина «Моналимбо»
-	Tooltip: "«Waasephi»"
+	Tooltip: «Waasephi»
 }
 RedMistPaintingItem: {
 	DisplayName: Картина «Красный туман»
-	Tooltip: "«RocketLauncher»"
+	Tooltip: «RocketLauncher»
 }
 ShadowEyePaintingItem: {
 	DisplayName: Картина «Глаз»
-	Tooltip: "«???»"
+	Tooltip: «???»
 }
 NoseTempleBrickGreenItem: {
 	DisplayName: Зелёный оккультный кирпич
@@ -3669,32 +3669,32 @@ EyeWorkBenchItem: {
 
 IconPainting1Item: {
 	DisplayName: Картина «Лицо тыквы»
-	Tooltip: "«DylanDoe21»"
+	Tooltip: «DylanDoe21»
 }
 
 IconPainting2Item: {
 	DisplayName: Картина «Пугающий логотип»
-	Tooltip: "«Honda»"
+	Tooltip: «Honda»
 }
 
 IconPainting3Item: {
 	DisplayName: Картина «Жуткая полночь»
-	Tooltip: "«Hugekraken»"
+	Tooltip: «Hugekraken»
 }
 
 IconPainting4Item: {
 	DisplayName: Картина «Жуткий рассвет»
-	Tooltip: "«Hugekraken»"
+	Tooltip: «Hugekraken»
 }
 
 IconPainting5Item: {
 	DisplayName: Картина «Портрет носокультиста»
-	Tooltip: "«Hugekraken»"
+	Tooltip: «Hugekraken»
 }
 
 LittleEyePaintingItem: {
 	DisplayName: Автопортрет Глазика
-	Tooltip: "«Waasephi»"
+	Tooltip: «Waasephi»
 }
 
 LivingFleshItem: {
