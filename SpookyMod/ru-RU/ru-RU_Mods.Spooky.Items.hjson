@@ -950,7 +950,7 @@ OrroMask: {
 }
 
 PartySkeletonSkull: {
-	DisplayName: Череп тусоскелета
+	DisplayName: Череп тусующегося скелета
 	Tooltip: ""
 }
 
