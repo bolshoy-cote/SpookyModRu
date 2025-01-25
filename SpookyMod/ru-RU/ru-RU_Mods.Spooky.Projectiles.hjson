@@ -3,103 +3,103 @@ CemeterySolutionProj.DisplayName: Распыление кладбища
 SpookyHellSolutionProj.DisplayName: Распыление глазной долины
 BigBoneThorn.DisplayName: Колючая лоза
 BigBoneThornTelegraph.DisplayName: Предупреждение
-BoneWisp.DisplayName: Skull Wisp
+BoneWisp.DisplayName: Осколок черепа
 BouncingFlower.DisplayName: Цветок
-DefensiveFlowerSeed.DisplayName: Flower Seed
-FlamingWisp.DisplayName: Flaming Skull Wisp
-FlowerSpore.DisplayName: Flower Spore
-GiantFlameBall.DisplayName: Flame Blast
-HealingFlowerSeed.DisplayName: Flower Seed
-HomingFlower.DisplayName: Flower
-MassiveFlameBall.DisplayName: Flame Blast
-MassiveFlameBallBolt.DisplayName: Solar Blast
-RazorRose.DisplayName: Razor Rose
-SolarThorn.DisplayName: Solar Thorn
-GiantSnot.DisplayName: Snot Ball
-LingeringSnot.DisplayName: Snot Pile
-SnotBall.DisplayName: Snot Ball
-LingeringSnotBall.DisplayName: Snot Ball
-AcidBreath.DisplayName: Acidic Breath
-AcidTarget.DisplayName: Telegraph
-BoroBiomatter.DisplayName: Biomass
-EyeSpit.DisplayName: Saliva Ball
-EyeSpit2.DisplayName: Saliva Ball
-OrroBiomatter.DisplayName: Biomass
-DirtDebris.DisplayName: Dirt Debris
-MoldSpore.DisplayName: Mold Spore
+DefensiveFlowerSeed.DisplayName: Семя цветка
+FlamingWisp.DisplayName: Огненный осколок черепа
+FlowerSpore.DisplayName: Цветочная спора
+GiantFlameBall.DisplayName: Огненный взрыв
+HealingFlowerSeed.DisplayName: Семя цветка
+HomingFlower.DisplayName: Цветок
+MassiveFlameBall.DisplayName: Огненный взрыв
+MassiveFlameBallBolt.DisplayName: Солнечный взрыв
+RazorRose.DisplayName: Бритвенная роза
+SolarThorn.DisplayName: Солнечный шип
+GiantSnot.DisplayName: Комок соплей
+LingeringSnot.DisplayName: Кучка соплей
+SnotBall.DisplayName: Комок соплей
+LingeringSnotBall.DisplayName: Комок соплей
+AcidBreath.DisplayName: Кислотное дыхание
+AcidTarget.DisplayName: Предупреждение
+BoroBiomatter.DisplayName: Биомасса
+EyeSpit.DisplayName: Комок слюны
+EyeSpit2.DisplayName: Комок слюны
+OrroBiomatter.DisplayName: Биомасса
+DirtDebris.DisplayName: Остатки земли
+MoldSpore.DisplayName: Плесневая спора
 RotFly.DisplayName: Муха
-EyeBeam.DisplayName: Eye Beam
-EyeBeamTelegraph.DisplayName: Telegraph
-EyeBolt.DisplayName: Eye Bolt
-PhantomBomb.DisplayName: Skull Bomb
-PhantomExplosion.DisplayName: Phantom Explosion
-PhantomSeed.DisplayName: Phantom Seed
-PhantomSkullProj.DisplayName: Phantom Skull
-CruxAura.DisplayName: Crux Aura
-SalivaBall.DisplayName: Toxic Spit
-TumorOrb.DisplayName: Flesh Chunk
-BigBoneHammerProj.DisplayName: Skull Smasher
-BigBoneHammerProj2.DisplayName: Skull Smasher
-BoneMaskWisp.DisplayName: Skull Wisp
-BowFlower.DisplayName: Razor Rose
-BowFlowerThorn.DisplayName: Thorn Vine
-BowThornFlower.DisplayName: Thorn Flower
-FireBeam.DisplayName: Fire Beam
-GlowBulbProj.DisplayName: Glow Bulb
-GlowBulbThorn.DisplayName: Bulb Thorn
-GraveCrossbowArrow.DisplayName: Crossbow Arrow
-GraveCrossbowProj.DisplayName: Grave Crossbow
-NineTailsProj.DisplayName: Nine Tails
-SkullTotem.DisplayName: Skull Totem
-SoulBolt.DisplayName: Soul Bolt
-SoulSkullBolt.DisplayName: Soul Bolt
-SoulSkullMinion.DisplayName: Soul Skull
-StaffFireBolt.DisplayName: Solar Bolt
-ThornStaffBall.DisplayName: Thorn Ball
-AmuletSeed.DisplayName: Spirit Bolt
-PumpkinHead.DisplayName: Pumpkin Head
-PumpkinHeadBolt.DisplayName: Spooky Bolt
-ScrollPumpkin.DisplayName: Magic Pumpkin
-SlingshotBall.DisplayName: Ghastly Ball
-SpiritHand.DisplayName: Spirit Hand
-SpiritScrollHoldout.DisplayName: Spooky Scroll
-SpiritSlingshotProj.DisplayName: Ghostly Slingshot
-SpookyExplosion.DisplayName: Skull Explosion
-SpookySkull.DisplayName: Skull Bomb
-BigBonePet.DisplayName: Baby Bone
-FuzzBatPet.DisplayName: Fuzz Bat
-GhostPet.DisplayName: Lil Ghost
-MocoPet.DisplayName: Baby Moco
-RotGourdPet.DisplayName: Rotten Gourd
-SkullEmoji.DisplayName: Skull Emoji
-SpookySpiritPet.DisplayName: Mini Spirit
-CandyBagProj.DisplayName: Candy Bag
-Candy.DisplayName: Candy
-ElGourdoProj.DisplayName: El Gourdo
-LeafProjGreen.DisplayName: Leaf
-LeafProjOrange.DisplayName: Leaf
-LeafProjRed.DisplayName: Leaf
-SkullWisp.DisplayName: Skull Wisp
-SwarmFly.DisplayName: Fly
-ToiletPaperProj.DisplayName: Toilet Paper
-ZombiePart1.DisplayName: Zombie Piece
-ZombiePart2.DisplayName: Zombie Piece
-ZombiePart3.DisplayName: Zombie Piece
-BlasterBoogerBig.DisplayName: Snot Ball
-BlasterBoogerSmall.DisplayName: Snot Ball
-BoogerBlasterProj.DisplayName: Booger Blaster
-BoogerFlailFlung.DisplayName: Snot Ball
-BoogerFlailProj.DisplayName: Snot Ball
-BowEye.DisplayName: Seer Eye
-Brainy.DisplayName: Brainy
-BrainyExplosion.DisplayName: Brain Explosion
-ControllableEye.DisplayName: Magic Eye
-ControllableEyeBig.DisplayName: Magic Eye
-ControllableEyeBigExplosion.DisplayName: Eye Explosion
-EyeArmorMinion.DisplayName: Eye Minion
-EyeFlailProj.DisplayName: Chained Eye
-EyeFlailProj2.DisplayName: Chained Eye
-EyeRocket.DisplayName: Eye Rocket
+EyeBeam.DisplayName: Глазной луч
+EyeBeamTelegraph.DisplayName: Предупреждение
+EyeBolt.DisplayName: Глазной выстрел
+PhantomBomb.DisplayName: Черепная бомба
+PhantomExplosion.DisplayName: Фантомный взрыв
+PhantomSeed.DisplayName: Фантомное семя
+PhantomSkullProj.DisplayName: Фантомный череп
+CruxAura.DisplayName: Аура замедления
+SalivaBall.DisplayName: Ядовитый плевок
+TumorOrb.DisplayName: Кусок плоти
+BigBoneHammerProj.DisplayName: Черепной крушитель
+BigBoneHammerProj2.DisplayName: Черепной крушитель
+BoneMaskWisp.DisplayName: Осколок черепа
+BowFlower.DisplayName: Бритвенная роза
+BowFlowerThorn.DisplayName: Шипастая лоза
+BowThornFlower.DisplayName: Шипастый цветок
+FireBeam.DisplayName: Огненный луч
+GlowBulbProj.DisplayName: Светящийся бутон
+GlowBulbThorn.DisplayName: Шипастый бутон
+GraveCrossbowArrow.DisplayName: Арбалетная стрела
+GraveCrossbowProj.DisplayName: Могильный арбалет
+NineTailsProj.DisplayName: Девять хвостов
+SkullTotem.DisplayName: Черепной тотем
+SoulBolt.DisplayName: Духовный выстрел
+SoulSkullBolt.DisplayName: Духовный выстрел
+SoulSkullMinion.DisplayName: Духовный череп
+StaffFireBolt.DisplayName: Солнечный выстрел
+ThornStaffBall.DisplayName: Шипыстый шар
+AmuletSeed.DisplayName: Призрачный выстрел
+PumpkinHead.DisplayName: Тыквенная голова
+PumpkinHeadBolt.DisplayName: Жуткий выстрел
+ScrollPumpkin.DisplayName: Магия тыквы
+SlingshotBall.DisplayName: Ужасающий шар
+SpiritHand.DisplayName: Духовная рука
+SpiritScrollHoldout.DisplayName: Жуткий свиток
+SpiritSlingshotProj.DisplayName: Призрачная рогатка
+SpookyExplosion.DisplayName: Черепной взрыв
+SpookySkull.DisplayName: Черепная бомба
+BigBonePet.DisplayName: Крошка кость
+FuzzBatPet.DisplayName: Пушистая летучая мышь
+GhostPet.DisplayName: Мелкий призрак
+MocoPet.DisplayName: Крошка Моко
+RotGourdPet.DisplayName: Гнилая Тыква
+SkullEmoji.DisplayName: Эмодзи черепа
+SpookySpiritPet.DisplayName: Маленьки дух
+CandyBagProj.DisplayName: Мешок со сладостями
+Candy.DisplayName: Сладость
+ElGourdoProj.DisplayName: Эль Гоурдо
+LeafProjGreen.DisplayName: Лист
+LeafProjOrange.DisplayName: Лист
+LeafProjRed.DisplayName: Лист
+SkullWisp.DisplayName: Черепной хлыст
+SwarmFly.DisplayName: Муха
+ToiletPaperProj.DisplayName: Туалетная бумага
+ZombiePart1.DisplayName: Кусок зомби
+ZombiePart2.DisplayName: Кусок зомби
+ZombiePart3.DisplayName: Кусок зомби
+BlasterBoogerBig.DisplayName: Комок соплей
+BlasterBoogerSmall.DisplayName: Комок соплей
+BoogerBlasterProj.DisplayName: Козявочный бластер
+BoogerFlailFlung.DisplayName: Комок соплей
+BoogerFlailProj.DisplayName: Комок соплей
+BowEye.DisplayName: Глаз провидец
+Brainy.DisplayName: Мозговитый
+BrainyExplosion.DisplayName: Мозговой взрыв
+ControllableEye.DisplayName: Магический глаз
+ControllableEyeBig.DisplayName: Магический глаз
+ControllableEyeBigExplosion.DisplayName: Глазной взрыв
+EyeArmorMinion.DisplayName: Глазной прислужник
+EyeFlailProj.DisplayName: Скованный глаз
+EyeFlailProj2.DisplayName: Скованный глаз
+EyeRocket.DisplayName: Глазная ракета
 EyeRocketLauncherProj.DisplayName: I.C.U
 FleshWhipProj.DisplayName: Eye Lasher
 Leech.DisplayName: Leech
