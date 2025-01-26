@@ -2149,7 +2149,7 @@ SentientCap: {
 }
 
 SentientChik: {
-	DisplayName: Подвеска
+	DisplayName: Пенделок
 	Tooltip:
 		'''
 		Плачет кристальными слезами
