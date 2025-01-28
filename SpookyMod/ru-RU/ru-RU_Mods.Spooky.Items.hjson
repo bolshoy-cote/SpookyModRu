@@ -950,7 +950,7 @@ OrroMask: {
 }
 
 PartySkeletonSkull: {
-	DisplayName: Череп тусующегося скелета
+	DisplayName: Череп тусоскелета
 	Tooltip: ""
 }
 
@@ -2140,16 +2140,16 @@ SentientBloodRainBow: {
 }
 
 SentientCap: {
-	DisplayName: Достойный кепарик
+	DisplayName: Достойная кепка
 	Tooltip:
 		'''
 		Иногда разговаривает и издаёт ужасные звуки при ношении
-		«Мы ни перед кем не снимаем шляпы»
+		«Не стоит шутить с кепками»
 		'''
 }
 
 SentientChik: {
-	DisplayName: Пенделок
+	DisplayName: Подвеска
 	Tooltip:
 		'''
 		Плачет кристальными слезами
@@ -2549,7 +2549,7 @@ SnotWings: {
 }
 
 TortumorStaff: {
-	DisplayName: Посох запёкшейся крови
+	DisplayName: Посох кровопролития
 	Tooltip: Призывает дружественные болепухоли, плюющиеся кровавыми сгустками по врагам
 }
 
