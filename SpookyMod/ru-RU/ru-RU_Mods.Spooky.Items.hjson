@@ -950,7 +950,7 @@ OrroMask: {
 }
 
 PartySkeletonSkull: {
-	DisplayName: Череп тусоскелета
+	DisplayName: Череп тусующегося скелета
 	Tooltip: ""
 }
 
@@ -2144,12 +2144,12 @@ SentientCap: {
 	Tooltip:
 		'''
 		Иногда разговаривает и издаёт ужасные звуки при ношении
-		«Не стоит шутить с кепками»
+		«Мы ни перед кем не снимаем шляпы»
 		'''
 }
 
 SentientChik: {
-	DisplayName: Подвеска
+	DisplayName: Пенделок
 	Tooltip:
 		'''
 		Плачет кристальными слезами
