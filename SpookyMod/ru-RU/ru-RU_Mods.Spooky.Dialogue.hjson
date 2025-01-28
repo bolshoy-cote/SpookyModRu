@@ -184,7 +184,7 @@ Daffodil: {
 	PostDefeatIntro2: Что ж, тогда сразимся снова...
 	PreDefeatPhaseTransition1: Ну, раз так...
 	PreDefeatPhaseTransition2: Посмотрим, справишься ли ты с этим!
-	PostDefeatPhaseTransition1: Хах, значит, ты стал не чуть не хуже с прошлого раза...
+	PostDefeatPhaseTransition1: Хах, значит, с прошлого раза ты стал ни чуть не хуже...
 	PostDefeatPhaseTransition2: Тогда я уверена, что ты справишься и с этим!
 	PreDefeatOutro1: Значит, ты действительно силён...
 	PreDefeatOutro2: Что ж, значит я позволю тебе пройти ниже.
@@ -208,10 +208,10 @@ NoseGrunt: {
 }
 
 NoseGunner: {
-	Dialogue1: My gun speaks to me and tells me the holy nose will come soon. I am grateful.
-	Dialogue2: The great one's snot has allowed us to make and use these weapons, and together we will repay the favor.
-	Dialogue3: Being sacrificed into a booger blaster is the greatest experience one could ever imagine. I hope one day Noseferatu will let me become one.
-	Dialogue4: Jealous? Maybe if you keep up your rituals, you can wield a booger blaster yourself.
+	Dialogue1: Моя пушка разговаривает со мной, и она сказала что пришествие святого Носа близко. Я признателен.
+	Dialogue2: Сопли Величайшего позволили нам создать и использовать всё наше оружие, и мы оплатим ему за эту благодать.
+	Dialogue3: Быть принесённым в жертву козявочным бластером — величайшее благославение. Надеюсь, однажды Нософерату выберет в качестве жертвы и меня.
+	Dialogue4: Завидуешь? Может быть, если ты будешь верно следовать всем ритуалам, тебе тоже выдадут козявочный бластер.
 }
 
 NoseLeader: {
@@ -257,7 +257,7 @@ SentientCap: {
 }
 
 TheMan: {
-	One: Один
+	One: Раз
 	Two: Два
 	Three: Три
 	Four: Четыре
