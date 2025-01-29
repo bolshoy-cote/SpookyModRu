@@ -55,7 +55,7 @@ SoulBolt.DisplayName: Духовный выстрел
 SoulSkullBolt.DisplayName: Духовный выстрел
 SoulSkullMinion.DisplayName: Духовный череп
 StaffFireBolt.DisplayName: Солнечный выстрел
-ThornStaffBall.DisplayName: Шипыстый шар
+ThornStaffBall.DisplayName: Шипастый шар
 AmuletSeed.DisplayName: Призрачный выстрел
 PumpkinHead.DisplayName: Тыквенная голова
 PumpkinHeadBolt.DisplayName: Жуткий выстрел
@@ -101,125 +101,125 @@ EyeFlailProj.DisplayName: Скованный глаз
 EyeFlailProj2.DisplayName: Скованный глаз
 EyeRocket.DisplayName: Глазная ракета
 EyeRocketLauncherProj.DisplayName: I.C.U
-FleshWhipProj.DisplayName: Eye Lasher
-Leech.DisplayName: Leech
-LeechWhipProj.DisplayName: Leecher
-NerveWhipProj.DisplayName: Exposed Nerve
-NoseMinion.DisplayName: Nose Fly
-ScyclerProj.DisplayName: Scycler
-TortumorMinion.DisplayName: Tortumor
-TortumorMinionOrb.DisplayName: Tumor Orb
-CauldronTransformProj.DisplayName: Cauldron Transform
-OrroboroSpawn.DisplayName: Orroboro Spawner
-DecayDebuffFly.DisplayName: Decay Debuff Fly
-BigBoneHammerSwung.DisplayName: Skull Smasher
-BrainJarProj.DisplayName: Brainy Jar
-CauldronDummy.DisplayName: Cauldron
-SentientKatanaSlash.DisplayName: Conscious Slash
-SentientKatanaSlashSpawner.DisplayName: Conscious Slash
-CursedFlamePillar.DisplayName: Cursed Pillar
-SentientChikProj.DisplayName: Pendeloque
-SentientChikTear.DisplayName: Crystal Tear
-ToxicBubble.DisplayName: Toxic Bubble
-ToxicBubblePurple.DisplayName: Toxic Bubble
-ToxicBubbleBlue.DisplayName: Toxic Bubble
-ToxicBubbleRed.DisplayName: Toxic Bubble
-SentientLeatherWhipProj.DisplayName: Licker
-SentientShootiusSentry.DisplayName: Sentient Shootius
-SentientShootiusBolt.DisplayName: Sentient Shootius Bolt
-Grug.DisplayName: Grug
-GrugFireball.DisplayName: Cursed Fireball
-BloodTooth.DisplayName: Blood Tooth
-DrainedSoulHealth.DisplayName: Health Soul
-DrainedSoulMana.DisplayName: Mana Soul
-SoulDrainShockwave.DisplayName: Soul Shockwave
-SentientBladeTongueProj.DisplayName: Tongueblade
-IchorCloud.DisplayName: Ichor Cloud
-SentientSkull.DisplayName: Chomping Skull
-SpookySpiritSpawn.DisplayName: Spooky Spirit Spawner
-BrickProj.DisplayName: Heavy Brick
-OldWoodSlingshotProj.DisplayName: Old Wood Slingshot
-MossyPebbleProj.DisplayName: Mossy Pebble
-OldWoodStaffProj.DisplayName: Old Wood Staff
-OldWoodStaffBolt.DisplayName: Magic Bolt
-Columbo.DisplayName: Columbo
-ColumboFinger.DisplayName: Columbo
-ShroomWhipProj.DisplayName: Spore Smacker
-ShroomWhipSpore.DisplayName: Shroom Spore
-GhastlyOrbProj.DisplayName: Ghastly Orb
-ChlorophyllFlower.DisplayName: Chlorophyll Flower
-FleshPillarTelegraph.DisplayName: Telegraph
-FleshPillar.DisplayName: Flesh Pillar
-GourdFlailProj.DisplayName: Rotty's Wrath
-GourdFlailFly.DisplayName: Fly
-GourdSlingshotProj.DisplayName: Stinky Slinger
-MoldyPelletProj.DisplayName: Moldy Pellet
-MoldPelletFly.DisplayName: Mold Fly
-SkullGoop.DisplayName: Skull Goop
-SolarLaser.DisplayName: Solar Laser
-ThornBall.DisplayName: Thorn Ball
-ThornBallSpike.DisplayName: Thorn Spike
-DaffodilFly.DisplayName: Large Fly
+FleshWhipProj.DisplayName:  Глазной хлыст
+Leech.DisplayName: Пиявка
+LeechWhipProj.DisplayName: Высасывающий
+NerveWhipProj.DisplayName: Открытый нерв
+NoseMinion.DisplayName: Муха-нос
+ScyclerProj.DisplayName: Велосипедист
+TortumorMinion.DisplayName: Болепухоль
+TortumorMinionOrb.DisplayName: Опухоль
+CauldronTransformProj.DisplayName: Видоизменённый котёл
+OrroboroSpawn.DisplayName: Место появления Оро и Борро
+DecayDebuffFly.DisplayName: Муха дебаффа разложения
+BigBoneHammerSwung.DisplayName: Крушитель черепов
+BrainJarProj.DisplayName: Банка мозговитого
+CauldronDummy.DisplayName: Котёл
+SentientKatanaSlash.DisplayName: Разумный разрез
+SentientKatanaSlashSpawner.DisplayName: Разумный разрез
+CursedFlamePillar.DisplayName: Проклятая стена огня
+SentientChikProj.DisplayName: Пенделог
+SentientChikTear.DisplayName: Кристальная слеза
+ToxicBubble.DisplayName: Токсичный пузырь
+ToxicBubblePurple.DisplayName: Токсичный пузырь
+ToxicBubbleBlue.DisplayName: Токсичный пузырь
+ToxicBubbleRed.DisplayName: Токсичный пузырь
+SentientLeatherWhipProj.DisplayName: Лизатель
+SentientShootiusSentry.DisplayName: Разумный стрелиус
+SentientShootiusBolt.DisplayName: Выстрел разумного стрелиуса
+Grug.DisplayName: Краг
+GrugFireball.DisplayName: Проклятый огненный шар
+BloodTooth.DisplayName: Кровавый зуб
+DrainedSoulHealth.DisplayName: Душа здоровья
+DrainedSoulMana.DisplayName: Душа маны
+SoulDrainShockwave.DisplayName: Духовная ударная волна
+SentientBladeTongueProj.DisplayName: Мечеязык
+IchorCloud.DisplayName: Ихорное облако
+SentientSkull.DisplayName: Жующий череп
+SpookySpiritSpawn.DisplayName: Место появления жутких духов
+BrickProj.DisplayName: Тяжёлый кирпич
+OldWoodSlingshotProj.DisplayName: Рогатка из старого дерева
+MossyPebbleProj.DisplayName: Мшистая галька
+OldWoodStaffProj.DisplayName: Посох из старого дерева
+OldWoodStaffBolt.DisplayName: Магический выстрел
+Columbo.DisplayName: Колумбо
+ColumboFinger.DisplayName: Колумбо
+ShroomWhipProj.DisplayName: Грибной хлестатель
+ShroomWhipSpore.DisplayName: Грибная спора
+GhastlyOrbProj.DisplayName: Ужасающая сфера
+ChlorophyllFlower.DisplayName: Цветок хлорофилла
+FleshPillarTelegraph.DisplayName: Предупреждение
+FleshPillar.DisplayName: Стена из плоти
+GourdFlailProj.DisplayName: Гнев Ротти
+GourdFlailFly.DisplayName: Муха
+GourdSlingshotProj.DisplayName: Вонючая рогатка
+MoldyPelletProj.DisplayName: Заплесневелое драже
+MoldPelletFly.DisplayName: Заплесневелая муха
+SkullGoop.DisplayName: Черепная жижа
+SolarLaser.DisplayName: Солнечный лазер
+ThornBall.DisplayName: Шар из шипов
+ThornBallSpike.DisplayName: Шипастое остриё
+DaffodilFly.DisplayName: Большая муха
 ShroomFlailProj.DisplayName: Fungal Flail
 ShroomHopperPet.DisplayName: Shroom Hopper
-FlyPet.DisplayName: Cornelious
+FlyPet.DisplayName: Корнелиус
 FemurFractureSwung.DisplayName: Femur Fracturer
 FemurFractureProj.DisplayName: Femur Fracturer
 FemurFractureSkull.DisplayName: Fracturer Skull
 VenomBreath.DisplayName: Venom Breath
-CatPet.DisplayName: Black Kitten
+CatPet.DisplayName: Чёрный котёнок
 StickyEyePet.DisplayName: Glow In The Dark Eye
 SentientGatligatorGiblet.DisplayName: Meat Giblet
 SwordSlashBase.DisplayName: Sword Slash Base
 SentientKatanaSwingSlash.DisplayName: Conscious Cutter
 StinkBlast.DisplayName: Stink Blast
-TonguebladeSlash.DisplayName: Tongueblade
-EggEventHandler.DisplayName: Egg Barrier
+TonguebladeSlash.DisplayName: Мечеязык
+EggEventHandler.DisplayName: Барьер яйца
 SentientChumCasterBobber.DisplayName: Sentient Bobber
 ThornPillarSeed.DisplayName: Seed
 ThornPillar.DisplayName: Thorn Pillar
-SolarDeathbeamTelegraph.DisplayName: Telegraph
+SolarDeathbeamTelegraph.DisplayName: Предупреждение
 ChungusSpore.DisplayName: Spore
 FlameIdolProj.DisplayName: Flame Idol
 NautilusSpit1.DisplayName: Bloody Ink
 NautilusSpit2.DisplayName: Bloody Ink
 NautilusBubble1.DisplayName: Nautilus Bubble
 NautilusBubble2.DisplayName: Nautilus Bubble
-NautilusBiomass.DisplayName: Nautilus Biomass
+NautilusBiomass.DisplayName: Наутилусная биомасса
 ValleyNautilusPet.DisplayName: Baby Cephalopod
 ValleySharkThorn.DisplayName: Blood Spike
 ControllableNose.DisplayName: Controllable Nose
 ControllableNoseBooger.DisplayName: Booger
 FlowerArmorPollen.DisplayName: Pollen
 SkullAmuletSoul.DisplayName: Soul
-ThornPillarBarrierFloor.DisplayName: Thorn Barrier
-ThornPillarBarrierSide.DisplayName: Thorn Barrier
-TakeCoverTelegraph.DisplayName: Telegraph
+ThornPillarBarrierFloor.DisplayName: Барьер из шипов
+ThornPillarBarrierSide.DisplayName: Барьер из шипов
+TakeCoverTelegraph.DisplayName: Предупреждение
 DaffodilBladeSlash.DisplayName: Thorn Dagger
 DaffodilRodFlower.DisplayName: Sunflower Bolt
 MistGhostSpawn.DisplayName: Mist Ghost Spawner
 NoseMinionBooger.DisplayName: Booger
-OldHunterMelee.DisplayName: Warrior Spirit
-OldHunterRanged.DisplayName: Shotgunner Spirit
-OldHunterRangedBullet.DisplayName: Ghost Bullet
-OldHunterMage.DisplayName: Mage Spirit
-OldHunterMagicBolt.DisplayName: Spirit Bolt
-LivingFleshWhipProjBlue.DisplayName: Living Eye Lasher
-LivingFleshWhipProjRed.DisplayName: Living Eye Lasher
+OldHunterMelee.DisplayName: Душа воителя
+OldHunterRanged.DisplayName: Душа стрелка
+OldHunterRangedBullet.DisplayName: Призрачная пуля
+OldHunterMage.DisplayName: Душа мага
+OldHunterMagicBolt.DisplayName: Выстрел сущности
+LivingFleshWhipProjBlue.DisplayName: Живой глазной хлыст
+LivingFleshWhipProjRed.DisplayName: Живой глазной хлыст
 FleshBowChunk1.DisplayName: Bloot Clot
 FleshBowChunk2.DisplayName: Blood Clot
 LivingFleshAxeEye.DisplayName: Eye
-PandoraBeanPet.DisplayName: Von Anguston VI heir to the throne of the king bean
-PandoraEnemySpawnChester.DisplayName: Pandora's Box Enemy Spawner
-StitchBolt.DisplayName: Ghast Bolt
+PandoraBeanPet.DisplayName: Фон Ангустон IV, наследник престола короля Бина
+PandoraEnemySpawnChester.DisplayName: Место появления врагов ящика Пандоры
+StitchBolt.DisplayName: Выстрел ужаса
 BobbertExplosion.DisplayName: Bobbert
-DaffodilBowProj.DisplayName: Fly Shot
+DaffodilBowProj.DisplayName: Муза-снаряд
 DaffodilBowFly.DisplayName: Fly
-DaffodilHandMinion.DisplayName: Plant Hand
+DaffodilHandMinion.DisplayName: Растительная рука
 PandoraCrossSound.DisplayName: Cross Bass
 RotGourdMinion.DisplayName: Rot-Goober
-PandoraRosaryHand.DisplayName: Ghastly Hand
-PandoraChaliceOrb.DisplayName: Ghastly Orb
+PandoraRosaryHand.DisplayName:Ужасающая рука
+PandoraChaliceOrb.DisplayName: Ужасающая сфера
 OldWoodArrowProj.DisplayName: Old Wood Arrow
 PandoraCuffProj.DisplayName: Samson's Cuff
 HarvesterScytheSlash.DisplayName: Harvester's Scythe
@@ -246,13 +246,13 @@ HerobrineLightning.DisplayName: Lightning
 DaffodilRodProj.DisplayName: Sunflower Rod
 SentientPaladinsHammerProj.DisplayName: Dave & Mike
 ZomboidRootThorn.DisplayName: Root Spike
-ZomboidRootThornTelegraph.DisplayName: Thorn Telegraph
+ZomboidRootThornTelegraph.DisplayName: Предупреждение о шипах
 ZomboidRootThornFire.DisplayName: Flaming Root Spike
-ZomboidRootThornTelegraphFire.DisplayName: Thorn Telegraph
-TelegraphRedLeft.DisplayName: Telegraph
-TelegraphRedDown.DisplayName: Telegraph
-TelegraphRedRight.DisplayName: Telegraph
-TelegraphRedUp.DisplayName: Telegraph
+ZomboidRootThornTelegraphFire.DisplayName: Предупреждение о шипах
+TelegraphRedLeft.DisplayName: Предупреждение
+TelegraphRedDown.DisplayName: Предупреждение
+TelegraphRedRight.DisplayName: Предупреждение
+TelegraphRedUp.DisplayName: Предупреждение
 GraveDiggerShovelBonk.DisplayName: Bonk
 SphiderFlailProj.DisplayName: Swingable Sphider
 SphiderFlailWeb.DisplayName: Web Ball
@@ -284,11 +284,11 @@ SpiderSummonEggProj.DisplayName: Strange Spider Egg
 SpiderBabyGreen.DisplayName: Baby Spider
 SpiderBabyPurple.DisplayName: Baby Spider
 SpiderBabyRed.DisplayName: Baby Spider
-TatantulaTomeFly.DisplayName: Large Fly
+TatantulaTomeFly.DisplayName: Большая муха
 SpiderSlingshotProj.DisplayName: Web Flinger
 SpiderSlingshotWeb.DisplayName: Web Ball
-RazorRoseTelegraph.DisplayName: Telegraph
-RazorRoseTelegraphLockOn.DisplayName: Telegraph
+RazorRoseTelegraph.DisplayName: Предупреждение
+RazorRoseTelegraphLockOn.DisplayName: Предупреждение
 RazorRoseOrange.DisplayName: Fire Rose
 BoneBowProj.DisplayName: Bone Bender
 BoneBowArrow.DisplayName: Piercing Bone
@@ -354,13 +354,13 @@ BiojetterDeath.DisplayName: Biojetter
 MocoSpawnerProj.DisplayName: Moco Spawner
 HeartGlob1.DisplayName: Heart Glob1
 HeartGlob2.DisplayName: Heart Glob2
-AppendixLingerCloud.DisplayName: Ichor Cloud
+AppendixLingerCloud.DisplayName: Ихорное облако
 ToxicBloodSplatter.DisplayName: Toxic Blood Splatter
 YellowSplatter.DisplayName: Ichor
 RedSplatter.DisplayName: Blood
 GreenSplatter.DisplayName: Ooze
 BlueSplatter.DisplayName: Ooze
-CoughCloud.DisplayName: Ichor Cloud
+CoughCloud.DisplayName: Ихорное облако
 SpiderWeb.DisplayName: Spider Web
 SpiderMissile.DisplayName: Heat-Seeking Missile
 SnotMonsterBooger.DisplayName: Snot
@@ -385,8 +385,8 @@ SentientKeybrandProj.DisplayName: Molar Mauler
 SentientKeybrandThrown.DisplayName: Molar Mauler
 OrganicChunk.DisplayName: Carrion Chunk
 SentientLeafBlowerProj.DisplayName: Carrion Chunker
-WingedBiomass.DisplayName: Winged Biomass
-WingedBiomassFalling.DisplayName: Winged Biomass
+WingedBiomass.DisplayName: Летающая биомасса
+WingedBiomassFalling.DisplayName: Летающая биомасса
 WingedBiomassEye.DisplayName: Eye
 Billy.DisplayName: Billy Bone
 BillyFeather.DisplayName: Billy Feather
