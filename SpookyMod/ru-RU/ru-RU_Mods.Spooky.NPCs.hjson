@@ -11,7 +11,7 @@ SpookySpirit: {
 	DisplayName: Жуткий дух
 
 	BossChecklistIntegration: {
-		SpawnInfo: Нажмите ПКМ по проклятой статуе на заболоченном кладбище ночью, имея [i:Spooky/EMFReader] в своём инвентаре.
+		SpawnInfo: Нажмите ПКМ по проклятой статуе на заболоченном кладбище ночью, имея [i:Spooky/EMFReader] инвентаре.
 		DespawnMessage: Жуткий дух запугал всех игроков.
 	}
 }
@@ -20,7 +20,7 @@ Moco: {
 	DisplayName: Моко
 
 	BossChecklistIntegration: {
-		SpawnInfo: Нажмите ПКМ по святыне носового бога, имея [i:Spooky/CottonSwab] в своём инвентаре.
+		SpawnInfo: Нажмите ПКМ по святыне носового Бога, имея [i:Spooky/CottonSwab] инвентаре.
 		DespawnMessage: Моко зачихал всех игроков.
 	}
 }
@@ -29,7 +29,7 @@ DaffodilEye: {
 	DisplayName: Нарцисс
 
 	BossChecklistIntegration: {
-		SpawnInfo: Бросьте в неё [i:Spooky/Brick], чтобы разбудить.
+		SpawnInfo: Бросьте [i:Spooky/Brick] в цветок, чтобы разбудить её.
 		DespawnMessage: Все игроки встретили свою смерть в цветах.
 	}
 }
@@ -292,8 +292,8 @@ ZomboidRain.DisplayName: Протекающий зомбоид
 ZomboidThorn.DisplayName: Зомбоид
 ZomboidTomatoMold.DisplayName: Помидорный зомбоид
 ZomboidTomato.DisplayName: Помидорный зомбоид
-ZomboidWarlock.DisplayName: Колдун-зомбоид
-WarlockSkull.DisplayName: Колдун-скелет
+ZomboidWarlock.DisplayName: Зомбоид-колдун
+WarlockSkull.DisplayName: Череп колдуна
 ZomboidWind.DisplayName: Зомбоид
 //valley of eyes
 EyeBat.DisplayName: Летучая глазомышь
@@ -371,7 +371,7 @@ NoseBallRed.DisplayName: Носольгама
 NoseCultistBruteIdle.DisplayName: ""
 NoseCultistBrute.DisplayName: Культист-палач
 NoseCultistGruntIdle.DisplayName: ""
-NoseCultistGrunt.DisplayName: Культист-пехотинец
+NoseCultistGrunt.DisplayName: Культист-солдат
 NoseCultistGunnerIdle.DisplayName: ""
 NoseCultistGunner.DisplayName: Культист-стрелок
 NoseCultistMageIdle.DisplayName: ""
