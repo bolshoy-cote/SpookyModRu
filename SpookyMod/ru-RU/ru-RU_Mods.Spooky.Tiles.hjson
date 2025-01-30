@@ -14,7 +14,7 @@ SpookyBiomeChest: {
 }
 
 SpookyHellChest: {
-	MapEntry0: Cундук глазастой долины
+	MapEntry0: Сундук глазастой долины
 	MapEntry1: Закрытый сундук глазастой долины
 }
 
@@ -53,7 +53,7 @@ SpookySpiritBoxTile.MapEntry: Музыкальная шкатулка
 CemeteryPylon.MapEntry: Пилон заболоченного кладбища
 SpiderCavePylon.MapEntry: Пилон паучьего грота
 SpookyBiomePylon.MapEntry: Пилон жуткого леса
-SpookyHellPylon.MapEntry: Пилон глазной долины
+SpookyHellPylon.MapEntry: Пилон глазастой долины
 FlyBigJar.MapEntry: Банка с большой мухой
 FlySmallJar.MapEntry: Банка с мухой
 OldWoodBathtub.MapEntry: Ванна
