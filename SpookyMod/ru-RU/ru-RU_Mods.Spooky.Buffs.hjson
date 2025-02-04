@@ -93,12 +93,12 @@ FleshWhipCooldown: {
 
 FleshWhipDefense: {
 	DisplayName: Беззащитный
-	Description: Глазной лазер снизил вашу защиту
+	Description: Глазной хлестатель снизил вашу защиту
 }
 
 FleshWhipDefense2: {
 	DisplayName: Беззащитный
-	Description: Глазной лазер снизил вашу защиту
+	Description: Глазной хлестатель снизил вашу защиту
 }
 
 FlowerArmorCooldown: {
@@ -461,7 +461,7 @@ GhostBanditDefense: {
 }
 
 GlassEyeDebuff: {
-	DisplayName: Дебафф глазного лазера
+	DisplayName: Дебафф глазного хлестателя
 	Description: ""
 }
 
