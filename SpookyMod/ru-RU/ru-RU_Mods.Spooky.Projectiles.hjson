@@ -383,76 +383,76 @@ EnergyHeart.DisplayName: Сердечная энергия
 EnergyHeartBolt.DisplayName: Кровавая энергия
 SentientKeybrandProj.DisplayName: Коренной маулер
 SentientKeybrandThrown.DisplayName: Коренной маулер
-OrganicChunk.DisplayName: Carrion Chunk
-SentientLeafBlowerProj.DisplayName: Carrion Chunker
+OrganicChunk.DisplayName: Кусок падали
+SentientLeafBlowerProj.DisplayName: Падальщик
 WingedBiomass.DisplayName: Летающая биомасса
 WingedBiomassFalling.DisplayName: Летающая биомасса
-WingedBiomassEye.DisplayName: Eye
-Billy.DisplayName: Billy Bone
-BillyFeather.DisplayName: Billy Feather
+WingedBiomassEye.DisplayName: Глаз
+Billy.DisplayName: Билли Кость
+BillyFeather.DisplayName: Перо Билли
 BiojetterBiomass.DisplayName: Биострулётная биомасса
-BillyPhantomPortal.DisplayName: Phantom Portal
-BillyPhantom.DisplayName: Billy Phantom
-GraveDiggerShovelSwung.DisplayName: Cemetery Digger's Shovel
-StrawberryBoost.DisplayName: Strawberry Boost
-MapleSeedBoost.DisplayName: Maple Seed Boost
-GooseberryBoost.DisplayName: Gooseberry Boost
-OrangeOrbiter.DisplayName: Angry Orange
-OrangeOrbiterTrail.DisplayName: Angry Orange
-BanditBruiserFist.DisplayName: Phantom Fist
-BanditWizardBall.DisplayName: Magic Blast
-BanditWizardBallSplitting.DisplayName: Magic Blast
-BanditWizardBallSmall.DisplayName: Magic Blast
-BanditPriestCross.DisplayName: Cross Bolt
-BanditPriestBall.DisplayName: Magic Blast
-BanditPriestBuffer.DisplayName: Shield Magic
-GhostSpawner1.DisplayName: Ghost Spawner
-GhostSpawner2.DisplayName: Ghost Spawner
-GhostSpawner3.DisplayName: Ghost Spawner
-GoblinEyeDebris.DisplayName: Bouncy Eye
-GoblinEyeDebrisGrounded.DisplayName: Bouncy Eye
-PeptoBubble.DisplayName: Pepto Bubble
-EarWormSound.DisplayName: Sound Wave
-EarWormSoundBase.DisplayName: Sound Wave
-EarParasite.DisplayName: Ear Parasite
-EarParasiteSound.DisplayName: Sound Wave
-EarParasiteSoundBase.DisplayName: Sound Wave
-VeinChainProj.DisplayName: Leeching Vein
-GooChomperProj.DisplayName: Corrosive Bite
-CoughSmokeCloud.DisplayName: Smoke Cloud
-CoughSmokeCloudSmall.DisplayName: Smoke Cloud
-KidneyRock.DisplayName: Kidney Rock
+BillyPhantomPortal.DisplayName: Фантомный портал
+BillyPhantom.DisplayName: Фантом Билли
+GraveDiggerShovelSwung.DisplayName: Лопата расхитителя могил
+StrawberryBoost.DisplayName: Клубничный усилитель
+MapleSeedBoost.DisplayName: Усилитель кленового семени
+GooseberryBoost.DisplayName: Крыжовниковый усилитель
+OrangeOrbiter.DisplayName: Злой апельсин
+OrangeOrbiterTrail.DisplayName: Злой апельсин
+BanditBruiserFist.DisplayName: Фантомная рука
+BanditWizardBall.DisplayName: Магический взрыв
+BanditWizardBallSplitting.DisplayName: Магический взрыв
+BanditWizardBallSmall.DisplayName: Магический взрыв
+BanditPriestCross.DisplayName: Крестовой выстрел
+BanditPriestBall.DisplayName: Магический взрыв
+BanditPriestBuffer.DisplayName: Магия щита
+GhostSpawner1.DisplayName: Место появления призраков
+GhostSpawner2.DisplayName: Место появления призраков
+GhostSpawner3.DisplayName: Место появления призраков
+GoblinEyeDebris.DisplayName: ОТскакивающий глаз
+GoblinEyeDebrisGrounded.DisplayName: Отскакивающий глаз
+PeptoBubble.DisplayName: Пепто-пузырь
+EarWormSound.DisplayName: Звуковая волна
+EarWormSoundBase.DisplayName: Звуковая волна
+EarParasite.DisplayName: Ушной паразит
+EarParasiteSound.DisplayName: Звуковая волна
+EarParasiteSoundBase.DisplayName: Звуковая волна
+VeinChainProj.DisplayName: Кровососущая вена
+GooChomperProj.DisplayName: Разлагающий укус
+CoughSmokeCloud.DisplayName: Дымовое облако
+CoughSmokeCloudSmall.DisplayName: Дымовое облако
+KidneyRock.DisplayName: Камень из почки
 SnotBlessingOrbiter.DisplayName: Комок соплей
-LingeringEyeBolt.DisplayName: Lingering Eye Bolt
-FlameIdolAura.DisplayName: Flame Combustion
-FlameIdolRing.DisplayName: Flame Ring
-GlassEye.DisplayName: Glass Eye
-StitchedCloakWeb.DisplayName: Stitched Cloak Web
-SewingNeedle.DisplayName: Sewing Needle
-Tumbleweed.DisplayName: Tumbleweed
-MistGhostMiniFace.DisplayName: Mistling
-BanditBruiserMinion.DisplayName: Rarg's Spirit
-BanditPriestMinion.DisplayName: Blueford's Spirit
-BanditWizardMinion.DisplayName: Greeny's Spirit
-BanditWizardMinionBall.DisplayName: Magic Blast
-BanditPriestMinionBuffer.DisplayName: Shield Magic
-MapleSeedBooster.DisplayName: Maple Seed Booster
-OrroboroPet.DisplayName: Orroboro Pet
-VenomHarpoonProj.DisplayName: Venomous Spiderpoon
-VenomHarpoonSpike.DisplayName: Venom Harpoon
+LingeringEyeBolt.DisplayName: Затяжной глазной выстрел
+FlameIdolAura.DisplayName: Жаркое пламя
+FlameIdolRing.DisplayName: Огненное кольцо
+GlassEye.DisplayName: Стеклянный глаз
+StitchedCloakWeb.DisplayName: Сшитая из паутины накидка
+SewingNeedle.DisplayName: Шьющая игла
+Tumbleweed.DisplayName: Перекати-поле
+MistGhostMiniFace.DisplayName: Туманник
+BanditBruiserMinion.DisplayName: Дух Рарга
+BanditPriestMinion.DisplayName: Дух Блюфорда
+BanditWizardMinion.DisplayName: Дух Грини
+BanditWizardMinionBall.DisplayName: Магический взрыв
+BanditPriestMinionBuffer.DisplayName: Магия щита
+MapleSeedBooster.DisplayName: Усилитель кленового семени
+OrroboroPet.DisplayName: Орроборо-питомец
+VenomHarpoonProj.DisplayName: Ядовытий паукорпун
+VenomHarpoonSpike.DisplayName: Ядовытий гарпун
 VenomHarpoonSpit.DisplayName: Ядовитый плевок
-ZomboidArmoredLightning.DisplayName: Lightning
-EntityMinion1.DisplayName: Mini Entity
-EntityMinion2.DisplayName: Mini Entity
-EntityMinion3.DisplayName: Mini Entity
-FleshBolsterBuffer.DisplayName: Flesh Bolster Buffer
-ZombieCultistPet.DisplayName: Zombie Cultist
-BeePet.DisplayName: Pollinator Bee
-RatPet.DisplayName: Albino Rat
-PuttyPet1.DisplayName: Putty Slime
-PuttyPet2.DisplayName: Putty Slime
-PuttyPet3.DisplayName: Putty Slime
-PuttyPetDisplay.DisplayName: Putty Display
+ZomboidArmoredLightning.DisplayName: Молния
+EntityMinion1.DisplayName: Маленькая сущность
+EntityMinion2.DisplayName: Маленькая сущность
+EntityMinion3.DisplayName: Маленькая сущность
+FleshBolsterBuffer.DisplayName:Хранилище лечащей плоти
+ZombieCultistPet.DisplayName: Зомби-культист
+BeePet.DisplayName: Опыляющая пчела
+RatPet.DisplayName: Крыса Альбино
+PuttyPet1.DisplayName: Замазочный слайм
+PuttyPet2.DisplayName: Замазочный слайм
+PuttyPet3.DisplayName: Замазочный слайм
+PuttyPetDisplay.DisplayName: Замазочный дисплей
 FleshAxeProj.DisplayName: Мясорубка
-LivingFleshAxeProj.DisplayName: Living Мясорубка
-BouncingBone.DisplayName: Bouncing Bone
+LivingFleshAxeProj.DisplayName: Живая мясорубка
+BouncingBone.DisplayName: Отскакивающая кость
