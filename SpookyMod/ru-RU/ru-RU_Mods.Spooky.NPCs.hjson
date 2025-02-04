@@ -118,11 +118,11 @@ CatacombCrusher1.DisplayName: Древний крушитель
 CatacombCrusher2.DisplayName: Древний крушитель
 CatacombCrusher3.DisplayName: Древний крушитель
 CatacombCrusher4.DisplayName: Позолоченный крушитель
-CelebrationSkeletoid1.DisplayName: Усопший скелетоноид
-CelebrationSkeletoid2.DisplayName: Усопший скелетоноид
-CelebrationSkeletoid3.DisplayName: Усопший скелетоноид
-CelebrationSkeletoid4.DisplayName: Усопший скелетоноид
-CelebrationSkeletoid5.DisplayName: Усопший скелетоноид
+CelebrationSkeletoid1.DisplayName: Усопший скелетоид
+CelebrationSkeletoid2.DisplayName: Усопший скелетоид
+CelebrationSkeletoid3.DisplayName: Усопший скелетоид
+CelebrationSkeletoid4.DisplayName: Усопший скелетоид
+CelebrationSkeletoid5.DisplayName: Усопший скелетоид
 Dahlia.DisplayName: Дивагеоргина
 DahliaEye.DisplayName: Дивагеоргина
 FlushBush1.DisplayName: Плачущий куст
@@ -153,7 +153,7 @@ PlantTrap5.DisplayName: Цветущий ловец
 PlantTrap6.DisplayName: Цветущий ловец
 PollinatorBeeDamage.DisplayName: Пчела-опыльтельница
 PollinatorBeeHealing.DisplayName: Пчела-опыльтельница
-SkeletoidBandit.DisplayName: Скелетоноид-бандит
+SkeletoidBandit.DisplayName: Скелетоид-бандит
 Smelly.DisplayName: Зловоние
 Sunflower1.DisplayName: Подкрадывающийся подсолнух
 Sunflower3.DisplayName: Подкрадывающийся подсолнух
