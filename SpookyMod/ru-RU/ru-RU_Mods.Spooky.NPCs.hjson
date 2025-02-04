@@ -11,7 +11,7 @@ SpookySpirit: {
 	DisplayName: Жуткий дух
 
 	BossChecklistIntegration: {
-		SpawnInfo: Нажмите ПКМ по проклятой статуе на заболоченном кладбище ночью, имея [i:Spooky/EMFReader] инвентаре.
+		SpawnInfo: Нажмите ПКМ по проклятой статуе на заболоченном кладбище ночью, держа [i:Spooky/EMFReader] в своём инвентаре.
 		DespawnMessage: Жуткий дух запугал всех игроков.
 	}
 }
@@ -20,7 +20,7 @@ Moco: {
 	DisplayName: Моко
 
 	BossChecklistIntegration: {
-		SpawnInfo: Нажмите ПКМ по святыне носового Бога, имея [i:Spooky/CottonSwab] инвентаре.
+		SpawnInfo: Нажмите ПКМ по святыне носового Бога, держа [i:Spooky/CottonSwab] в своём инвентаре.
 		DespawnMessage: Моко зачихал всех игроков.
 	}
 }
@@ -39,7 +39,7 @@ OrroHead: {
 
 	BossChecklistIntegration: {
 		EntryName: Орро и Боро
-		SpawnInfo: Нажмите ПКМ по гигантскому яйцу в глазастой долине, имея [i:Spooky/Concoction] в своём инвентаре, после завершения события Яичного нашествия.
+		SpawnInfo: Нажмите ПКМ по гигантскому яйцу в глазастой долине, держа [i:Spooky/Concoction] в своём инвентаре, после завершения события Яичного нашествия.
 		DespawnMessage: Орро и Боро защитили своё яйцо.
 	}
 }
