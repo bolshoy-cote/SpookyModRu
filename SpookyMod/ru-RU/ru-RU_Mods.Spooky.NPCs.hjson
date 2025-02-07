@@ -64,9 +64,9 @@ DaffodilBody.DisplayName: ""
 DaffodilHandLeft.DisplayName: Нарцисс
 DaffodilHandRight.DisplayName: Нарцисс
 DaffodilArenaBG.DisplayName: ""
-MoclingMinion.DisplayName: Моксит
-MocoIntro.DisplayName: Моксит
-MocoOutro.DisplayName: Моксит
+MoclingMinion.DisplayName: Моклёнок
+MocoIntro.DisplayName: Моклёнок
+MocoOutro.DisplayName: Моклёнок
 MocoSpawner.DisplayName: ""
 BoroBody.DisplayName: Боро
 BoroBodyConnect.DisplayName: Боро
@@ -309,7 +309,7 @@ Tortumor.DisplayName: Болепухоль
 TortumorFleshy.DisplayName: Болепухоль
 TortumorGiant.DisplayName: Гигантская болепухоль
 TortumorGiantFleshy.DisplayName: Гигантская болепухоль
-Mocling.DisplayName: Моксит
+Mocling.DisplayName: Моклёнок
 MoclingSwarm.DisplayName: ""
 ValleyFish.DisplayName: Подглядывающая рыба
 ValleyNautilus.DisplayName: Кроваво-красный моллюск
