@@ -228,7 +228,7 @@ FlyPetBuff: {
 
 FuzzBatPetBuff: {
 	DisplayName: Бестолковая летучая плюшомышь
-	Description: Он не понимает почему, но ему нравится летать за вами
+	Description: Она не понимает почему, но ему нравится летать за вами
 }
 
 GhostPetBuff: {
