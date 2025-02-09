@@ -1398,7 +1398,7 @@ SummonItem4: {
 }
 
 RootBody: {
-	DisplayName: Нагрудная пластина из корней
+	DisplayName: Латы из корней
 	Tooltip: Увеличивает стрелковый урона на 12%
 }
 
@@ -1667,7 +1667,7 @@ GourdHead: {
 }
 
 GourdLegs: {
-	DisplayName: Штаны прогнившей тыквы
+	DisplayName: Поножи прогнившей тыквы
 	Tooltip: Увеличивает скорость ближнего боя на 5%
 }
 
@@ -1959,7 +1959,7 @@ EyeHead: {
 }
 
 EyeLegs: {
-	DisplayName: Ботинки из ожившей плоти
+	DisplayName: Поножи из ожившей плоти
 	Tooltip:
 		'''
 		Увеличивает урон призывателя на 6%
