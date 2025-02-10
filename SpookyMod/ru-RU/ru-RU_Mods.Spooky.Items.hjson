@@ -1398,7 +1398,7 @@ SummonItem4: {
 }
 
 RootBody: {
-	DisplayName: Латы из корней
+	DisplayName: Нагрудная пластина из корней
 	Tooltip: Увеличивает стрелковый урона на 12%
 }
 
@@ -1667,7 +1667,7 @@ GourdHead: {
 }
 
 GourdLegs: {
-	DisplayName: Поножи прогнившей тыквы
+	DisplayName: Штаны прогнившей тыквы
 	Tooltip: Увеличивает скорость ближнего боя на 5%
 }
 
@@ -1959,7 +1959,7 @@ EyeHead: {
 }
 
 EyeLegs: {
-	DisplayName: Поножи из ожившей плоти
+	DisplayName: Ботинки из ожившей плоти
 	Tooltip:
 		'''
 		Увеличивает урон призывателя на 6%
@@ -2246,6 +2246,7 @@ SentientLeafBlower: {
 		«Чистосердечно, от всего сердца»
 		'''
 }
+
 SentientLeatherWhip: {
 	DisplayName: Облизыватель
 	Tooltip:
@@ -2551,6 +2552,7 @@ SnotMedication: {
 	DisplayName: Антигистаминные таблетки
 	Tooltip: Каждое получение дебаффа «{$BuffName.OgreSpit}» заменяет его на «Железную кожу», «Регенерацию» или «Стремительность»
 }
+
 SnotRocket: {
 	DisplayName: Соплевая ракета
 	Tooltip:
@@ -3003,94 +3005,117 @@ NoseTemplePlatformRedItem: {
 	DisplayName: Красная оккультная платформа
 	Tooltip: ""
 }
+
 AmbushPaintingItem: {
 	DisplayName: Картина «Засада»
 	Tooltip: «Hat in a River»
 }
+
 BaxterPaintingItem: {
 	DisplayName: Портрет Бакстера
 	Tooltip: «Waasephi»
 }
+
 FireExitSignItem: {
 	DisplayName: Знак пожарного выхода
 	Tooltip: ""
 }
+
 LuigiPaintingItem: {
 	DisplayName: Картина «Луиджи»
 	Tooltip: «Waasephi»
 }
+
 MonalumboItem: {
 	DisplayName: Картина «Моналимбо»
 	Tooltip: «Waasephi»
 }
+
 RedMistPaintingItem: {
 	DisplayName: Картина «Красный туман»
 	Tooltip: «RocketLauncher»
 }
+
 ShadowEyePaintingItem: {
 	DisplayName: Картина «Глаз»
 	Tooltip: «???»
 }
+
 NoseTempleBrickGreenItem: {
 	DisplayName: Зелёный оккультный кирпич
 	Tooltip: ""
 }
+
 NoseTempleBrickPurpleItem: {
 	DisplayName: Фиолетовый оккультный кирпич
 	Tooltip: ""
 }
+
 NoseTempleBrickGrayItem: {
 	DisplayName: Серый оккультный кирпич
 	Tooltip: ""
 }
+
 NoseTempleBrickRedItem: {
 	DisplayName: Красный оккультный кирпич
 	Tooltip: ""
 }
+
 NoseTempleFancyBrickGreenItem: {
 	DisplayName: Зелёная оккультная плита
 	Tooltip: ""
 }
+
 NoseTempleFancyBrickPurpleItem: {
 	DisplayName: Фиолетовая оккультная плита
 	Tooltip: ""
 }
+
 NoseTempleFancyBrickGrayItem: {
 	DisplayName: Серая оккультная плита
 	Tooltip: ""
 }
+
 NoseTempleFancyBrickRedItem: {
 	DisplayName: Красная оккультная плита
 	Tooltip: ""
 }
+
 NoseTempleFancyWallGreenItem: {
 	DisplayName: Стена из зелёной оккультной плиты
 	Tooltip: ""
 }
+
 NoseTempleFancyWallPurpleItem: {
 	DisplayName: Стена из фиолетовой оккультной плиты
 	Tooltip: ""
 }
+
 NoseTempleFancyWallGrayItem: {
 	DisplayName: Стена из серой оккультной плиты
 	Tooltip: ""
 }
+
 NoseTempleFancyWallRedItem: {
 	DisplayName: Стена из красной оккультной плиты
 	Tooltip: ""
 }
+
 NoseTempleWallGreenItem: {
 	DisplayName: Стена из зелёного оккультного кирпича
 	Tooltip: ""
 }
+
 NoseTempleWallPurpleItem: {
 	DisplayName: Стена из фиолетового оккультного кирпича
 	Tooltip: ""
 }
+
 NoseTempleWallGrayItem: {
 	DisplayName: Стена из серого оккультного кирпича
 	Tooltip: ""
 }
+
 NoseTempleWallRedItem: {
 	DisplayName: Стена из красного оккультного кирпича
 	Tooltip: ""
