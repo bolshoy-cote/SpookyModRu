@@ -1,33 +1,34 @@
-SpookySolutionProj.DisplayName: Распыление жути
-CemeterySolutionProj.DisplayName: Распыление кладбища
-SpookyHellSolutionProj.DisplayName: Распыление глазной долины
-BigBoneThorn.DisplayName: Колючая лоза
-BigBoneThornTelegraph.DisplayName: Предупреждение
-BoneWisp.DisplayName: Осколок черепа
-BouncingFlower.DisplayName: Цветок
-DefensiveFlowerSeed.DisplayName: Семя цветка
-FlamingWisp.DisplayName: Огненный осколок черепа
-FlowerSpore.DisplayName: Цветочная спора
-GiantFlameBall.DisplayName: Огненный взрыв
-HealingFlowerSeed.DisplayName: Семя цветка
-HomingFlower.DisplayName: Цветок
-MassiveFlameBall.DisplayName: Огненный взрыв
-MassiveFlameBallBolt.DisplayName: Солнечный взрыв
-RazorRose.DisplayName: Бритвенная роза
-SolarThorn.DisplayName: Солнечный шип
-GiantSnot.DisplayName: Комок соплей
-LingeringSnot.DisplayName: Кучка соплей
-SnotBall.DisplayName: Комок соплей
-LingeringSnotBall.DisplayName: Комок соплей
-AcidBreath.DisplayName: Кислотное дыхание
-AcidTarget.DisplayName: Предупреждение
-BoroBiomatter.DisplayName: Биомасса
-EyeSpit.DisplayName: Комок слюны
-EyeSpit2.DisplayName: Комок слюны
-OrroBiomatter.DisplayName: Биомасса
+"//" - проверенные
+//SpookySolutionProj.DisplayName: Распыление жути
+//CemeterySolutionProj.DisplayName: Распыление кладбища
+//SpookyHellSolutionProj.DisplayName: Распыление глазной долины
+//BigBoneThorn.DisplayName: Колючая лоза
+//BigBoneThornTelegraph.DisplayName: Предупреждение
+//BoneWisp.DisplayName: Череп-огонёк
+//BouncingFlower.DisplayName: Цветок
+//DefensiveFlowerSeed.DisplayName: Цветочное семя
+//FlamingWisp.DisplayName: Пылающий череп-огонёк
+//FlowerSpore.DisplayName: Цветочная спора
+//GiantFlameBall.DisplayName: Пламенный залп
+//HealingFlowerSeed.DisplayName: Цветочное семя
+//HomingFlower.DisplayName: Цветок
+//MassiveFlameBall.DisplayName: Пламенный залп
+//MassiveFlameBallBolt.DisplayName: Солнечный залп
+//RazorRose.DisplayName: Бритвенная роза
+//SolarThorn.DisplayName: Солнечная лоза
+//GiantSnot.DisplayName: Сопленой шар
+//LingeringSnot.DisplayName: Кучка соплей
+//SnotBall.DisplayName: Сопленой шар
+//LingeringSnotBall.DisplayName: Сопленой шар
+//AcidBreath.DisplayName: Кислотное дыхание
+//AcidTarget.DisplayName: Предупреждение
+//BoroBiomatter.DisplayName: Биомасса
+//EyeSpit.DisplayName: Комок слюны
+//EyeSpit2.DisplayName: Комок слюны
+//OrroBiomatter.DisplayName: Биомасса
 DirtDebris.DisplayName: Остатки земли
-MoldSpore.DisplayName: Плесневая спора
-RotFly.DisplayName: Муха
+//MoldSpore.DisplayName: Проплесневевшая спора
+//RotFly.DisplayName: Муха
 EyeBeam.DisplayName: Глазной луч
 EyeBeamTelegraph.DisplayName: Предупреждение
 EyeBolt.DisplayName: Глазной выстрел
@@ -289,7 +290,7 @@ SpiderSlingshotProj.DisplayName: Метатель паутины
 SpiderSlingshotWeb.DisplayName: Комок паутины
 RazorRoseTelegraph.DisplayName: Предупреждение
 RazorRoseTelegraphLockOn.DisplayName: Предупреждение
-RazorRoseOrange.DisplayName: Огненная роза
+//RazorRoseOrange.DisplayName: Пылающая роза
 BoneBowProj.DisplayName: Сгибатель костей
 BoneBowArrow.DisplayName: Прошивающая кость
 HighVelocitySlingshotProj.DisplayName: Высокоскоростная рогатка
@@ -455,4 +456,4 @@ PuttyPet3.DisplayName: Замазочный слайм
 PuttyPetDisplay.DisplayName: Замазочный дисплей
 FleshAxeProj.DisplayName: Мясорубка
 LivingFleshAxeProj.DisplayName: Живая мясорубка
-BouncingBone.DisplayName: Отскакивающая кость
+//BouncingBone.DisplayName: Отскакивающая кость 
