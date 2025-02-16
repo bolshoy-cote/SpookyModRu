@@ -26,26 +26,26 @@
 //EyeSpit.DisplayName: Комок слюны
 //EyeSpit2.DisplayName: Комок слюны
 //OrroBiomatter.DisplayName: Биомасса
-DirtDebris.DisplayName: Остатки земли
+//DirtDebris.DisplayName: Обломки земли
 //MoldSpore.DisplayName: Проплесневевшая спора
 //RotFly.DisplayName: Муха
-EyeBeam.DisplayName: Глазной луч
-EyeBeamTelegraph.DisplayName: Предупреждение
-EyeBolt.DisplayName: Глазной выстрел
-PhantomBomb.DisplayName: Черепная бомба
-PhantomExplosion.DisplayName: Фантомный взрыв
-PhantomSeed.DisplayName: Фантомное семя
-PhantomSkullProj.DisplayName: Фантомный череп
-CruxAura.DisplayName: Аура замедления
-SalivaBall.DisplayName: Ядовитый плевок
-TumorOrb.DisplayName: Кусок плоти
-BigBoneHammerProj.DisplayName: Черепной крушитель
-BigBoneHammerProj2.DisplayName: Черепной крушитель
-BoneMaskWisp.DisplayName: Осколок черепа
-BowFlower.DisplayName: Бритвенная роза
-BowFlowerThorn.DisplayName: Шипастая лоза
-BowThornFlower.DisplayName: Шипастый цветок
-FireBeam.DisplayName: Огненный луч
+//EyeBeam.DisplayName: Глазной луч
+//EyeBeamTelegraph.DisplayName: Предупреждение
+//EyeBolt.DisplayName: Глазной выстрел
+//PhantomBomb.DisplayName: Бомба-череп
+//PhantomExplosion.DisplayName: Призрачный взрыв
+//PhantomSeed.DisplayName: Призрачное семя
+//PhantomSkullProj.DisplayName: Череп-призрак
+//CruxAura.DisplayName: Истощающая аура
+//SalivaBall.DisplayName: Ядовитый плевок
+//TumorOrb.DisplayName: Кусок плоти
+//BigBoneHammerProj.DisplayName: Череполом
+//BigBoneHammerProj2.DisplayName: Череполом
+//BoneMaskWisp.DisplayName: Череп-огонёк
+//BowFlower.DisplayName: Бритвенная роза
+//BowFlowerThorn.DisplayName: Шипастая лоза
+//BowThornFlower.DisplayName: Шипастый цветок
+//FireBeam.DisplayName: Огненный луч
 GlowBulbProj.DisplayName: Светящийся бутон
 GlowBulbThorn.DisplayName: Шипастый бутон
 GraveCrossbowArrow.DisplayName: Арбалетная стрела
