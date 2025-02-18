@@ -44,7 +44,7 @@ CatacombDebuff: {
 
 CrossCooldown: {
 	DisplayName: Перезарядка крестика-оберега
-	Description: Защита от вашего оберега востанавливается
+	Description: Защита, даруемая вашим оберегом, востанавливается
 }
 
 EmbryoCooldown: {
@@ -103,7 +103,7 @@ FleshWhipDefense2: {
 
 FlowerArmorCooldown: {
 	DisplayName: Перезардка распыления
-	Description: Вы пока не можете вызвать пыльцу
+	Description: Вы временно не можете вызвать пыльцу
 }
 
 FlyCooldown: {
@@ -118,12 +118,12 @@ GourdDecay: {
 
 PandoraCrossCooldown: {
 	DisplayName: Перезарядка баса креста
-	Description: Вы пока не можете активировать способность креста
+	Description: Вы временно не можете активировать способность креста
 }
 
 PandoraHandCooldown: {
 	DisplayName: Перезарядка летающих рук розария
-	Description: Летающие руки розария пока не могут появится
+	Description: Летающие руки розария временно не могут появится
 }
 
 Possessed: {
@@ -228,7 +228,7 @@ FlyPetBuff: {
 
 FuzzBatPetBuff: {
 	DisplayName: Бестолковая летучая плюшомышь
-	Description: Она не понимает почему, но ему нравится летать за вами
+	Description: Она не понимает почему, но ей нравится летать за вами
 }
 
 GhostPetBuff: {
@@ -293,7 +293,7 @@ StickyEyeBuff: {
 
 ValleyNautilusBuff: {
 	DisplayName: Маленький моллюск
-	Description: Вас приследует маленький и дружелюбный моллюск
+	Description: Вас преследует маленький и дружелюбный моллюск
 }
 
 AlternateCooldown: {
@@ -472,7 +472,7 @@ GlassEyeCooldown: {
 
 StitchedCloakCooldown: {
 	DisplayName: Перезарядка сшитого плаща
-	Description: Вы не можете использовать рывок сшытого плаща
+	Description: Вы не можете использовать рывок сшитого плаща
 }
 
 StitchedCloakWebSlow: {
