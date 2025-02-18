@@ -46,21 +46,21 @@
 //BowFlowerThorn.DisplayName: Шипастая лоза
 //BowThornFlower.DisplayName: Шипастый цветок
 //FireBeam.DisplayName: Огненный луч
-GlowBulbProj.DisplayName: Светящийся бутон
-GlowBulbThorn.DisplayName: Шипастый бутон
-GraveCrossbowArrow.DisplayName: Арбалетная стрела
-GraveCrossbowProj.DisplayName: Могильный арбалет
-NineTailsProj.DisplayName: Девять хвостов
-SkullTotem.DisplayName: Черепной тотем
-SoulBolt.DisplayName: Духовный выстрел
-SoulSkullBolt.DisplayName: Духовный выстрел
-SoulSkullMinion.DisplayName: Духовный череп
-StaffFireBolt.DisplayName: Солнечный выстрел
-ThornStaffBall.DisplayName: Шипастый шар
-AmuletSeed.DisplayName: Призрачный выстрел
-PumpkinHead.DisplayName: Тыквенная голова
-PumpkinHeadBolt.DisplayName: Жуткий выстрел
-ScrollPumpkin.DisplayName: Магия тыквы
+//GlowBulbProj.DisplayName: Светящийся бутон
+//GlowBulbThorn.DisplayName: Шип бутона
+//GraveCrossbowArrow.DisplayName: Арбалетная стрела
+//GraveCrossbowProj.DisplayName: Арбалет старого охотника
+//NineTailsProj.DisplayName: Девятихвостка
+//SkullTotem.DisplayName: Идол черепов
+//SoulBolt.DisplayName: Удар души
+//SoulSkullBolt.DisplayName: Удар души
+//SoulSkullMinion.DisplayName: Череп-дух
+//StaffFireBolt.DisplayName: Солнечный залп
+//ThornStaffBall.DisplayName: Комок шипов
+//AmuletSeed.DisplayName: Духовная частичка
+//PumpkinHead.DisplayName: Отрубленная голова
+//PumpkinHeadBolt.DisplayName: Жуткий выстрел
+//ScrollPumpkin.DisplayName: Магическая тыковка
 SlingshotBall.DisplayName: Ужасающий шар
 SpiritHand.DisplayName: Духовная рука
 SpiritScrollHoldout.DisplayName: Жуткий свиток
