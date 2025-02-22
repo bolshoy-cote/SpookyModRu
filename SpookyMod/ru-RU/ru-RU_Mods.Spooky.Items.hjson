@@ -2424,7 +2424,7 @@ MouthFlamethrower: {
 }
 
 Scycler: {
-	DisplayName: Косокрут
+	DisplayName: Косоврат
 	Tooltip: Бросает чакрам, который преследует курсор перед тем как вернуться к вам
 }
 
@@ -2550,7 +2550,7 @@ SnotBullet: {
 
 SnotMedication: {
 	DisplayName: Антигистаминные таблетки
-	Tooltip: Заменяет дебафф «{$BuffName.OgreSpit}» на «Железную кожу», «Регенерацию» или «Стремительность»
+	Tooltip: При получении дебаффа «{$BuffName.OgreSpit}», заменяет его на «Железную кожу», «Регенерацию» или «Стремительность»
 }
 
 SnotRocket: {
