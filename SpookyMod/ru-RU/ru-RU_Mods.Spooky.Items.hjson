@@ -1404,7 +1404,7 @@ RootBody: {
 
 RootHead: {
 	DisplayName: Маска из корней
-	Tooltip: Увеличивает стрелковый шанс критического удара на 5%
+	Tooltip: Увеличивает шанс стрелкового критического удара на 5%
 }
 
 RootLegs: {
@@ -1693,7 +1693,7 @@ WizardGangsterBody: {
 
 WizardGangsterHead: {
 	DisplayName: Позолоченная шляпа волшебника
-	Tooltip: Увеличивает магический шанс критического удара на 5%
+	Tooltip: Увеличивает шанс магического критического удара на 5%
 }
 
 WizardGangsterHead2: {
