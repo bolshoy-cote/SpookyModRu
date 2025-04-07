@@ -1,6 +1,6 @@
 BustlingGlowshroomHeal: {
 	DisplayName: Регенерация светящихся грибов
-	Description: Скороть регенерации вашего здоровья значительно увеличена
+	Description: Скороcть регенерации вашего здоровья значительно увеличена
 }
 
 DaffodilHairpinCooldown: {
@@ -203,7 +203,7 @@ SkullTotemBuff: {
 
 TortumorMinionBuff: {
 	DisplayName: Дружественная болепухоль
-	Description: Болепухоль будет сражаться зав ас
+	Description: Болепухоль будет сражаться за вас
 }
 
 BigBonePetBuff: {
@@ -213,7 +213,7 @@ BigBonePetBuff: {
 
 CatBuff: {
 	DisplayName: Чёрный котёнок
-	Description: Зловещий чёрный котёнок, приследующий вас
+	Description: Зловещий чёрный котёнок, преследующий вас
 }
 
 ColumboBuff: {
@@ -243,7 +243,7 @@ MocoPetBuff: {
 
 PandoraBeanBuff: {
 	DisplayName: Фон Ангустон VI
-	Description: Древняя королевсткая особа приследует вас
+	Description: Древняя королевсткая особа преследует вас
 }
 
 PetscopBuff: {
