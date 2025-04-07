@@ -5,5 +5,5 @@ PandoraBox: {
 
 EggEvent: {
 	EntryName: Яичное нашествие
-	SpawnInfo: Нажмите ПКМ по огромному яйцу в глазастой долине, держа [i:Spooky/Concoction] в своём инвентаре или [i:Spooky/StrangeCyst], если вы уже проходили событие.
+	SpawnInfo: Нажмите ПКМ по огромному яйцу в глазастой долине, держа в своём инвентаре [i:Spooky/Concoction] или [i:Spooky/StrangeCyst], если вы уже проходили событие.
 }
